@@ -82,11 +82,11 @@ chapitre("partie0/P00_tiroir.tex", 0, "Le Schéma Directeur Dort dans un Tiroir"
  ["Reconnaître un schéma directeur qui ne sert pas.", "Poser les trois questions du cours~: aligné, finançable, gouverné.",
   "Coter une proposition \\OUI{}, \\NON{} ou \\NEK{} avec une pièce.", "Situer les trois organisations du cours."],
  "« nous en avons déjà un »", r"""
-Yaoundé, mardi 14~janvier~2025. L'Agence nationale de paiement des prestations\footnote{L'ANPP, ses dirigeants,
+Yaoundé, mardi 14~janvier~2025. L'Agence nationale de paiement des prestations publiques\footnote{L'ANPP, ses dirigeants,
 ses projets et ses chiffres sont fictifs, comme LiZbiZ, la BANQUE SANAGA et le cabinet AUDIX CONSEIL. Ces
 organisations figurent dans d'autres cours de l'auteur.}, l'ANPP, verse chaque mois des prestations à
 186\,000~bénéficiaires par dix antennes régionales. Elle emploie 412~agents. Son conseil d'administration vient de
-commander un schéma directeur pour 2025-2029 au cabinet AUDIX CONSEIL.
+commander un schéma directeur pour 2025-2029 au cabinet AUDIX CONSEIL. Entre les deux, une révision adoptée en 2023 avait resserré le portefeuille sur neuf projets pour 14~milliards de FCFA. Aucun comité ne l'a suivie. Le schéma 2025-2029 la met à jour.
 
 À la réunion de lancement, la cheffe de la division informatique, Mme~NGO~BIYONG, pose un classeur sur la
 table. « Nous en avons déjà un. Il couvrait 2019 à 2023. Je suis arrivée en 2021 et personne ne m'en a parlé. »

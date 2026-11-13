@@ -11,7 +11,7 @@ SPEC = [
     O(["Dresser le **bilan chiffré** d'un schéma directeur échu", "Poser les **trois questions** : aligné, finançable, gouverné",
        "Coter une proposition **OUI, NON ou NEK** avec sa pièce", "Distinguer **stratégie, système d'information, numérique**",
        "Citer les **six pièces** d'un schéma directeur", "Fixer un **horizon** et une fréquence de révision"]),
-    SC("Le document que personne n'a ouvert", "Mission ANPP · 14 janvier 2025", ["L'Agence nationale de paiement des prestations verse chaque mois des prestations à **186 000 bénéficiaires**. Elle compte 412 agents et dix antennes.",
+    SC("Le document que personne n'a ouvert", "Mission ANPP · 14 janvier 2025", ["L'Agence nationale de paiement des prestations publiques verse chaque mois des prestations à **186 000 bénéficiaires**. Elle compte 412 agents et dix antennes.",
         "Son schéma directeur 2019-2023 compte **214 pages**. L'étude avait coûté 86 millions de FCFA.",
         "Le directeur général, M. OWONA, commande un nouveau document au cabinet AUDIX CONSEIL. Le chef de mission, M. BEYALA, commence par ouvrir l'ancien."],
         "L'ANPP est fictive. Elle sert de fil rouge à tout le cours."),

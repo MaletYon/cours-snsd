@@ -33,7 +33,7 @@ SPEC = [
     ST("Déclarer les référentiels d'un schéma directeur", "Procédure du chapitre", [("Textes", "Recenser les textes obligatoires qui s'appliquent."), ("Contrats", "Recenser ce qu'exigent un contrat, un bailleur, un superviseur."),
         ("Choix", "Pour chaque besoin restant, **un seul** référentiel volontaire."), ("Écriture", "Lister l'édition et l'usage de chacun."), ("Formule", "Jamais « conforme à ». Écrire « **établi selon** ».")]),
     SC("Trois noms sur une couverture", "BANQUE SANAGA · 21 octobre 2026", ["Le schéma directeur remis au superviseur en 2024 portait la mention « **conforme à COBIT, ITIL et TOGAF** ».",
-        "Mme NKENG, responsable du contrôle de second niveau, a cherché sur quoi reposait la phrase. Ni liste des objectifs retenus, ni édition, ni évaluation.",
+        "Mme EWANE, responsable du contrôle de second niveau, a cherché sur quoi reposait la phrase. Ni liste des objectifs retenus, ni édition, ni évaluation.",
         "Après la panne, le superviseur a posé la même question. La banque n'a rien pu produire."], "On est conforme à un texte ou certifié selon une norme, sur un périmètre et à une date."),
     METIERS3(("Administrateur", "Demander chaque année ce qui a été évalué, ce qui a été décidé, ce qui a été constaté."),
              ("Directeur des systèmes d'information", "Tenir la liste des référentiels employés, avec leur édition."),
