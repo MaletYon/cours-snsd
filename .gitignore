@@ -1,0 +1,28 @@
+# Fichiers de compilation LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.log
+*.out
+*.run.xml
+*.toc
+*.synctex.gz
+texput.log
+# Python
+__pycache__/
+# Livret de correction : dépôt privé séparé
+corriges/
+SNSD_correction.tex
+SNSD_correction.pdf
+# Documents sous licence, à ne jamais publier
+Normes/
+# Notes de travail
+Claude outputs/
+_sources_generation/corr*
+SNSD_correction.*

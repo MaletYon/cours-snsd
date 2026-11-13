@@ -1,0 +1,184 @@
+# -*- coding: utf-8 -*-
+from ch import *
+corps = sec("Ce que Cadrer Veut Dire", "sec:c08-cadrer") + r"""
+Cadrer, c'est répondre par écrit à six questions avant de commencer. Tant qu'une réponse manque, le diagnostic
+ne démarre pas.
+
+""" + tab("L{3.0cm}L{4.4cm}L{4.6cm}", ["Question", "Ce qu'il faut écrire", "Réponse de l'ANPP"], [
+    ["Pourquoi", "Le fait qui déclenche la démarche", "Document de 2021 échu, panne de mars 2026"],
+    ["Pour qui", "Le commanditaire et l'organe qui approuve", "Directeur général, conseil d'administration"],
+    ["Sur quoi", "Le périmètre~: entités, métiers, systèmes", "Siège et dix antennes, 47 applications"],
+    ["Jusqu'où", "L'horizon et le niveau d'ambition", "2027-2031, enveloppe à fixer"],
+    ["Avec qui", "Les instances et leurs membres", "Trois instances, Tableau~8.2"],
+    ["Pour quand", "Le calendrier et les livrables", "12 janvier au 24 juin 2027"]],
+    "Les six questions du cadrage", "8.1") + r"""
+
+Le produit du cadrage est une \termecle{note de cadrage}. Elle tient en dix pages, elle est signée par le
+commanditaire et elle sert de référence pendant toute la mission. L'Annexe~B en donne un modèle.
+
+""" + sec("Le Périmètre et l'Horizon", "sec:c08-perimetre") + r"""
+Le périmètre se définit par trois listes. La première nomme les entités~: le siège, les antennes, les filiales.
+La deuxième nomme les métiers~: à l'ANPP, l'immatriculation des bénéficiaires, la liquidation des droits, le
+paiement, le recouvrement, les fonctions de soutien. La troisième nomme les objets~: les applications, les
+infrastructures, les données, l'organisation informatique, les contrats.
+
+Ce qui n'est pas dans le périmètre s'écrit aussi. L'ANPP a exclu la téléphonie des antennes, gérée par un
+contrat distinct qui court jusqu'en 2029. L'exclusion est datée et motivée.
+
+L'horizon dépend du rythme de l'organisation. Trois ans conviennent à une entreprise dont le marché bouge.
+Cinq ans conviennent à une administration dont le plan stratégique court sur cinq ans. Au-delà, le document ne
+prévoit plus, il rêve. L'ANPP retient 2027-2031 pour couvrir son plan stratégique 2026-2030 et l'exercice qui
+suit.
+
+\begin{boxinfo}
+\textbf{Le niveau d'ambition.} Le commanditaire choisit entre trois ambitions avant le diagnostic. Remettre à
+niveau, c'est rattraper un retard. Aligner, c'est servir le plan stratégique de l'organisation. Transformer,
+c'est changer la manière de rendre le service. Le directeur général de l'ANPP a choisi d'aligner. Le choix
+borne la mission~: aucun scénario de transformation ne sera chiffré.
+\end{boxinfo}
+
+""" + sec("Les Instances", "sec:c08-instances") + r"""
+La norme ISO/IEC~38500 demande à l'organe de gouvernance d'évaluer, de diriger et de surveiller~\cite{iso38500}.
+Appliquée à la démarche, elle interdit de confier le schéma directeur à la seule direction informatique.
+Trois instances suffisent.
+
+""" + tab("L{2.8cm}L{4.0cm}L{2.4cm}L{2.6cm}", ["Instance", "Composition à l'ANPP", "Rythme", "Rôle"], [
+    ["Comité de pilotage", "Directeur général, les quatre directeurs, cheffe de la division informatique", "Fin de chaque phase", "Décide"],
+    ["Équipe projet", "Mme~NGO BIYONG, deux agents de la division, le cabinet", "Chaque semaine", "Produit"],
+    ["Groupes de travail", "Un par métier, cinq à sept personnes dont un chef d'antenne", "Selon la phase", "Informe et valide le détail"]],
+    "Les trois instances de la mission", "8.2") + r"""
+
+Le conseil d'administration n'est pas une instance de la démarche. Il intervient deux fois~: il est informé du
+lancement et il approuve le document. M.~TCHUENTE, son président, a demandé un point d'étape en avril.
+
+\begin{boxalert}
+\textbf{Violation typique.} Un comité de pilotage présidé par le responsable informatique.
+
+\smallskip
+\textbf{Règle~:} le comité de pilotage est présidé par celui qui arbitre les budgets. Si le directeur général
+délègue, il délègue à un directeur de métier, jamais à l'informatique, qui serait juge et partie.
+\end{boxalert}
+
+""" + sec("Les Parties Prenantes", "sec:c08-parties") + r"""
+Une partie prenante est une personne ou un groupe qui peut peser sur la démarche ou que la démarche touche. On
+les recense, puis on les place sur une grille à deux axes~: leur pouvoir sur la décision, leur intérêt pour le
+sujet.
+
+""" + tab("L{3.2cm}L{4.2cm}L{4.6cm}", ["Position", "Exemple à l'ANPP", "Conduite"], [
+    ["Pouvoir fort, intérêt fort", "Directeur général, directeur financier", "Associer à chaque décision"],
+    ["Pouvoir fort, intérêt faible", "Tutelle, conseil d'administration", "Informer brièvement, à dates fixes"],
+    ["Pouvoir faible, intérêt fort", "Chefs d'antenne, agents de guichet", "Consulter, restituer"],
+    ["Pouvoir faible, intérêt faible", "Fournisseurs sortants", "Surveiller"]],
+    "La grille des parties prenantes", "8.3") + r"""
+
+Deux parties prenantes sont souvent oubliées. Les bénéficiaires ne siègent nulle part, pourtant le service
+leur est destiné. L'ANPP a prévu deux réunions avec leurs associations. Les agents de la division informatique
+craignent pour leur poste. Mme~NGO BIYONG les a réunis avant le lancement.
+
+""" + sec("Qui Fait Quoi", "sec:c08-raci") + r"""
+Une matrice des responsabilités attribue à chaque livrable quatre rôles. Le réalisateur produit. L'approbateur
+décide et il est seul. Le consulté donne un avis avant. L'informé reçoit le résultat.
+
+""" + tab("L{3.6cm}cccc", ["Livrable", "Direction générale", "Division informatique", "Directions de métier", "Cabinet"], [
+    ["Note de cadrage", "A", "C", "C", "R"],
+    ["Rapport de diagnostic", "I", "C", "C", "R"],
+    ["Cible", "A", "C", "C", "R"],
+    ["Portefeuille de projets", "A", "R", "C", "R"],
+    ["Plan de financement", "A", "C", "I", "R"],
+    ["Schéma directeur", "A", "C", "C", "R"]],
+    "Matrice des responsabilités (R réalise, A approuve, C consulté, I informé)", "8.4") + r"""
+
+Le directeur financier, M.~ABDOULAYE, figure parmi les directions de métier. Pour le plan de financement, la
+matrice de l'ANPP le fait passer de consulté à réalisateur associé. Le cabinet ne connaît pas le budget de
+l'Agence mieux que lui.
+
+""" + sec("Le Calendrier et les Livrables", "sec:c08-calendrier") + r"""
+""" + tab("L{0.6cm}L{3.2cm}L{3.6cm}L{4.4cm}", ["N°", "Phase", "Dates en 2027", "Livrable"], [
+    ["1", "Cadrage", "12 au 29 janvier", "Note de cadrage"],
+    ["2", "Diagnostic", "1\\textsuperscript{er} février au 19 mars", "Rapport de diagnostic"],
+    ["3", "Cible", "22 mars au 23 avril", "Dossier de cible, scénarios"],
+    ["4", "Portefeuille et trajectoire", "26 avril au 21 mai", "Portefeuille, feuille de route"],
+    ["5", "Chiffrage et financement", "24 mai au 11 juin", "Plan de financement"],
+    ["6", "Validation", "14 au 24 juin", "Schéma directeur 2027-2031"]],
+    "Les six phases de la mission ANPP", "8.5") + r"""
+
+Chaque phase se clôt par un comité de pilotage qui approuve le livrable. Une phase non approuvée n'est pas
+terminée. La règle a un coût~: le calendrier dépend de l'agenda du directeur général. Elle a un bénéfice~: le
+document final ne contient que des décisions déjà prises.
+
+Le schéma directeur de 2021 comptait 214 pages. La note de cadrage de 2027 fixe un plafond de 60 pages hors
+annexes, plus une synthèse de quatre pages pour le conseil.
+
+\begin{boxprocedure}
+\textbf{Rédiger une note de cadrage.}
+\begin{enumerate}
+    \item Écrire le fait déclencheur en trois lignes.
+    \item Nommer le commanditaire et l'organe qui approuvera.
+    \item Dresser les trois listes du périmètre et la liste des exclusions.
+    \item Fixer l'horizon et le niveau d'ambition.
+    \item Composer les instances, avec les noms.
+    \item Dresser la grille des parties prenantes et la matrice des responsabilités.
+    \item Poser le calendrier, les livrables et le plafond de pages.
+    \item Faire signer.
+\end{enumerate}
+\end{boxprocedure}
+
+""" + sec("Communiquer", "sec:c08-communiquer") + r"""
+Un schéma directeur que personne ne connaît ne s'exécute pas. Le plan de communication tient en un tableau~: à
+qui, quoi, quand, par quel moyen. À l'ANPP, une note du directeur général annonce la mission à tous les agents
+le 15~janvier. Une page d'information paraît à la fin de chaque phase. Les chefs d'antenne reçoivent le
+diagnostic avant le comité de pilotage, non après.
+
+""" + lecture("La note de cadrage de la mission ANPP, 29 janvier 2027", [
+    ("Le fait déclencheur est écrit", "O", "Section 1 de la note"),
+    ("Le commanditaire et l'organe d'approbation sont nommés", "O", "Section 2"),
+    ("Le périmètre et les exclusions sont listés", "O", "Section 3, téléphonie exclue"),
+    ("L'horizon et l'ambition sont fixés", "O", "2027-2031, aligner"),
+    ("Le comité de pilotage est présidé par un arbitre des budgets", "O", "Directeur général"),
+    ("Les bénéficiaires sont représentés ou consultés", "O", "Deux réunions prévues"),
+    ("Chaque livrable a un approbateur unique", "O", "Tableau 8.4"),
+    ("L'enveloppe financière est fixée", "N", "Renvoyée à la phase 5"),
+    ("La note est signée par le commanditaire", "O", "Signature du 29 janvier"),
+    ("La tutelle a été informée du lancement", "K", "Courrier annoncé, copie non remise")],
+    r"""Huit \OUI{} sur dix. Le \NON{} est un choix assumé~: le directeur général ne veut pas fixer d'enveloppe
+avant le diagnostic. Le risque est connu. Une cible dessinée sans plafond coûte toujours plus que ce que
+l'organisation peut payer. Le \NEK{} est de preuve. Il se lève en obtenant la copie du courrier.""") + r"""
+"""
+chapitre("partie4/P04_C08_cadrer.tex", 8, "Cadrer et Gouverner la Démarche", "chap:cadrer", "Cadrer",
+ "« Ce qui n'est pas écrit au départ\\\\\n    se discute à l'arrivée. »", "Principe du cours",
+ "Fondamental", "Chapitres~\\ref{chap:alignement} et \\ref{chap:droit}",
+ ["Répondre par écrit aux six questions du cadrage.", "Définir un périmètre par trois listes et une liste d'exclusions.",
+  "Composer les instances d'une démarche de schéma directeur.", "Placer les parties prenantes sur une grille pouvoir-intérêt.",
+  "Dresser une matrice des responsabilités.", "Rédiger une note de cadrage."],
+ "« qui préside ? »", r"""
+Yaoundé, jeudi 14~janvier~2027. Réunion de lancement dans la salle du conseil de l'ANPP. M.~BEYALA projette la
+composition du comité de pilotage. La première ligne porte le nom de Mme~NGO BIYONG comme présidente. C'est ce
+que prévoyait le cahier des charges.
+
+Mme~NGO BIYONG lève la main la première. « Si je préside, ce sera encore le plan de l'informatique. En 2021
+c'était le cas. Vous savez ce qu'il est devenu. » M.~OWONA, le directeur général, hésite. Son agenda est plein.
+M.~BEYALA lui pose une seule question~: « Qui, dans cette salle, peut retirer un milliard à une direction pour le
+donner à une autre~? » Le directeur général préside.
+
+\begin{boxalert}
+\textbf{Violation typique.} Commencer le diagnostic avant d'avoir une note de cadrage signée.
+
+\smallskip
+\textbf{Règle~:} le cadrage se termine par une signature. Sans elle, chaque désaccord ultérieur rouvre le
+périmètre, l'horizon ou la présidence.
+\end{boxalert}
+""", corps,
+ [("Directeur général", "Présider le comité de pilotage. Signer la note de cadrage. Dire avant le diagnostic quelle ambition il retient."),
+  ("Consultant", "Refuser de commencer sans note signée. Tenir le plafond de pages. Préparer chaque comité par un document de décision d'une page."),
+  ("Directeur des systèmes d'information", "Animer l'équipe projet sans présider. Rassurer ses agents. Ouvrir ses contrats et ses comptes au cabinet.")],
+ ["Cadrer, c'est répondre par écrit à six questions~: pourquoi, pour qui, sur quoi, jusqu'où, avec qui, pour quand.", "Le périmètre tient en trois listes et une liste d'exclusions datées.",
+  "Trois instances~: comité de pilotage, équipe projet, groupes de travail.", "Le comité de pilotage est présidé par celui qui arbitre les budgets.",
+  "Chaque livrable a un seul approbateur.", "Une phase non approuvée n'est pas terminée.",
+  "La note de cadrage est signée avant le diagnostic."],
+ ["rédiger une note de cadrage de dix pages", "composer un comité de pilotage et justifier sa présidence", "placer dix parties prenantes sur la grille", "dresser la matrice des responsabilités d'une mission"],
+ [("Les six questions", 1, "Répondez aux six questions du cadrage pour LiZbiZ, à partir de ce que les chapitres précédents en disent. Signalez les réponses que vous ne pouvez pas donner."),
+  ("La présidence", 2, "À la BANQUE SANAGA, la directrice générale propose que le directeur des risques préside le comité de pilotage. Donnez deux arguments pour et deux arguments contre. Concluez."),
+  ("La grille", 2, "Placez sur la grille du Tableau~8.3 les parties prenantes suivantes de l'ANPP~: le PCA, le syndicat des agents, l'éditeur d'e-RECETTES, l'ANTIC, les associations de bénéficiaires, le contrôleur financier. Justifiez chaque position en une ligne."),
+  ("Le cadrage sans enveloppe", 3, "Le directeur général de l'ANPP refuse de fixer une enveloppe avant le diagnostic. Rédigez la note d'une page que le chef de mission lui adresse pour proposer une fourchette, avec la méthode pour l'établir à partir des cinq exercices passés.")],
+ ["ISO/IEC~38500~\\cite{iso38500}.", "ISO~21502 sur le management de projet~\\cite{iso21502}.", "Peppard et Ward, chapitre sur le processus de planification~\\cite{wardpeppard2016}."],
+ "La note est signée. Le cabinet peut regarder ce qui existe. C'est l'objet du Chapitre~\\ref{chap:diagnostic}.")

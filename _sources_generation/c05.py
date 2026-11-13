@@ -1,0 +1,173 @@
+# -*- coding: utf-8 -*-
+from ch import *
+corps = sec("Les Organisations Internationales", "sec:c05-monde") + r"""
+\begin{boxjuris}
+\textbf{Recommandation du Conseil de l'OCDE sur les stratégies numériques gouvernementales}, adoptée le
+15~juillet~2014 (OECD/LEGAL/0406)~\cite{ocde2014}.
+
+\smallskip
+\textbf{Portée.} C'est le premier instrument international consacré à l'administration numérique. Il s'organise
+en trois piliers et douze principes. Il demande de passer de l'administration \textit{électronique}, qui
+met en ligne des procédures existantes, à l'administration \textit{numérique}, qui repense le service. Le
+Cameroun n'est pas membre de l'OCDE~: le texte ne l'oblige pas. Il sert de référence.
+\end{boxjuris}
+
+Trois instruments de mesure permettent à un État de se situer.
+
+""" + tab("L{3.4cm}L{2.6cm}L{6.0cm}", ["Instrument", "Auteur", "Ce qu'il mesure"], [
+    ["Indice de développement de l'administration en ligne (EGDI)", "Nations Unies", "Services en ligne, infrastructures de télécommunication, capital humain"],
+    ["Indice de maturité GovTech", "Banque mondiale", "Systèmes centraux de l'État, services en ligne, participation, cadres habilitants"],
+    ["Indice de l'administration numérique", "OCDE", "Mise en œuvre de la recommandation de 2014 dans ses pays membres et partenaires"]],
+    "Trois instruments de comparaison", "5.1") + r"""
+
+Ces indices ne disent pas quoi faire. Ils servent au diagnostic~: un schéma directeur d'administration cite le
+rang du pays, la composante la plus faible et ce que l'organisation peut y changer à son échelle.
+
+\begin{boxjuris}
+\textbf{Pacte numérique mondial}, annexe~I de la résolution 79/1 de l'Assemblée générale des Nations Unies,
+adoptée le 22~septembre~2024~\cite{onu2024pacte}.
+
+\smallskip
+\textbf{Portée.} Le Pacte fixe des objectifs communs~: réduire les fractures numériques, élargir les bénéfices
+de l'économie numérique, garantir un espace numérique sûr et respectueux des droits, gouverner les données de
+façon équitable et encadrer l'intelligence artificielle. C'est un engagement politique des États, sans
+sanction. Il oriente les financements des bailleurs.
+\end{boxjuris}
+
+\subsection{L'infrastructure publique numérique}
+
+Une doctrine s'est imposée depuis 2023 sous le nom d'\termecle{infrastructure publique numérique}. Elle désigne
+des socles partagés par toutes les administrations et ouverts au secteur privé~: l'identité numérique, le
+paiement, l'échange de données. L'idée est qu'un État ne numérise pas service par service. Il construit des
+socles, puis chaque service s'y branche.
+
+Pour le schéma directeur d'une agence, la conséquence est directe. Avant de bâtir son propre système
+d'identification des bénéficiaires, l'ANPP doit savoir ce que l'État prévoit en matière d'identité. Bâtir seul
+ce qui existera en commun est le gaspillage le plus fréquent des administrations.
+
+""" + sec("L'Afrique", "sec:c05-afrique") + r"""
+""" + tab("L{4.2cm}L{2.6cm}L{5.2cm}", ["Texte", "Date", "Apport"], [
+    ["Convention de Malabo~\\cite{malabo2014}", "27 juin 2014", "Transactions électroniques, données personnelles, cybersécurité"],
+    ["Stratégie de transformation numérique pour l'Afrique~\\cite{ua2020dts}", "2020, pour 2020-2030", "Marché unique numérique d'ici 2030, piliers et secteurs prioritaires"],
+    ["Cadre stratégique en matière de données~\\cite{ua2022donnees}", "Février 2022", "Gouvernance et circulation des données"],
+    ["Protocole de la ZLECAf sur le commerce numérique~\\cite{zlecaf2024}", "Février 2024, annexes en février 2025", "Règles communes du commerce numérique"],
+    ["Stratégie continentale sur l'intelligence artificielle~\\cite{ua2024ia}", "18 et 19 juillet 2024", "Cadres nationaux, compétences, usage responsable"],
+    ["Pacte numérique africain~\\cite{ua2024pacte}", "Juillet 2024", "Position commune de l'Afrique, adossée au Pacte mondial"]],
+    "Six textes de l'Union africaine", "5.2") + r"""
+
+La Stratégie de transformation numérique pour l'Afrique est le texte pivot. Elle vise un marché unique numérique
+d'ici 2030 et demande aux États de mettre leurs politiques en cohérence. Elle s'appuie sur des fondations
+(infrastructures, compétences, cadre réglementaire, innovation) et désigne des secteurs prioritaires, parmi
+lesquels l'administration, la finance, la santé, l'éducation, l'agriculture et le commerce.
+
+Le protocole de la ZLECAf sur le commerce numérique a été adopté par la Conférence de l'Union africaine en
+février~2024. Ses huit annexes, adoptées le 15~février~2025, couvrent notamment les identités numériques, les
+paiements transfrontaliers et les transferts de données. Il n'entre en vigueur qu'après ratification par
+vingt-deux États. Une entreprise comme LiZbiZ, qui livre au Tchad et en République centrafricaine, doit le
+suivre.
+
+\begin{boxinfo}
+\textbf{Internalisation.} Ces textes ne s'appliquent pas directement à une organisation. Ils passent par le
+droit national. La loi camerounaise de 2024 sur les données personnelles reprend des principes de Malabo. La
+stratégie nationale d'intelligence artificielle de 2025 cite la stratégie continentale. Le consultant lit donc
+les textes continentaux pour comprendre où va le droit national.
+\end{boxinfo}
+
+""" + sec("La Doctrine Française du Schéma Directeur", "sec:c05-france") + r"""
+Le mot « schéma directeur » vient de l'administration française, qui l'a emprunté à l'urbanisme. Dans les
+années 1980, le ministère français de l'Industrie diffuse la méthode RACINES, pour « rationalisation des choix
+informatiques ». Elle fixe la démarche que la plupart des cabinets d'Afrique francophone appliquent encore.
+
+\begin{boxprocedure}
+\textbf{Les cinq étapes de la méthode RACINES.}
+\begin{enumerate}
+    \item Évaluation de l'existant et orientations.
+    \item Scénarios.
+    \item Plan d'action.
+    \item Mise en œuvre.
+    \item Suivi.
+\end{enumerate}
+\end{boxprocedure}
+
+La méthode installe trois instances~: un comité directeur qui décide, un groupe de projet qui travaille et des
+groupes d'utilisateurs qui expriment les besoins. Le cours en garde la structure et y ajoute ce qui lui
+manque~: le financement et la mesure de la valeur.
+
+\subsection{L'urbanisation}
+
+Dans les années 1990, l'\termecle{urbanisation} du système d'information transpose le vocabulaire de la ville.
+Le système est découpé en zones, quartiers et îlots. Un plan d'occupation des sols fixe ce qui peut se
+construire et où. Les règles sont simples~: un îlot rend un service et un seul, les échanges passent par des
+interfaces, une donnée a un seul maître. Longépé en a donné l'exposé de référence~\cite{longepe2001}.
+
+\subsection{Le pilotage par la valeur}
+
+Dans les années 2000, l'administration française se dote d'une méthode d'analyse de la valeur des projets, MAREVA.
+Elle note un projet sur plusieurs axes~: la rentabilité pour l'État, la maîtrise du risque, la valeur pour les
+usagers, la valeur pour les agents et la nécessité. L'intérêt est de ne pas réduire un projet public à son
+rendement financier. Le Chapitre~\ref{chap:portefeuille} en reprend le principe.
+
+Le Cigref, association de grandes entreprises et administrations françaises, publie des travaux sur le pilotage
+économique du système d'information et une nomenclature des métiers. Ce sont des documents de praticiens, utiles
+pour bâtir un budget et un plan de compétences.
+
+""" + sec("Deux Doctrines Récentes", "sec:c05-recent") + r"""
+La \termecle{souveraineté numérique} désigne la capacité d'un État ou d'une organisation à garder la maîtrise de
+ses données, de ses infrastructures et de ses choix techniques. Elle pèse sur le choix d'un hébergement. Elle ne
+se confond pas avec l'autarcie~: héberger chez soi un système que l'on ne sait pas exploiter n'est pas une
+souveraineté.
+
+La \termecle{sobriété numérique} demande de mesurer l'empreinte matérielle et énergétique du système
+d'information et d'en tenir compte dans les choix. Dans un pays où l'électricité est irrégulière et le matériel
+importé, c'est aussi une affaire de coût~: allonger la durée de vie des postes et réduire le nombre de serveurs
+relèvent de la bonne gestion avant de relever de l'écologie.
+
+""" + sec("Ce que le Consultant en Retient", "sec:c05-usage") + r"""
+\begin{boxscenario}{Mission ANPP. La note de contexte international, 2 février 2027}
+\textbf{Constatations.} Le bailleur qui cofinance les projets de l'Agence cite le Pacte numérique mondial et
+l'infrastructure publique numérique dans sa convention. Le schéma directeur de 2021 ne mentionnait aucun texte
+international. L'Agence a développé son propre identifiant des bénéficiaires.
+
+\textbf{Analyse} (confiance moyenne). Le nouveau document doit montrer au bailleur que les projets de l'Agence
+s'inscrivent dans des socles communs. L'identifiant propre à l'Agence est un point de fragilité~: il faudra le
+relier à l'identité nationale quand elle sera disponible. Cette dépendance est inscrite au registre des risques.
+\end{boxscenario}
+"""
+chapitre("partie2/P02_C05_doctrines_strategies.tex", 5, "Doctrines et Stratégies Numériques dans le Monde et en Afrique", "chap:doctrines", "Doctrines et stratégies",
+ "« Un État ne numérise pas service par service.\\\\\n    Il construit des socles. »", "Doctrine de l'infrastructure publique numérique",
+ "Fondamental", "Chapitre~\\ref{chap:normes}",
+ ["Citer la recommandation de l'OCDE de 2014 et le Pacte numérique mondial de 2024.", "Employer trois indices de comparaison dans un diagnostic.",
+  "Présenter les six textes de l'Union africaine utiles à une stratégie numérique.", "Décrire la méthode RACINES, l'urbanisation et le pilotage par la valeur.",
+  "Définir infrastructure publique numérique, souveraineté et sobriété."],
+ "« le bailleur parle une autre langue »", r"""
+Yaoundé, lundi 1\textsuperscript{er}~février~2027. M.~OWONA transmet à l'équipe la convention de financement
+signée avec un bailleur. Trois expressions y reviennent~: « infrastructure publique numérique », « Pacte numérique
+mondial », « interopérabilité ». Le directeur financier de l'Agence, M.~ABDOULAYE, avoue ne pas savoir ce que le
+bailleur attend au juste. « Nous avons toujours présenté nos projets un par un. »
+
+Mme~EKANI explique que le vocabulaire a changé. Les bailleurs ne financent plus une application de plus. Ils
+financent des projets qui se branchent sur des socles communs. Un schéma directeur qui ignore ce vocabulaire ne
+sera pas financé.
+
+\begin{boxalert}
+\textbf{Violation typique.} Écrire un schéma directeur d'administration comme si l'organisation était seule.
+
+\smallskip
+\textbf{Règle~:} une administration s'inscrit dans une stratégie nationale, elle-même inscrite dans des
+engagements continentaux et mondiaux. Le document cite ces niveaux et dit comment ses projets s'y rattachent.
+\end{boxalert}
+""", corps,
+ [("Consultant", "Lire la convention du bailleur avant d'écrire la première ligne. Son vocabulaire dit ce qui sera financé."),
+  ("Dirigeant d'administration", "Demander quels socles communs l'État prépare avant d'approuver un projet d'identification, de paiement ou d'échange de données."),
+  ("Directeur des systèmes d'information", "Concevoir chaque application pour qu'elle puisse se brancher plus tard sur un socle commun~: interfaces documentées, identifiants convertibles.")],
+ ["OCDE, 15~juillet~2014~: passer de l'administration électronique à l'administration numérique.", "Pacte numérique mondial, 22~septembre~2024~: engagement politique des États.",
+  "Union africaine~: stratégie 2020-2030, cadre des données de 2022, stratégie d'intelligence artificielle et Pacte numérique africain de 2024, protocole de la ZLECAf.",
+  "RACINES~: existant et orientations, scénarios, plan d'action, mise en œuvre, suivi.", "Urbanisation~: zones, quartiers, îlots, une donnée a un seul maître.",
+  "Infrastructure publique numérique~: identité, paiement, échange de données comme socles communs."],
+ ["dire pourquoi la recommandation de l'OCDE n'oblige pas le Cameroun", "citer trois socles de l'infrastructure publique numérique", "énumérer les cinq étapes de RACINES"],
+ [("Dates", 1, "Associez chaque texte à sa date~: recommandation de l'OCDE, Pacte numérique mondial, Convention de Malabo, stratégie continentale sur l'intelligence artificielle, protocole de la ZLECAf sur le commerce numérique."),
+  ("Socles", 2, "Pour l'ANPP, dites quels projets du futur schéma directeur dépendent d'un socle d'identité, d'un socle de paiement et d'un socle d'échange de données. Que faire tant que le socle n'existe pas~?"),
+  ("RACINES aujourd'hui", 2, "Comparez les cinq étapes de RACINES aux six pièces du schéma directeur (Chapitre~\\ref{chap:vocabulaire}). Qu'est-ce que la méthode des années 1980 ne traite pas~?"),
+  ("Souveraineté", 3, "La BANQUE SANAGA hésite entre un hébergement à Douala qu'elle exploiterait elle-même et un hébergement chez un prestataire étranger certifié. Rédigez une page qui distingue souveraineté, sécurité et coût, sans conclure à la place de la banque.")],
+ ["La recommandation de l'OCDE~\\cite{ocde2014}.", "La Stratégie de transformation numérique pour l'Afrique~\\cite{ua2020dts}.", "Le Pacte numérique africain~\\cite{ua2024pacte}.", "Longépé~\\cite{longepe2001}, pour l'urbanisation."],
+ "Le monde et le continent ont leurs textes. Le Cameroun a les siens, avec ses plans, ses acteurs et ses hésitations. Le Chapitre~\\ref{chap:cameroun} les présente.")

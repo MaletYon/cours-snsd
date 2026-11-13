@@ -1,0 +1,174 @@
+% ============================================================================
+% Fichier     : SNSD_main.tex
+% Titre       : Stratégie numérique et schéma directeur SI
+% UE          : MSN-2S4-MSI01 (3 ECTS, 30 h)
+% Auteur      : MINKA MI NGUIDJOÏ Thierry Emmanuel
+% Version     : 1.0 -- novembre 2026
+% Compilation : pdflatex, biber, makeindex, pdflatex (deux fois)
+% ============================================================================
+
+\documentclass[12pt, twoside, openright, a4paper]{book}
+
+\usepackage{Style_SNSD}
+\raggedbottom
+
+\addbibresource{bibliographie/SNSD_references.bib}
+
+\hypersetup{
+    pdftitle={Stratégie numérique et schéma directeur SI},
+    pdfauthor={MINKA MI NGUIDJOÏ Thierry Emmanuel},
+    pdfsubject={MSN-2S4-MSI01 · Master Professionnel en Management des Systèmes d'Information · Chaire UNESCO d'Afrique Centrale Accès TIC},
+    pdfkeywords={stratégie numérique, schéma directeur, alignement stratégique, portefeuille de projets, ISO/IEC 38500, COBIT 2019, SND30, marchés publics, NEK}
+}
+
+\begin{document}
+\emergencystretch=3em
+
+\frontmatter
+
+    \input{front/00_page_titre}
+    \cleardoublepage
+
+    \input{front/01_avant_propos}
+    \cleardoublepage
+
+    \input{front/02_mode_emploi}
+    \cleardoublepage
+
+    \input{front/03_ndap_sukulu}
+    \cleardoublepage
+
+    \tableofcontents
+    \cleardoublepage
+
+    \listoftables
+    \cleardoublepage
+
+\mainmatter
+
+    \part*{Prologue Opérationnel}
+    \addcontentsline{toc}{part}{Prologue Opérationnel}
+
+        \setcounter{chapter}{-1}
+        \input{partie0/P00_tiroir}
+
+    \part{Fondements : Stratégie, Alignement, Valeur}
+    \label{part:fondements}
+
+        \input{partie1/P01_C01_vocabulaire}
+        \input{partie1/P01_C02_theories_strategie}
+        \input{partie1/P01_C03_alignement_valeur}
+
+    \part{Le Contexte International}
+    \label{part:international}
+
+        \input{partie2/P02_C04_normes_referentiels}
+        \input{partie2/P02_C05_doctrines_strategies}
+
+    \part{Le Contexte National}
+    \label{part:national}
+
+        \input{partie3/P03_C06_strategie_cameroun}
+        \input{partie3/P03_C07_cadre_juridique}
+
+    \part{Méthode : Élaborer le Schéma Directeur}
+    \label{part:methode}
+
+        \input{partie4/P04_C08_cadrer}
+        \input{partie4/P04_C09_diagnostiquer}
+        \input{partie4/P04_C10_cible}
+        \input{partie4/P04_C11_portefeuille}
+        \input{partie4/P04_C12_financer}
+
+    \part{Mise en Œuvre : Piloter et Maîtriser}
+    \label{part:pilotage}
+
+        \input{partie5/P05_C13_piloter}
+        \input{partie5/P05_C14_maitriser}
+
+    \part{Défis et Recherche}
+    \label{part:defis}
+
+        \input{partie6/P06_C15_donnees_ia}
+        \input{partie6/P06_C16_auditer}
+
+\appendix
+
+    \input{annexes/Ann_A_glossaire}
+    \input{annexes/Ann_B_modeles}
+    \input{annexes/Ann_C_textes}
+    \input{annexes/Ann_D_exigences}
+
+\backmatter
+
+    \nocite{*}
+    \printbibliography[heading=bibintoc, title={Références bibliographiques}]
+
+    \printindex
+
+% ==============================================================================
+% 4E DE COUVERTURE
+% ==============================================================================
+\clearpage
+\thispagestyle{empty}
+\pagecolor{CouleurPrimaire}
+
+\begin{tikzpicture}[remember picture, overlay]
+    \fill[CouleurAccent]
+        (current page.south west) rectangle
+        ([yshift=1.8cm] current page.south east);
+    \fill[CouleurAccent]
+        ([yshift=-1.4cm] current page.north west) rectangle
+        ([yshift=-1.7cm] current page.north east);
+\end{tikzpicture}
+
+\vspace*{1.8cm}
+
+\begin{center}
+    {\color{CouleurAccent}\rule{0.6\linewidth}{1pt}}\\[1.5ex]
+    {\color{white}\Large\bfseries À propos de ce cours}\\[1.5ex]
+    {\color{CouleurAccent}\rule{0.6\linewidth}{1pt}}
+\end{center}
+
+\vspace{1cm}
+
+\begin{center}
+\begin{minipage}{0.75\textwidth}
+\color{white!85!gray}\setstretch{1.4}
+Beaucoup d'organisations possèdent un schéma directeur. Peu l'exécutent. Ce cours apprend à en
+produire un qui tienne~: partir de la stratégie de l'organisation, regarder l'existant sans complaisance,
+fixer une cible, choisir des projets, les ordonner, les financer, puis piloter et réviser.
+
+\medskip
+
+Il progresse en six parties, précédées d'un prologue~: les fondements théoriques, le contexte international
+(ISO/IEC~38500, COBIT, TOGAF, stratégies de l'Union africaine), le contexte national (orientations, finances
+publiques, marchés, textes de la CEMAC et de la COBAC), la méthode en cinq temps, la mise en œuvre, les défis
+actuels et l'audit. Une mission suivie de bout en bout sert de fil conducteur.
+
+\medskip
+
+Il s'adresse aux étudiants du Master Professionnel en Management des Systèmes d'Information et aux
+professionnels qui exercent comme directeurs des systèmes d'information, consultants, responsables de
+portefeuille, contrôleurs de gestion ou auditeurs.
+\end{minipage}
+\end{center}
+
+\vfill
+
+\begin{center}
+    {\color{CouleurAccent}\rule{0.7\linewidth}{1.2pt}}\\[1.2ex]
+    {\color{white}\large\bfseries MINKA MI NGUIDJOÏ Thierry Emmanuel}\\[0.4ex]
+    {\color{white!80!gray}\small
+        CISA~·~CISM~·~CGEIT~·~CRISC~·~CDPSE~·~ISO 27001~·~ISO 22301~·~ISO 9001}\\[0.3ex]
+    {\color{white!70!gray}\footnotesize\itshape
+        Chercheur au laboratoire d'Ingénierie Mathématiques et des Systèmes d'Information}\\[0.3ex]
+    {\color{white!70!gray}\footnotesize\itshape
+        Chercheur~|~Cryptologue~|~Auditeur Senior~|~Expert Judiciaire~|~GRC \& Sécurité de l'Information}\\[1.2ex]
+    {\color{CouleurAccent}\rule{0.7\linewidth}{1.2pt}}
+\end{center}
+
+\vspace{1cm}
+
+\afterpage{\nopagecolor}
+\end{document}
