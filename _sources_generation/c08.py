@@ -178,7 +178,7 @@ périmètre, l'horizon ou la présidence.
  ["rédiger une note de cadrage de dix pages", "composer un comité de pilotage et justifier sa présidence", "placer dix parties prenantes sur la grille", "dresser la matrice des responsabilités d'une mission"],
  [("Les six questions", 1, "Répondez aux six questions du cadrage pour LiZbiZ, à partir de ce que les chapitres précédents en disent. Signalez les réponses que vous ne pouvez pas donner."),
   ("La présidence", 2, "À la BANQUE SANAGA, la directrice générale propose que le directeur des risques préside le comité de pilotage. Donnez deux arguments pour et deux arguments contre. Concluez."),
-  ("La grille", 2, "Placez sur la grille du Tableau~8.3 les parties prenantes suivantes de l'ANPP~: le PCA, le syndicat des agents, l'éditeur d'e-RECETTES, l'ANTIC, les associations de bénéficiaires, le contrôleur financier. Justifiez chaque position en une ligne."),
+  ("La grille", 2, "Placez sur la grille du Tableau~8.3 les parties prenantes suivantes de l'ANPP~: le PCA, le syndicat des agents, l'éditeur d'e-PRESTATIONS, l'ANTIC, les associations de bénéficiaires, le contrôleur financier. Justifiez chaque position en une ligne."),
   ("Le cadrage sans enveloppe", 3, "Le directeur général de l'ANPP refuse de fixer une enveloppe avant le diagnostic. Rédigez la note d'une page que le chef de mission lui adresse pour proposer une fourchette, avec la méthode pour l'établir à partir des cinq exercices passés.")],
  ["ISO/IEC~38500~\\cite{iso38500}.", "ISO~21502 sur le management de projet~\\cite{iso21502}.", "Peppard et Ward, chapitre sur le processus de planification~\\cite{wardpeppard2016}."],
  "La note est signée. Le cabinet peut regarder ce qui existe. C'est l'objet du Chapitre~\\ref{chap:diagnostic}.")

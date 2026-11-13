@@ -39,7 +39,7 @@ SPEC = [
              ("Consultant", "Refuser de commencer sans note signée. Tenir le plafond de pages."),
              ("Directeur des systèmes d'information", "Animer l'équipe projet sans présider. Ouvrir ses contrats et ses comptes.")),
     EX("La grille", "25 minutes, en binôme", "Placez six parties prenantes de l'ANPP sur la grille pouvoir-intérêt et justifiez en une ligne.",
-       ["Le président du conseil · le syndicat des agents", "L'éditeur d'e-RECETTES · l'ANTIC", "Les associations de bénéficiaires · le contrôleur financier"],
+       ["Le président du conseil · le syndicat des agents", "L'éditeur d'e-PRESTATIONS · l'ANTIC", "Les associations de bénéficiaires · le contrôleur financier"],
        "Corrigé indicatif. Président du conseil et contrôleur financier : pouvoir fort, intérêt faible. Syndicat, associations, éditeur : intérêt fort. ANTIC : à informer."),
     SY(["Cadrer, c'est répondre par écrit à **six questions**", "Le périmètre tient en **trois listes** et des exclusions datées", "Le comité de pilotage est présidé par **celui qui arbitre les budgets**",
         "Chaque livrable a **un seul approbateur**", "La note de cadrage est **signée** avant le diagnostic"]),

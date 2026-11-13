@@ -108,11 +108,11 @@ Questions à choix multiple (une seule bonne réponse)
 
 17. Quelle application hors plan est entrée en service en 2023 ?
       a) LIQUID
-      b) e-RECETTES
+      b) e-PRESTATIONS
       c) HORIZON 3
       d) WOURI
 
-18. Que manquait-il à e-RECETTES à sa mise en service ?
+18. Que manquait-il à e-PRESTATIONS à sa mise en service ?
       a) Un éditeur
       b) Des utilisateurs
       c) Un site de secours
@@ -184,7 +184,7 @@ Textes à trous
 
 38. Le nouveau schéma directeur couvrira la période 2025-______.
 
-39. L'application e-RECETTES n'avait pas de site de ______.
+39. L'application e-PRESTATIONS n'avait pas de site de ______.
 
 40. L'état des lieux de 2019 occupait ______ pages.
 

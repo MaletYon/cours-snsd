@@ -35,7 +35,7 @@ employée~\cite{wardpeppard2016}.
     "La grille des applications", "3.2") + r"""
 
 La grille interdit de gérer toutes les applications de la même manière. Une application de soutien développée sur
-mesure est un gaspillage. Une application opérationnelle clé sans secours est un risque. À l'ANPP, e-RECETTES
+mesure est un gaspillage. Une application opérationnelle clé sans secours est un risque. À l'ANPP, e-PRESTATIONS
 est opérationnelle clé et n'avait pas de site de secours.
 
 """ + sec("Le Modèle d'Alignement Stratégique", "sec:c03-sam") + r"""
@@ -165,7 +165,7 @@ qui arbitre, par des responsables métiers désignés et par une mesure de la va
   "Luftman~: l'alignement se mesure sur six critères.", "La valeur vient de l'usage et du changement d'organisation, non de l'outil.",
   "Weill et Ross~: dire qui décide de quoi. Bharadwaj~: la stratégie numérique est une composante de la stratégie."],
  ["dessiner les quatre domaines du modèle d'alignement", "classer une application dans la grille de McFarlan", "citer deux explications du paradoxe de la productivité", "dire ce qu'est un propriétaire de bénéfice"],
- [("Grille de McFarlan", 1, "Classez~: la paie de l'ANPP, e-RECETTES, un pilote de paiement sur compte mobile dans une antenne, la messagerie, le fichier des bénéficiaires, un site d'information du public."),
+ [("Grille de McFarlan", 1, "Classez~: la paie de l'ANPP, e-PRESTATIONS, un pilote de paiement sur compte mobile dans une antenne, la messagerie, le fichier des bénéficiaires, un site d'information du public."),
   ("Quelle perspective", 2, "Pour chacune des trois organisations du cours, dites quelle perspective du Tableau~3.4 décrit le mieux la situation actuelle et laquelle vous recommandez. Justifiez en trois lignes."),
   ("Lever deux NEK", 2, "Quelles pièces demandez-vous pour lever les deux \\NEK{} de la lecture de l'ANPP~? Recalculez $\\mu$ et $U$ dans le cas le plus favorable et dans le moins favorable."),
   ("Carr à la banque", 3, "Le directeur financier de la BANQUE SANAGA cite Carr pour réduire de 30~\\% le budget informatique. Rédigez une réponse d'une page qui lui donne raison sur un point et tort sur un autre, avec des exemples tirés de la banque.")],

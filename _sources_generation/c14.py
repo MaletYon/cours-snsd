@@ -69,7 +69,7 @@ après un sinistre. Elle fixe la fréquence des sauvegardes ou de la réplicatio
 
 """ + tab("L{3.4cm}L{2.6cm}L{2.6cm}L{3.4cm}", ["Activité de l'ANPP", "Interruption admissible", "Perte admissible", "Constat de mars 2024"], [
     ["Paiement des prestations", "4 heures", "1 heure", "4 jours, 11 jours de données"],
-    ["Encaissement (e-RECETTES)", "8 heures", "1 heure", "Aucun secours"],
+    ["Encaissement (e-PRESTATIONS)", "8 heures", "1 heure", "Aucun secours"],
     ["Liquidation des droits", "2 jours", "1 jour", "4 jours"],
     ["Comptabilité", "5 jours", "1 jour", "4 jours"]],
     "Le bilan d'impact sur l'activité de l'ANPP", "14.2") + r"""

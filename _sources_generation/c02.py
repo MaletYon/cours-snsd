@@ -148,7 +148,7 @@ que nous~? » mais « à qui suffit ce qu'il fait et à quelle vitesse progresse
   "Dans une administration, la mission remplace le marché et la valeur est publique."],
  ["nommer les cinq forces", "énoncer les quatre conditions de Barney", "donner un exemple local de marché biface", "dire quand il vaut mieux faire soi-même"],
  [("Cinq forces", 1, "Appliquez les cinq forces à une banque de détail camerounaise face au paiement par téléphone mobile. Une ligne par force."),
-  ("VRIO", 2, "Passez à la grille VRIO quatre ressources de l'ANPP~: le fichier des bénéficiaires, le centre de données, l'application e-RECETTES, le réseau des dix antennes."),
+  ("VRIO", 2, "Passez à la grille VRIO quatre ressources de l'ANPP~: le fichier des bénéficiaires, le centre de données, l'application e-PRESTATIONS, le réseau des dix antennes."),
   ("Délibéré, émergent", 2, "Classez les onze projets hors schéma directeur de l'ANPP en trois familles possibles~: réponse à une urgence, opportunité de financement, demande de la tutelle. Que doit prévoir le nouveau document pour chacune~?"),
   ("Faire ou faire faire", 3, "La BANQUE SANAGA envisage de confier l'exploitation de son système central à un prestataire. Appliquez les trois critères de Williamson. Concluez, puis dites ce que le superviseur exigera.")],
  ["Porter~\\cite{porter1980,porter1985} et Porter et Millar~\\cite{portermillar1985}.", "Barney~\\cite{barney1991} et Teece et al.~\\cite{teece1997}.", "Mintzberg et Waters~\\cite{mintzberg1985}.", "Christensen~\\cite{christensen1997}."],

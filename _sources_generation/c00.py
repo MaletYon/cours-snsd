@@ -23,7 +23,7 @@ l'Agence. Aucune ligne ne dit d'où viendrait l'argent.
     \item Sur les 23 projets inscrits, 6 ont été livrés, 4 ont été commencés puis arrêtés, 13 n'ont jamais
           démarré.
     \item Sur la même période, l'Agence a mené 11 projets qui ne figuraient pas au schéma directeur, dont
-          e-RECETTES, le plus coûteux.
+          e-PRESTATIONS, le plus coûteux.
     \item Le comité de pilotage prévu ne s'est jamais réuni. Aucun procès-verbal n'existe.
     \item Le conseil d'administration n'a reçu aucun point d'avancement après la validation.
     \item Les dépenses informatiques réelles s'élèvent à 3,1~milliards sur cinq ans, soit la moitié du montant
@@ -91,7 +91,7 @@ commander un schéma directeur pour 2025-2029 au cabinet AUDIX CONSEIL. Entre le
 À la réunion de lancement, la cheffe de la division informatique, Mme~NGO~BIYONG, pose un classeur sur la
 table. « Nous en avons déjà un. Il couvrait 2019 à 2023. Je suis arrivée en 2021 et personne ne m'en a parlé. »
 Le directeur général, M.~OWONA, ajoute qu'en mars~2024 une panne a arrêté les paiements pendant quatre jours.
-Le projet e-RECETTES, mis en service en 2023, n'avait pas de site de secours. « Le conseil veut un nouveau
+Le projet e-PRESTATIONS, mis en service en 2023, n'avait pas de site de secours. « Le conseil veut un nouveau
 document. Je voudrais surtout qu'il serve. »
 
 M.~BEYALA, chef de mission, confie le classeur à Mme~EKANI et au consultant junior. Leur première tâche n'est

@@ -22,7 +22,7 @@ SPEC = [
     D("Deux mesures de continuité", "ISO 22301 · le bilan d'impact sur l'activité", [("Durée maximale d'interruption admissible", "Délai au-delà duquel l'arrêt cause un dommage inacceptable. Elle fixe le **temps pour redémarrer**."),
         ("Perte de données maximale admissible", "Ancienneté maximale des données retrouvées. Elle fixe la **fréquence des sauvegardes** ou de la réplication.")]),
     TB("Le bilan d'impact de l'ANPP", "Tableau 14.2 du livre", ["Activité", "Interruption admissible", "Perte admissible", "Constat de mars 2024"], [3.4, 2.6, 2.4, 3.2], [
-        ["Paiement des prestations", "4 heures", "1 heure", "4 jours, 11 jours de données"], ["Encaissement (e-RECETTES)", "8 heures", "1 heure", "Aucun secours"],
+        ["Paiement des prestations", "4 heures", "1 heure", "4 jours, 11 jours de données"], ["Encaissement (e-PRESTATIONS)", "8 heures", "1 heure", "Aucun secours"],
         ["Liquidation des droits", "2 jours", "1 jour", "4 jours"], ["Comptabilité", "5 jours", "1 jour", "4 jours"]],
         note="Quatre heures d'interruption admissible imposent un second site et une réplication. Voilà pourquoi le secours coûte 620 millions."),
     TB("Le registre de conformité", "Tableau 14.3 du livre (extrait)", ["Exigence", "Source", "État en 2025", "Projet"], [3.6, 2.8, 2.8, 2.4], [
