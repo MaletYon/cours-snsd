@@ -151,7 +151,7 @@ ecrire('annexes/Ann_B_modeles.tex', B)
 # ---------------------------------------------------------------- C
 def fam(titre, rows):
     return "\\gardetitre\n\\section*{%s}\n\n" % titre + tab("L{6.4cm}L{5.6cm}", ["Texte", "Intérêt pour le schéma directeur"], rows) + "\n\n"
-C = G + r"""\chapter{Textes et Documents de Référence}
+C = G + r"""\chapter{Textes et documents de référence}
 \label{ann:textes}
 
 Cette annexe liste les textes cités dans le cours, par famille. Chaque ligne renvoie à la bibliographie, qui
@@ -289,7 +289,7 @@ for titre, lab, rows in D:
     body += tab("cL{4.9cm}L{1.8cm}cL{3.3cm}", ["N°", "Exigence", "Source", "Cote", "Preuve, nature du NEK"], rr) + "\n\n"
 print(n, tot, src)
 assert n == 48 and tot == {'O': 37, 'N': 7, 'K': 4} and src == {'T': 9, 'N': 8, 'E': 7, 'R': 19, 'C': 5}
-Dx = G + r"""\chapter{Les Quarante-huit Exigences de la Mission ANPP}
+Dx = G + r"""\chapter{Les quarante-huit exigences de la mission ANPP}
 \label{ann:exigences}
 
 Cette annexe réunit le référentiel employé le 18~juin~2027 pour l'audit du schéma directeur 2027-2031 de l'ANPP

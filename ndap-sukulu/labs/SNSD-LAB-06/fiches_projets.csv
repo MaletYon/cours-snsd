@@ -1,0 +1,41 @@
+projet;intitule;domaine;obligatoire;valeur;cout_millions;depend_de
+P01;Site de secours et continuité;Obligatoires;oui;;620;
+P02;Audit de sécurité;Obligatoires;oui;;90;
+P03;Conformité données personnelles;Obligatoires;oui;;140;
+P04;Onduleurs;Obligatoires;oui;;80;
+P05;Sortie d'un système en fin de maintenance;Obligatoires;oui;;220;
+P06;Projet 6;Refonte de la production;non;55;120;
+P07;Projet 7;Relation avec les bénéficiaires;non;80;180;P36
+P08;Projet 8;Relation avec les bénéficiaires;non;55;60;P24
+P09;Projet 9;Refonte de la production;non;60;45;P27
+P10;Projet 10;Référentiels et données;non;20;60;
+P11;Projet 11;Soutien et pilotage;non;70;90;
+P12;Projet 12;Relation avec les bénéficiaires;non;80;60;
+P13;Projet 13;Refonte de la production;non;70;120;
+P14;Projet 14;Relation avec les bénéficiaires;non;90;340;P15
+P15;Projet 15;Soutien et pilotage;non;45;90;
+P16;Projet 16;Soutien et pilotage;non;30;340;P20
+P17;Projet 17;Référentiels et données;non;40;180;
+P18;Projet 18;Soutien et pilotage;non;35;120;
+P19;Projet 19;Relation avec les bénéficiaires;non;55;45;
+P20;Projet 20;Soutien et pilotage;non;80;180;
+P21;Projet 21;Relation avec les bénéficiaires;non;35;340;
+P22;Projet 22;Refonte de la production;non;40;90;P14
+P23;Projet 23;Soutien et pilotage;non;55;220;
+P24;Projet 24;Soutien et pilotage;non;55;180;
+P25;Projet 25;Référentiels et données;non;25;90;
+P26;Projet 26;Relation avec les bénéficiaires;non;90;260;
+P27;Projet 27;Soutien et pilotage;non;90;220;
+P28;Projet 28;Relation avec les bénéficiaires;non;50;60;
+P29;Projet 29;Soutien et pilotage;non;25;120;
+P30;Projet 30;Soutien et pilotage;non;70;260;P24
+P31;Projet 31;Relation avec les bénéficiaires;non;50;340;
+P32;Projet 32;Référentiels et données;non;25;45;
+P33;Projet 33;Relation avec les bénéficiaires;non;20;45;
+P34;Projet 34;Référentiels et données;non;55;340;
+P35;Projet 35;Relation avec les bénéficiaires;non;20;150;
+P36;Projet 36;Soutien et pilotage;non;30;150;
+P37;Projet 37;Refonte de la production;non;90;45;
+P38;Projet 38;Soutien et pilotage;non;60;120;
+P39;Projet 39;Relation avec les bénéficiaires;non;20;340;
+P40;Projet 40;Soutien et pilotage;non;90;205;P04

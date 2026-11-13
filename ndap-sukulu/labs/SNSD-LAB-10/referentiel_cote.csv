@@ -1,0 +1,49 @@
+numero;domaine;exigence;source;cote;piece;alignement
+1;cadrage;La note de cadrage est signée par le commanditaire;regle de l art;oui;Signature du 29 janvier;non
+2;cadrage;Le périmètre du diagnostic est celui de la note de cadrage;coherence;oui;Rapprochement des deux documents;non
+3;cadrage;L'organe d'approbation est le conseil d'administration;texte;oui;Section 2 de la note;non
+4;cadrage;Le comité de pilotage est présidé par la direction générale;norme;oui;Composition du comité;oui
+5;cadrage;L'horizon couvre le plan stratégique de l'Agence;engagement;oui;2027-2031 pour un plan 2026-2030;non
+6;cadrage;La tutelle a été informée du lancement;regle de l art;nek;Copie du courrier non remise. Preuve;non
+7;diagnostic;L'inventaire est construit depuis les métiers;regle de l art;oui;47 fiches, dont 16 hors liste officielle;non
+8;diagnostic;Chaque application a un responsable côté métier;regle de l art;non;19 fiches sans responsable;non
+9;diagnostic;Chaque note renvoie à une pièce;regle de l art;oui;Registre des pièces;non
+10;diagnostic;La dépense de cinq exercices est reconstituée;regle de l art;oui;Tableau 9.5;non
+11;diagnostic;Le total de la dépense égale la somme par nature;coherence;oui;2 418 + 682 = 3 100;non
+12;diagnostic;Le rapport est approuvé par le comité de pilotage;regle de l art;oui;Procès-verbal du 19 mars;non
+13;cible;Chaque capacité se rattache à un objectif du plan stratégique;engagement;oui;Tableau 10.1;oui
+14;cible;Chaque objectif est servi par une capacité et par un projet au moins;engagement;oui;Table de correspondance;oui
+15;cible;Les principes directeurs sont approuvés avec leurs conséquences;norme;oui;Procès-verbal du 9 avril;non
+16;cible;L'architecture est décrite par des vues adaptées aux lecteurs;norme;oui;Quatre plans;non
+17;cible;Toutes les applications de l'inventaire sont situées sur le plan fonctionnel;coherence;oui;47 sur 47;non
+18;cible;Deux scénarios éligibles ont été comparés sur des critères fixés d'avance;regle de l art;oui;Tableau 10.6;non
+19;portefeuille;Chaque projet a une fiche et un responsable dans le métier;regle de l art;oui;22 fiches;oui
+20;portefeuille;Chaque projet retenu cite un objectif du plan stratégique;engagement;oui;22 fiches;oui
+21;portefeuille;La sélection suit des critères écrits et les projets écartés sont motivés;norme;oui;Annexe du portefeuille;non
+22;portefeuille;Le total des projets retenus tient dans l'enveloppe fixée;engagement;oui;4 180 pour 4 200;non
+23;portefeuille;La trajectoire respecte les dépendances;coherence;oui;Tableau 11.4;non
+24;portefeuille;Chaque projet nomme ce qu'il remplace;regle de l art;non;Sept fiches muettes;non
+25;chiffrage et financement;Chaque projet affiche son investissement et son coût annuel;regle de l art;oui;22 fiches complétées;non
+26;chiffrage et financement;Une provision pour aléas est chiffrée;regle de l art;oui;242 millions;non
+27;chiffrage et financement;Chaque projet est présenté en engagements et en paiements;texte;oui;Tableaux du plan;non
+28;chiffrage et financement;Le total des fiches égale le total du plan de financement;coherence;non;4 180 d'un côté, 4 422 de l'autre;non
+29;chiffrage et financement;Chaque bénéfice a un propriétaire et une mesure de départ;regle de l art;non;Deux bénéfices sans mesure;oui
+30;chiffrage et financement;Le fonctionnement à terme est porté à la connaissance du conseil;engagement;non;Absent de la synthèse de quatre pages;non
+31;chiffrage et financement;Chaque ressource est qualifiée par un acte;regle de l art;nek;Projet de convention non transmis. Preuve;non
+32;pilotage;L'organe de gouvernance surveille l'exécution chaque année;norme;oui;Revue annuelle inscrite au document;non
+33;pilotage;Un comité de portefeuille trimestriel est institué;regle de l art;oui;Section 8;non
+34;pilotage;Une méthode unique de mesure de l'avancement est fixée;norme;oui;Valeur acquise;non
+35;pilotage;Le tableau de bord contient un indicateur de résultat du plan stratégique;engagement;oui;Paiements à date;oui
+36;pilotage;Une procédure traite les demandes hors portefeuille;regle de l art;oui;Section 8;non
+37;pilotage;La révision annuelle précède la préparation du budget;regle de l art;nek;Calendrier non arrêté. Preuve;oui
+38;maîtrise des risques;Un registre des risques existe avec des propriétaires;norme;oui;Registre du 11 juin;non
+39;maîtrise des risques;Le secours est dimensionné par un bilan d'impact sur l'activité;norme;oui;Tableau 14.2;non
+40;maîtrise des risques;L'audit de sécurité obligatoire est programmé;texte;oui;Projet obligatoire n° 2;non
+41;maîtrise des risques;Les traitements de données personnelles sont recensés et leurs formalités programmées;texte;oui;Projet obligatoire n° 3;non
+42;maîtrise des risques;Chaque fiche porte les rubriques sécurité, continuité, données;regle de l art;non;Rubriques absentes de huit fiches;non
+43;maîtrise des risques;Chaque projet a un jalon d'arrêt;regle de l art;non;Neuf fiches sans jalon;non
+44;cadre juridique;Une carte d'applicabilité datée est jointe;texte;oui;Annexe du document;non
+45;cadre juridique;Aucun produit ni aucune marque n'est nommé;texte;oui;Relecture;non
+46;cadre juridique;Les délais de passation des marchés sont comptés dans la trajectoire;texte;oui;Plan d'achat;non
+47;cadre juridique;Chaque projet est rattaché à un programme budgétaire;texte;oui;22 fiches;non
+48;cadre juridique;Les transferts de données hors du Cameroun sont identifiés;texte;nek;Contrats d'hébergement non transmis. Preuve;non

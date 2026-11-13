@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C01
+Chapitre 1 : Stratégie, système d'information, numérique
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. À quoi une stratégie se reconnaît-elle ?
+      a) À sa longueur
+      b) À ses renoncements
+      c) À son vocabulaire technique
+      d) Au nombre de ses axes
+
+ 2. Que vise la stratégie d'une entreprise ?
+      a) L'application d'un texte
+      b) La baisse des impôts
+      c) Un avantage sur des concurrents
+      d) L'achat de matériel
+
+ 3. Que vise la stratégie d'une administration ?
+      a) L'accomplissement d'une mission fixée par un texte
+      b) Un avantage sur des concurrents
+      c) La hausse de son chiffre d'affaires
+      d) La conquête d'un marché
+
+ 4. Quels sont les quatre composants d'un système d'information ?
+      a) Serveurs, réseaux, postes, logiciels
+      b) Budget, contrats, licences, salles
+      c) Clients, fournisseurs, produits, prix
+      d) Personnes, processus, données, moyens techniques
+
+ 5. Un registre papier tenu dans une antenne fait-il partie du système d'information ?
+      a) Non, seul ce qui est informatisé compte
+      b) Oui, le système d'information dépasse l'informatique
+      c) Oui, mais seulement s'il est scanné
+      d) Non, c'est une archive
+
+ 6. Que décrit un schéma directeur qui n'inventorie que des serveurs ?
+      a) Un système d'information
+      b) Une stratégie
+      c) Un parc
+      d) Une cible
+
+ 7. Que modifie le numérique, selon la définition du cours ?
+      a) Le service rendu, la relation avec l'usager ou le modèle d'activité
+      b) Seulement l'outil de travail interne
+      c) Le statut juridique de l'organisation
+      d) Le prix du matériel
+
+ 8. Que signifie informatiser ?
+      a) Faire autrement
+      b) Supprimer le papier
+      c) Externaliser un service
+      d) Faire plus vite ce que l'on faisait déjà
+
+ 9. Que signifie passer au numérique ?
+      a) Faire plus vite la même chose
+      b) Faire autrement
+      c) Acheter des ordinateurs
+      d) Installer la fibre
+
+10. Quel exemple illustre le numérique à l'ANPP ?
+      a) Le guichet reçoit un ordinateur
+      b) Le siège change ses onduleurs
+      c) Le bénéficiaire suit son dossier sur son téléphone
+      d) La division recrute un technicien
+
+11. À quelle question répond la stratégie de l'organisation ?
+      a) Que voulons-nous devenir ?
+      b) Avec quelles techniques ?
+      c) De quelles applications avons-nous besoin ?
+      d) Que change le numérique dans notre mission ?
+
+12. À quelle question répond la stratégie numérique ?
+      a) Que voulons-nous devenir ?
+      b) Avec quelles techniques et quels moyens ?
+      c) Qui paie ?
+      d) Que change le numérique dans notre mission ?
+
+13. À quelle question répond la stratégie du système d'information ?
+      a) Avec quelles techniques ?
+      b) De quelles informations et applications avons-nous besoin ?
+      c) Que voulons-nous devenir ?
+      d) Quel fournisseur choisir ?
+
+14. À quelle question répond la stratégie informatique ?
+      a) Que voulons-nous devenir ?
+      b) Que change le numérique dans notre mission ?
+      c) Avec quelles techniques et quels moyens ?
+      d) Qui approuve ?
+
+15. À quel niveau appartient « un référentiel unique des bénéficiaires » ?
+      a) Stratégie du système d'information
+      b) Stratégie de l'organisation
+      c) Stratégie informatique
+      d) Stratégie numérique
+
+16. À quel niveau appartient « payer chaque bénéficiaire à date fixe, où qu'il vive » ?
+      a) Stratégie informatique
+      b) Stratégie du système d'information
+      c) Stratégie numérique
+      d) Stratégie de l'organisation
+
+17. À quel niveau appartient « paiement sur compte mobile, suivi en ligne » ?
+      a) Stratégie informatique
+      b) Stratégie numérique
+      c) Stratégie de l'organisation
+      d) Stratégie du système d'information
+
+18. À quel niveau appartient « hébergement, réseau des antennes, compétences » ?
+      a) Stratégie numérique
+      b) Stratégie de l'organisation
+      c) Stratégie informatique
+      d) Stratégie du système d'information
+
+19. Qui a séparé stratégie du système d'information et stratégie informatique ?
+      a) Earl, repris par Peppard et Ward
+      b) Porter et Millar
+      c) Kaplan et Norton
+      d) Rochet et Tirole
+
+20. Que dit la stratégie du système d'information ?
+      a) Le comment
+      b) Le combien
+      c) Le quand
+      d) Le quoi
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. Un texte qui promet tout à tous est une stratégie.
+      Vrai / Faux
+
+22. Le système d'information se réduit à l'informatique.
+      Vrai / Faux
+
+23. La distinction entre informatique et numérique est une affaire de mode.
+      Vrai / Faux
+
+24. Un programme d'équipement présenté comme une stratégie numérique est une violation typique.
+      Vrai / Faux
+
+25. Une stratégie numérique se formule du point de vue de celui que l'organisation sert.
+      Vrai / Faux
+
+26. Si rien ne change pour l'usager, il s'agit d'une stratégie informatique.
+      Vrai / Faux
+
+27. Une stratégie informatique est inutile.
+      Vrai / Faux
+
+28. La fibre entre les entrepôts change le service reçu par le client de LiZbiZ.
+      Vrai / Faux
+
+29. La stratégie informatique dit le comment.
+      Vrai / Faux
+
+30. La stratégie du système d'information se tire des besoins des métiers.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. Une stratégie se reconnaît à ses ______.
+
+32. Le système d'information réunit des personnes, des processus, des ______ et des moyens techniques.
+
+33. Informatiser, c'est faire plus ______ ce que l'on faisait déjà.
+
+34. Passer au numérique, c'est faire ______.
+
+35. Un schéma directeur qui n'inventorie que des serveurs décrit un ______.
+
+36. La stratégie du système d'information dit le quoi. La stratégie informatique dit le ______.
+
+37. « Que voulons-nous devenir ? » est la question de la stratégie de l'______.
+
+38. « Que change le numérique dans notre mission ? » est la question de la stratégie ______.
+
+39. Le cours distingue ______ niveaux de stratégie.
+
+40. Dans les années 1970, le document type est le plan ______.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

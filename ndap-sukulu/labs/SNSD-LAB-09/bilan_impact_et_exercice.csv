@@ -1,0 +1,16 @@
+activite;dmia_heures;pdma_heures;reprise_constatee_heures;age_donnees_retrouvees_heures
+Paiements et virements;2;0;1.6;0.2
+Guichet des agences;4;1;6.0;0.5
+Monétique;2;0;5.0;0.2
+Banque en ligne;4;1;10.0;3
+Paiement mobile;2;0;8;0.2
+Trésorerie;4;1;16;1
+Crédits;24;4;96;4
+Comptabilité;48;24;192;72
+Déclarations au superviseur;24;24;;
+Lutte contre le blanchiment;8;4;6.4;4
+Ressources humaines;72;24;36.0;24
+Messagerie;8;4;32;4
+Centre d'appels;4;4;2.0;4
+Archivage;120;24;480;576
+Achats;72;24;108.0;24

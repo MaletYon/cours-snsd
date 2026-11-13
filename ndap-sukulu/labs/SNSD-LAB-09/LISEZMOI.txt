@@ -1,0 +1,30 @@
+SNSD-LAB-09, registre des risques et continuité
+
+Les pièces du lab se trouvent dans le dossier preuves, en lecture seule, et
+une copie de travail modifiable dans le dossier travail (ouvert au démarrage).
+  note_risques.txt               méthode du contrôle de second niveau
+  registre_risques.csv           30 risques du schéma directeur
+  bilan_impact_et_exercice.csv   15 activités : besoins et résultats du dernier exercice
+  MANIFESTE_SHA256.txt           empreintes de référence (preuves)
+
+Marche à suivre.
+
+1. Vérifier l'intégrité avant toute analyse. Ouvrez un terminal, puis tapez :
+       cd ~/preuves
+       sha256sum -c MANIFESTE_SHA256.txt
+   Chaque fichier doit afficher OK.
+
+2. Lire la note.
+
+3. Calculer la criticité de chaque risque.
+
+4. Contrôler traitements et propriétaires au-dessus du seuil.
+
+5. Comparer l'exercice aux besoins des métiers.
+
+6. Répondre. Saisissez vos réponses dans le volet Points de contrôle de la
+   page du lab, puis enregistrez. Nombres avec un point ou une virgule
+   décimale ; codes et listes comme indiqué dans chaque question. Quand vous
+   avez terminé, cliquez sur Terminer et corriger pour obtenir votre note.
+
+Toute votre activité dans le terminal est journalisée.

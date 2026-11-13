@@ -1,0 +1,13 @@
+id;organisation;statut;traite_donnees_personnelles;vend_en_ligne;paie_sur_compte_mobile
+O01;ANPP;etablissement public;oui;non;oui
+O02;LiZbiZ;societe commerciale;oui;oui;non
+O03;BANQUE SANAGA;etablissement de credit;oui;oui;oui
+O04;Direction régionale des impôts;administration;oui;non;non
+O05;Hôpital de district;etablissement public;oui;non;non
+O06;Société publique des eaux;entreprise publique;oui;oui;oui
+O07;Université d'État;etablissement public;oui;oui;non
+O08;Microfinance du Mbam;etablissement de credit;oui;non;oui
+O09;Imprimerie privée;societe commerciale;non;non;non
+O10;Commune d'arrondissement;administration;oui;non;oui
+O11;Compagnie publique de transport;entreprise publique;oui;oui;non
+O12;Négoce de matériaux;societe commerciale;oui;oui;oui

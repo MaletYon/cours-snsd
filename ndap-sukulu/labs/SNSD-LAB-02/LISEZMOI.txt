@@ -1,0 +1,32 @@
+SNSD-LAB-02, mesurer la maturité de l'alignement à l'ANPP
+
+Les pièces du lab se trouvent dans le dossier preuves, en lecture seule, et
+une copie de travail modifiable dans le dossier travail (ouvert au démarrage).
+  note_methode.txt       méthode déclarée
+  questionnaire.csv      24 réponses sur six critères
+  exigences_cotees.csv   18 exigences cotées avec leur pièce
+  MANIFESTE_SHA256.txt   empreintes de référence (preuves)
+
+Marche à suivre.
+
+1. Vérifier l'intégrité avant toute analyse. Ouvrez un terminal, puis tapez :
+       cd ~/preuves
+       sha256sum -c MANIFESTE_SHA256.txt
+   Chaque fichier doit afficher OK.
+
+2. Lire la note de méthode.
+
+3. Calculer les moyennes de perception.
+
+4. Comparer les profils.
+
+5. Calculer les trois mesures sur les exigences.
+
+6. Comparer perception et preuve.
+
+7. Répondre. Saisissez vos réponses dans le volet Points de contrôle de la
+   page du lab, puis enregistrez. Nombres avec un point ou une virgule
+   décimale ; codes et listes comme indiqué dans chaque question. Quand vous
+   avez terminé, cliquez sur Terminer et corriger pour obtenir votre note.
+
+Toute votre activité dans le terminal est journalisée.

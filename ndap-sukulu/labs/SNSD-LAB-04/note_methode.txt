@@ -1,0 +1,12 @@
+AUDIX CONSEIL, mission ANPP, méthode de notation des applications (février 2027)
+
+Chaque application reçoit deux notes de 1 à 5.
+  Valeur pour le métier : moyenne des quatre critères v1 à v4.
+  Santé technique : moyenne des quatre critères s1 à s4.
+Seuil : 3.
+  Valeur >= 3 et santé >= 3 : investir.       Valeur >= 3 et santé < 3 : refondre.
+  Valeur < 3 et santé >= 3 : conserver.       Valeur < 3 et santé < 3 : retirer.
+La grille de McFarlan (colonne famille) classe par ailleurs chaque application : strategique,
+operationnelle cle, fort potentiel, soutien.
+Dépense : le fonctionnement maintient l'existant, les projets créent du nouveau.
+(Document fictif établi pour le cours SNSD (MSN-2S4-MSI01). Noms, dates, adresses et montants fictifs.)

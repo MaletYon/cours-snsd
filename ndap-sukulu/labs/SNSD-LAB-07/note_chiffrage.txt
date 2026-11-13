@@ -1,0 +1,10 @@
+AUDIX CONSEIL, mission LiZbiZ, note de chiffrage (mai 2027)
+
+Projet : suivi des colis en temps réel et planification des tournées.
+Deux voies : acheter (logiciel installé chez LiZbiZ) ou louer (service en ligne).
+  Coût complet de possession : somme de tous les postes sur 2027-2031.
+  Valeur actuelle nette au taux de 10 % : les flux de 2027 ne sont pas actualisés (t = 0),
+  ceux de 2028 sont divisés par 1,10, ceux de 2029 par 1,10 au carré, etc.
+  Flux net d'une année : gain de l'année moins coût de l'année.
+Les gains nets attendus du projet sont les mêmes dans les deux voies (fichier gains.csv).
+(Document fictif établi pour le cours SNSD (MSN-2S4-MSI01). Noms, dates, adresses et montants fictifs.)

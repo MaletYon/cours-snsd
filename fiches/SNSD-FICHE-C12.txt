@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C12
+Chapitre 12 : Chiffrer, financer, acheter, doter
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. Qu'additionne le coût complet de possession ?
+      a) Le seul prix d'achat
+      b) L'investissement et tout ce qui sera payé ensuite pour faire vivre le résultat
+      c) Les seuls salaires
+      d) Les seules licences
+
+ 2. Combien de postes le coût complet compte-t-il ?
+      a) 2
+      b) 3
+      c) 5
+      d) 8
+
+ 3. Lequel est un poste du coût complet ?
+      a) La sortie
+      b) La publicité
+      c) Les impôts
+      d) Les dividendes
+
+ 4. Que couvre le poste « charges internes » ?
+      a) Les licences
+      b) L'énergie
+      c) Le matériel
+      d) Le temps des agents affectés au projet
+
+ 5. Quel est l'investissement du référentiel des bénéficiaires ?
+      a) 484 millions
+      b) 340 millions
+      c) 48 millions
+      d) 620 millions
+
+ 6. Combien le référentiel coûte-t-il par an à partir de 2029 ?
+      a) 60 millions
+      b) 85 millions
+      c) 48 millions
+      d) 136 millions
+
+ 7. Quel est le coût complet du référentiel sur la période ?
+      a) 484 millions
+      b) 340 millions
+      c) 388 millions
+      d) 580 millions
+
+ 8. Quels deux montants chaque projet affiche-t-il ?
+      a) Le prix et la remise
+      b) Le budget et la marge
+      c) Le coût et le délai
+      d) L'investissement et le coût annuel après mise en service
+
+ 9. Combien de méthodes d'estimation se combinent ?
+      a) 1
+      b) 3
+      c) 2
+      d) 5
+
+10. Que fait l'estimation par analogie ?
+      a) Elle additionne les éléments
+      b) Elle interroge des fournisseurs
+      c) Elle part d'un projet comparable déjà réalisé
+      d) Elle tire au sort
+
+11. Quelle fourchette est honnête en phase de schéma directeur ?
+      a) Plus ou moins 30 %
+      b) Plus ou moins 1 %
+      c) Plus ou moins 5 %
+      d) Aucune
+
+12. Par quoi l'incertitude d'estimation se couvre-t-elle ?
+      a) Un emprunt
+      b) Une assurance vie
+      c) Un gel des projets
+      d) Une provision pour aléas
+
+13. Quelle provision le cabinet propose-t-il ?
+      a) 0,5 % du total
+      b) 8 % des projets non obligatoires
+      c) 20 % du total
+      d) Aucune
+
+14. Que fait la valeur actuelle nette ?
+      a) Elle additionne les flux sans les actualiser
+      b) Elle mesure la satisfaction
+      c) Elle ramène tous les flux à la date de départ
+      d) Elle classe les risques
+
+15. Que désigne r dans la formule de la valeur actuelle nette ?
+      a) Le taux d'actualisation
+      b) Le risque
+      c) Le rendement du fournisseur
+      d) Le nombre d'années
+
+16. Quel gain net annuel le guichet unique procure-t-il ?
+      a) 39,6 millions
+      b) 180 millions
+      c) 85 millions
+      d) 55 millions
+
+17. Quelle est la valeur actuelle nette du guichet unique à 8 % ?
+      a) 219,6 millions
+      b) 39,6 millions
+      c) 95 millions
+      d) Moins 5,8 millions
+
+18. Quelle limite la valeur actuelle nette a-t-elle dans le secteur public ?
+      a) Elle est interdite
+      b) Elle ignore le temps
+      c) La plupart des bénéfices ne sont pas des recettes
+      d) Elle surestime les coûts
+
+19. Comment Ward et Daniel classent-ils les bénéfices ?
+      a) Financiers, quantifiables, mesurables ou observables
+      b) Petits, moyens, grands
+      c) Internes ou externes
+      d) Rapides ou lents
+
+20. Quel est le montant du lot 2, liquidation ?
+      a) 620 millions
+      b) 340 millions
+      c) 1 820 millions
+      d) 780 millions
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. Le coût d'un projet s'arrête à sa mise en service.
+      Vrai / Faux
+
+22. Chiffrer un schéma directeur en investissement seul est une violation typique.
+      Vrai / Faux
+
+23. La fiche du référentiel n'affichait que 340 millions.
+      Vrai / Faux
+
+24. Le schéma directeur affiche la dépense de fonctionnement de sa dernière année.
+      Vrai / Faux
+
+25. Une estimation se donne sans fourchette.
+      Vrai / Faux
+
+26. La fourchette se resserre avec l'avancement.
+      Vrai / Faux
+
+27. L'ANPP avait d'abord prévu une marge de moins de 0,5 %.
+      Vrai / Faux
+
+28. Un franc reçu dans cinq ans vaut autant qu'un franc reçu aujourd'hui.
+      Vrai / Faux
+
+29. Un bénéfice seulement observable n'est pas un bénéfice.
+      Vrai / Faux
+
+30. Avec une valeur actuelle nette positive, le projet se paie.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. Le coût ______ de possession ajoute à l'investissement ce qui sera payé ensuite.
+
+32. Le coût complet du référentiel sur la période est de ______ millions.
+
+33. Les cinq postes sont l'investissement, les charges internes, le fonctionnement, le renouvellement et la ______.
+
+34. Les trois méthodes sont l'analogie, le détail et le prix de ______.
+
+35. Une estimation se couvre par une ______ pour aléas.
+
+36. Le cabinet propose ______ % des projets non obligatoires.
+
+37. La valeur ______ nette ramène les flux à la date de départ.
+
+38. Le guichet unique coûte ______ millions.
+
+39. Sa valeur actuelle nette à 8 % est de ______ millions.
+
+40. Chaque projet public se présente en engagements et en ______.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

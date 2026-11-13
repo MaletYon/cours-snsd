@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C08
+Chapitre 8 : Cadrer et gouverner la démarche
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. À combien de questions le cadrage répond-il par écrit ?
+      a) 3
+      b) 6
+      c) 4
+      d) 10
+
+ 2. Que faut-il écrire à la question « pourquoi » ?
+      a) Le nom du cabinet
+      b) Le montant du budget
+      c) Le fait qui déclenche la démarche
+      d) La liste des serveurs
+
+ 3. Que faut-il écrire à la question « pour qui » ?
+      a) Le commanditaire et l'organe qui approuve
+      b) Les fournisseurs
+      c) Les utilisateurs finaux seuls
+      d) Le nom du consultant
+
+ 4. Que faut-il écrire à la question « jusqu'où » ?
+      a) Le périmètre
+      b) Le calendrier
+      c) Les instances
+      d) L'horizon et le niveau d'ambition
+
+ 5. Quel fait déclenche la démarche à l'ANPP ?
+      a) Un changement de directeur
+      b) Le document de 2021 échu et la panne de mars 2026
+      c) Une fusion
+      d) Un contrôle fiscal
+
+ 6. Quel est le produit du cadrage ?
+      a) Un rapport de diagnostic
+      b) Un dossier de cible
+      c) Une note de cadrage
+      d) Un plan de financement
+
+ 7. Combien de pages la note de cadrage compte-t-elle ?
+      a) 10
+      b) 2
+      c) 60
+      d) 214
+
+ 8. Qui signe la note de cadrage ?
+      a) Le consultant junior
+      b) Le fournisseur
+      c) L'auditeur
+      d) Le commanditaire
+
+ 9. Par combien de listes le périmètre se définit-il ?
+      a) 1
+      b) 3
+      c) 2
+      d) 5
+
+10. Que nomment les trois listes du périmètre ?
+      a) Les serveurs, les postes, les réseaux
+      b) Les coûts, les délais, les risques
+      c) Les entités, les métiers, les objets
+      d) Les lois, les décrets, les normes
+
+11. Qu'a exclu l'ANPP du périmètre ?
+      a) La téléphonie des antennes
+      b) La liquidation des droits
+      c) Le paiement
+      d) Les données
+
+12. Comment une exclusion s'écrit-elle ?
+      a) Sans commentaire
+      b) Dans une note secrète
+      c) Oralement
+      d) Datée et motivée
+
+13. Quel horizon convient à une entreprise dont le marché bouge ?
+      a) Un an
+      b) Trois ans
+      c) Sept ans
+      d) Dix ans
+
+14. Quel horizon convient à une administration dont le plan stratégique court sur cinq ans ?
+      a) Deux ans
+      b) Dix ans
+      c) Cinq ans
+      d) Quinze ans
+
+15. Combien de niveaux d'ambition le commanditaire peut-il choisir ?
+      a) 3
+      b) 2
+      c) 4
+      d) 5
+
+16. Lequel est l'un des trois niveaux d'ambition ?
+      a) Auditer
+      b) Acheter
+      c) Archiver
+      d) Aligner
+
+17. Quelle ambition le directeur général de l'ANPP a-t-il choisie ?
+      a) Remettre à niveau
+      b) Aligner
+      c) Transformer
+      d) Aucune
+
+18. Que signifie « transformer » ?
+      a) Rattraper un retard
+      b) Servir le plan stratégique
+      c) Changer la manière de rendre le service
+      d) Réduire le budget
+
+19. Quelle conséquence le choix « aligner » a-t-il sur la mission ?
+      a) Aucun scénario de transformation ne sera chiffré
+      b) Le diagnostic est supprimé
+      c) Le budget est doublé
+      d) Le conseil est écarté
+
+20. Combien d'instances suffisent à la démarche ?
+      a) 1
+      b) 2
+      c) 6
+      d) 3
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. Le diagnostic peut démarrer tant qu'une réponse du cadrage manque.
+      Vrai / Faux
+
+22. La note de cadrage sert de référence pendant toute la mission.
+      Vrai / Faux
+
+23. Commencer le diagnostic sans note signée est une violation typique.
+      Vrai / Faux
+
+24. Ce qui n'est pas dans le périmètre s'écrit aussi.
+      Vrai / Faux
+
+25. Au-delà de cinq ans, le document ne prévoit plus, il rêve.
+      Vrai / Faux
+
+26. Le niveau d'ambition se choisit après le diagnostic.
+      Vrai / Faux
+
+27. Remettre à niveau, c'est rattraper un retard.
+      Vrai / Faux
+
+28. L'ISO/IEC 38500 permet de confier le schéma directeur à la seule direction informatique.
+      Vrai / Faux
+
+29. Le conseil d'administration est une instance de la démarche.
+      Vrai / Faux
+
+30. Un comité de pilotage présidé par le responsable informatique est une violation typique.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. Le cadrage répond par écrit à ______ questions.
+
+32. Le produit du cadrage est une note de ______.
+
+33. Le cadrage se termine par une ______.
+
+34. Le périmètre se définit par trois listes : les entités, les métiers et les ______.
+
+35. L'ANPP a exclu la ______ des antennes.
+
+36. Les trois ambitions sont remettre à niveau, ______ et transformer.
+
+37. L'horizon retenu par l'ANPP est 2027-______.
+
+38. Les trois instances sont le comité de pilotage, l'équipe projet et les groupes de ______.
+
+39. Le comité de pilotage est présidé par celui qui arbitre les ______.
+
+40. À l'ANPP, le comité de pilotage est présidé par le directeur ______.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

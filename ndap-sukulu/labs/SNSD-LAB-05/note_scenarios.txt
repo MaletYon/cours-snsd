@@ -1,0 +1,12 @@
+AUDIX CONSEIL, mission BANQUE SANAGA, dossier de cible (avril 2027)
+
+Scénario A. Consolider le système central actuel, ajouter un site de secours.
+Scénario B. Refondre par étapes : secours, puis canaux, puis système central en deux lots.
+Scénario C. Remplacer le système central d'un bloc par un progiciel bancaire.
+
+Méthode. Six membres du comité de pilotage notent chaque scénario de 1 à 5 sur cinq critères.
+La note d'un scénario sur un critère est la moyenne des six notes.
+La note pondérée est la somme des notes de critère multipliées par leur poids.
+Les poids ont été fixés par le comité avant la notation (fichier criteres.csv, colonne poids).
+Un administrateur propose d'autres poids (colonne poids_alternatif). Le cabinet teste les deux.
+(Document fictif établi pour le cours SNSD (MSN-2S4-MSI01). Noms, dates, adresses et montants fictifs.)

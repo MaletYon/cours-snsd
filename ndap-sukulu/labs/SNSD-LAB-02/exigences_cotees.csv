@@ -1,0 +1,19 @@
+critere;exigence;cote;piece
+communication;La division informatique participe aux réunions de direction;non;Feuilles de présence
+communication;Les métiers connaissent les projets en cours;non;Entretiens
+communication;Un compte rendu mensuel des projets est diffusé;non;Aucun compte rendu
+valeur;Chaque projet a un bénéfice attendu écrit;non;Fiches de projet
+valeur;Un bilan est fait après la mise en service;non;Aucun bilan
+valeur;Le coût de fonctionnement de chaque application est connu;nek;Comptabilité non détaillée
+gouvernance;Une instance arbitre les projets;non;Aucune instance
+gouvernance;Le budget suit les priorités arbitrées;nek;Clé de répartition non documentée
+gouvernance;Le conseil reçoit un rapport annuel sur le système d'information;non;Procès-verbaux
+partenariat;Chaque projet a un responsable métier;oui;Notes de désignation
+partenariat;Les métiers participent aux recettes;oui;Procès-verbaux de recette
+partenariat;Les demandes des métiers sont enregistrées;oui;Registre des demandes
+architecture;Une cartographie applicative est tenue;non;Aucune
+architecture;Les échanges entre applications sont documentés;non;Aucun document
+architecture;Chaque donnée commune a un système maître;non;Onze fichiers de bénéficiaires
+competences;Un plan de formation existe;oui;Plan 2026
+competences;Les postes clés ont un suppléant;nek;Organigramme incomplet
+competences;Les fiches de poste sont à jour;oui;Fiches de 2025

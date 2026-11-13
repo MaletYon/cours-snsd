@@ -1,0 +1,10 @@
+AUDIX CONSEIL, mission ANPP, note de méthode (février 2027)
+
+1. Perception. Vingt-quatre personnes notent de 1 à 5 les six critères de Luftman : communication,
+mesure de la valeur, gouvernance, partenariat, périmètre et architecture, compétences.
+Trois profils : direction, métier, informatique.
+2. Preuve. Dix-huit exigences sont cotées oui, non ou nek, chacune avec sa pièce.
+   Taux de conformité : nombre de oui divisé par le nombre d'exigences.
+   Taux d'incertitude : nombre de nek divisé par le nombre d'exigences.
+   Entropie : H = - somme des p log2 p sur les trois cotes présentes.
+(Document fictif établi pour le cours SNSD (MSN-2S4-MSI01). Noms, dates, adresses et montants fictifs.)

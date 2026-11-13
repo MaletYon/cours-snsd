@@ -1,0 +1,30 @@
+SNSD-LAB-03, carte d'applicabilité des textes
+
+Les pièces du lab se trouvent dans le dossier preuves, en lecture seule, et
+une copie de travail modifiable dans le dossier travail (ouvert au démarrage).
+  regles_applicabilite.txt   onze règles simplifiées
+  organisations.csv          douze organisations
+  projets_engagements.csv    huit marchés et leurs échéanciers
+  MANIFESTE_SHA256.txt       empreintes de référence (preuves)
+
+Marche à suivre.
+
+1. Vérifier l'intégrité avant toute analyse. Ouvrez un terminal, puis tapez :
+       cd ~/preuves
+       sha256sum -c MANIFESTE_SHA256.txt
+   Chaque fichier doit afficher OK.
+
+2. Lire les règles.
+
+3. Dresser la matrice des douze organisations et des onze textes.
+
+4. Compter par texte et par organisation.
+
+5. Calculer les engagements et les paiements.
+
+6. Répondre. Saisissez vos réponses dans le volet Points de contrôle de la
+   page du lab, puis enregistrez. Nombres avec un point ou une virgule
+   décimale ; codes et listes comme indiqué dans chaque question. Quand vous
+   avez terminé, cliquez sur Terminer et corriger pour obtenir votre note.
+
+Toute votre activité dans le terminal est journalisée.

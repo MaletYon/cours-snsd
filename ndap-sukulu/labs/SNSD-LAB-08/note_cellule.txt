@@ -1,0 +1,11 @@
+ANPP, cellule de portefeuille, note de méthode pour la revue du 30 juin 2028
+
+Valeur planifiée (VP) : budget des travaux prévus à la date.
+Valeur acquise (VA) : budget des travaux réellement achevés.
+Coût réel (CR) : ce qui a été payé.
+Indice de délai : VA / VP.   Indice de coût : VA / CR.
+Un projet est en alerte si son indice de coût est inférieur à 0,80.
+Un projet non démarré a une valeur planifiée nulle : il ne compte pas dans les alertes.
+Bénéfices : chaque bénéfice doit avoir un propriétaire et une mesure de départ.
+Paiements à date : prestations payées au plus tard à la date prévue, divisées par les prestations dues.
+(Document fictif établi pour le cours SNSD (MSN-2S4-MSI01). Noms, dates, adresses et montants fictifs.)

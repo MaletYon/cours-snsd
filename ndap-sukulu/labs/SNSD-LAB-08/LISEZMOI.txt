@@ -1,0 +1,33 @@
+SNSD-LAB-08, tableau de bord d'exécution
+
+Les pièces du lab se trouvent dans le dossier preuves, en lecture seule, et
+une copie de travail modifiable dans le dossier travail (ouvert au démarrage).
+  note_cellule.txt         méthode de la cellule
+  suivi_projets.csv        22 projets au 30 juin 2028
+  registre_benefices.csv   12 bénéfices attendus
+  paiements_2027.csv       paiements de 2027 mois par mois
+  MANIFESTE_SHA256.txt     empreintes de référence (preuves)
+
+Marche à suivre.
+
+1. Vérifier l'intégrité avant toute analyse. Ouvrez un terminal, puis tapez :
+       cd ~/preuves
+       sha256sum -c MANIFESTE_SHA256.txt
+   Chaque fichier doit afficher OK.
+
+2. Lire la note.
+
+3. Calculer les indices du portefeuille.
+
+4. Repérer les projets en alerte.
+
+5. Contrôler le registre des bénéfices.
+
+6. Calculer l'indicateur de résultat.
+
+7. Répondre. Saisissez vos réponses dans le volet Points de contrôle de la
+   page du lab, puis enregistrez. Nombres avec un point ou une virgule
+   décimale ; codes et listes comme indiqué dans chaque question. Quand vous
+   avez terminé, cliquez sur Terminer et corriger pour obtenir votre note.
+
+Toute votre activité dans le terminal est journalisée.

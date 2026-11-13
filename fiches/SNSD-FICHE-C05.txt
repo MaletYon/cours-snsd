@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C05
+Chapitre 5 : Doctrines et stratégies numériques dans le monde et en Afrique
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. À quelle date la recommandation de l'OCDE sur les stratégies numériques gouvernementales a-t-elle été adoptée ?
+      a) 27 juin 2014
+      b) 15 juillet 2014
+      c) 22 septembre 2024
+      d) 4 mars 2026
+
+ 2. Quelle est la référence de cette recommandation ?
+      a) A/RES/79/1
+      b) ISO/IEC 38500
+      c) OECD/LEGAL/0406
+      d) LC-COB/04
+
+ 3. Comment la recommandation s'organise-t-elle ?
+      a) Trois piliers et douze principes
+      b) Cinq piliers et quatre axes
+      c) Sept piliers
+      d) Huit axes
+
+ 4. Que demande la recommandation ?
+      a) Créer une agence du numérique
+      b) Privatiser les services publics
+      c) Interdire le papier
+      d) Passer de l'administration électronique à l'administration numérique
+
+ 5. Que fait l'administration électronique ?
+      a) Elle repense le service
+      b) Elle met en ligne des procédures existantes
+      c) Elle supprime les guichets
+      d) Elle vend des données
+
+ 6. Que fait l'administration numérique ?
+      a) Elle met en ligne des formulaires
+      b) Elle achète des serveurs
+      c) Elle repense le service
+      d) Elle forme des agents
+
+ 7. La recommandation oblige-t-elle le Cameroun ?
+      a) Non, le Cameroun n'est pas membre de l'OCDE
+      b) Oui, depuis 2014
+      c) Oui, depuis 2024
+      d) Seulement pour les banques
+
+ 8. Quel organisme publie l'indice EGDI ?
+      a) La Banque mondiale
+      b) L'OCDE
+      c) L'Union africaine
+      d) Les Nations Unies
+
+ 9. Quel organisme publie l'indice de maturité GovTech ?
+      a) Les Nations Unies
+      b) La Banque mondiale
+      c) L'OCDE
+      d) L'UIT
+
+10. Laquelle est une composante de l'EGDI ?
+      a) Le nombre de brevets
+      b) Le taux d'inflation
+      c) Le capital humain
+      d) La dette publique
+
+11. À quoi ces indices servent-ils dans un schéma directeur ?
+      a) Au diagnostic
+      b) Au choix d'un éditeur
+      c) Au calcul du budget
+      d) À la passation des marchés
+
+12. À quelle date le Pacte numérique mondial a-t-il été adopté ?
+      a) 15 juillet 2014
+      b) 18 juillet 2024
+      c) 15 février 2025
+      d) 22 septembre 2024
+
+13. De quelle résolution le Pacte numérique mondial est-il l'annexe I ?
+      a) La résolution 38500
+      b) La résolution 79/1 de l'Assemblée générale
+      c) Le règlement 04/18
+      d) La convention de Malabo
+
+14. Quelle est la nature du Pacte numérique mondial ?
+      a) Un traité assorti de sanctions
+      b) Une norme certifiable
+      c) Un engagement politique des États, sans sanction
+      d) Un règlement communautaire
+
+15. Quel effet pratique le Pacte a-t-il ?
+      a) Il oriente les financements des bailleurs
+      b) Il fixe les tarifs des opérateurs
+      c) Il impose un logiciel
+      d) Il crée une agence
+
+16. Depuis quand la doctrine de l'infrastructure publique numérique s'est-elle imposée ?
+      a) 2014
+      b) 2003
+      c) 1993
+      d) 2023
+
+17. Quels sont les trois socles de l'infrastructure publique numérique ?
+      a) Réseau, serveurs, postes
+      b) Identité, paiement, échange de données
+      c) Santé, éducation, justice
+      d) Fibre, satellite, mobile
+
+18. Quelle idée fonde cette doctrine ?
+      a) Chaque service bâtit ses propres outils
+      b) Le privé remplace l'État
+      c) L'État construit des socles, puis chaque service s'y branche
+      d) Les données restent cloisonnées
+
+19. Quel est le gaspillage le plus fréquent des administrations, selon le cours ?
+      a) Bâtir seul ce qui existera en commun
+      b) Trop former les agents
+      c) Acheter trop peu
+      d) Réviser trop souvent
+
+20. Que doit savoir l'ANPP avant de bâtir son identification des bénéficiaires ?
+      a) Le prix des serveurs
+      b) Le nom de l'éditeur
+      c) La date du prochain conseil
+      d) Ce que l'État prévoit en matière d'identité
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. La recommandation de l'OCDE est le premier instrument international consacré à l'administration numérique.
+      Vrai / Faux
+
+22. Le Cameroun est membre de l'OCDE.
+      Vrai / Faux
+
+23. Les indices internationaux disent quoi faire.
+      Vrai / Faux
+
+24. Un schéma directeur d'administration peut citer le rang du pays et sa composante la plus faible.
+      Vrai / Faux
+
+25. Le Pacte numérique mondial est assorti de sanctions.
+      Vrai / Faux
+
+26. Le Pacte numérique mondial traite de l'intelligence artificielle.
+      Vrai / Faux
+
+27. Les bailleurs financent de préférence des projets qui se branchent sur des socles communs.
+      Vrai / Faux
+
+28. Un État numérise service par service selon la doctrine des socles.
+      Vrai / Faux
+
+29. Une administration peut écrire son schéma directeur comme si elle était seule.
+      Vrai / Faux
+
+30. La Convention de Malabo traite des données personnelles et de la cybersécurité.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. La recommandation de l'OCDE date du 15 juillet ______.
+
+32. Elle demande de passer de l'administration électronique à l'administration ______.
+
+33. Elle s'organise en trois piliers et ______ principes.
+
+34. L'indice de développement de l'administration en ligne des Nations Unies se note ______.
+
+35. L'indice de maturité ______ est publié par la Banque mondiale.
+
+36. Le Pacte numérique mondial a été adopté le 22 ______ 2024.
+
+37. Le Pacte est l'annexe I de la résolution ______ de l'Assemblée générale.
+
+38. Les trois socles sont l'identité, le ______ et l'échange de données.
+
+39. La doctrine s'appelle infrastructure ______ numérique.
+
+40. La Convention de ______ date du 27 juin 2014.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

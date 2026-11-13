@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C16
+Chapitre 16 : Auditer un schéma directeur, mesurer l'alignement
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. À combien de moments un schéma directeur s'audite-t-il ?
+      a) 1
+      b) 3
+      c) 2
+      d) 5
+
+ 2. Quelle question pose l'audit avant l'approbation ?
+      a) Est-il exécuté et piloté ?
+      b) A-t-il produit ce qu'il promettait ?
+      c) Le document est-il exécutable ?
+      d) Est-il bien écrit ?
+
+ 3. Quelle question pose l'audit pendant l'exécution ?
+      a) Est-il exécuté et piloté ?
+      b) Est-il exécutable ?
+      c) Est-il trop long ?
+      d) A-t-il produit ce qu'il promettait ?
+
+ 4. Quelle question pose l'audit à l'échéance ?
+      a) Est-il exécutable ?
+      b) Est-il approuvé ?
+      c) Est-il piloté ?
+      d) A-t-il produit ce qu'il promettait ?
+
+ 5. Quel audit le prologue a-t-il pratiqué sur le document de 2021 ?
+      a) L'audit avant l'approbation
+      b) L'audit à l'échéance
+      c) L'audit pendant l'exécution
+      d) Aucun
+
+ 6. Quelles pièces sert l'audit à l'échéance ?
+      a) La note de cadrage
+      b) Les fiches de projet
+      c) Les mesures de départ et d'arrivée des bénéfices, les comptes
+      d) Le cahier des charges
+
+ 7. Que compare un audit selon l'Auditologie ?
+      a) Un objet à un critère au moyen d'une preuve
+      b) Deux documents
+      c) Deux auditeurs
+      d) Un budget à une dépense
+
+ 8. De quoi l'audit rend-il compte en plus ?
+      a) De l'humeur des audités
+      b) Du prix de la mission
+      c) Du nombre de pages
+      d) De ce qu'il n'a pas pu établir
+
+ 9. D'où vient un critère d'audit ?
+      a) De l'intuition de l'auditeur
+      b) D'un texte, d'une norme, d'un engagement ou d'une règle de l'art reconnue
+      c) Du fournisseur
+      d) Du hasard
+
+10. Qu'est une preuve ?
+      a) Une déclaration orale
+      b) Une impression
+      c) Une pièce : un document, un enregistrement, une observation consignée
+      d) Une rumeur
+
+11. De quoi une déclaration orale est-elle la preuve ?
+      a) De ce qui a été déclaré
+      b) De la conformité
+      c) De rien
+      d) De tout
+
+12. Que signifie la cote OUI ?
+      a) L'audité affirme être conforme
+      b) L'auditeur le pense
+      c) Aucune pièce ne contredit
+      d) La preuve montre que l'exigence est satisfaite
+
+13. Quand le NEK est-il de preuve ?
+      a) Quand l'exigence ne s'applique pas
+      b) Quand la pièce manque
+      c) Quand l'audité refuse
+      d) Quand l'auditeur hésite
+
+14. Quand le NEK est-il de critère ?
+      a) Quand la pièce manque
+      b) Quand la pièce est fausse
+      c) Quand l'exigence ne s'applique pas ou ne peut pas être formulée pour cet objet
+      d) Quand le délai est court
+
+15. Quelle cote donner sans pièce ?
+      a) NEK
+      b) NON
+      c) OUI
+      d) Aucune
+
+16. Combien d'exigences le référentiel de la mission ANPP compte-t-il ?
+      a) 46
+      b) 40
+      c) 22
+      d) 48
+
+17. En combien de domaines ces exigences se répartissent-elles ?
+      a) 5
+      b) 8
+      c) 6
+      d) 16
+
+18. De combien de sources les exigences viennent-elles ?
+      a) 3
+      b) 4
+      c) 5
+      d) 8
+
+19. Quelle source fournit le plus d'exigences ?
+      a) Les règles de l'art
+      b) Les textes
+      c) Les normes de gouvernance
+      d) La cohérence interne
+
+20. Combien d'exigences viennent des textes ?
+      a) 5
+      b) 8
+      c) 19
+      d) 9
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. Les chapitres de méthode ont pratiqué l'audit avant approbation sur chaque livrable de 2027.
+      Vrai / Faux
+
+22. L'auditeur invente ses critères en cours de route.
+      Vrai / Faux
+
+23. On audite un document daté, une période, un périmètre.
+      Vrai / Faux
+
+24. L'absence de preuve est la preuve de l'absence.
+      Vrai / Faux
+
+25. Coter OUI sur la foi d'une déclaration est une violation typique.
+      Vrai / Faux
+
+26. Une exigence bien écrite est vérifiable par une pièce.
+      Vrai / Faux
+
+27. « Le schéma directeur est aligné sur la stratégie » se vérifie fiche par fiche.
+      Vrai / Faux
+
+28. L'Annexe D donne le référentiel de la mission ANPP.
+      Vrai / Faux
+
+29. Les trois mesures se lisent ensemble.
+      Vrai / Faux
+
+30. Un terme dont l'effectif est nul compte dans l'entropie.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. Un schéma directeur s'audite à ______ moments.
+
+32. Un audit compare un objet à un ______ au moyen d'une preuve.
+
+33. La preuve est une ______.
+
+34. Les trois cotes sont OUI, NON et ______.
+
+35. Le NEK est de preuve ou de ______.
+
+36. L'absence de preuve n'est pas la preuve de l'______.
+
+37. Le référentiel de l'ANPP compte ______ exigences.
+
+38. Les exigences se répartissent en ______ domaines.
+
+39. Dix-neuf exigences viennent des règles de l'______.
+
+40. La mesure ______ est la part des exigences prouvées.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

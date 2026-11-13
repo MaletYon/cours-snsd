@@ -1,0 +1,48 @@
+application;metier;dans_liste_officielle;responsable_metier;annee_mise_en_service;famille;v1;v2;v3;v4;s1;s2;s3;s4;cout_annuel_millions
+APP-01;Relation;oui;Direction D;2003;fort potentiel;1;2;1;1;3;5;4;4;2
+APP-02;Pilotage;oui;Direction B;2022;operationnelle cle;4;5;3;4;3;3;2;1;6
+APP-03;Comptabilité;non;;2023;strategique;5;4;5;5;1;1;1;1;9
+APP-04;Immatriculation;non;Direction D;2023;fort potentiel;1;3;1;3;5;5;3;3;38
+APP-05;Immatriculation;oui;Direction B;2011;soutien;2;2;3;1;5;4;5;4;25
+APP-06;Liquidation;oui;;2024;soutien;2;3;3;1;3;3;3;1;16
+APP-07;Pilotage;non;;2005;operationnelle cle;5;4;4;5;1;1;1;1;38
+APP-08;Immatriculation;non;Direction C;2010;operationnelle cle;4;5;5;5;3;5;3;3;12
+APP-09;Liquidation;oui;Direction A;2000;soutien;3;1;3;1;4;5;3;3;25
+APP-10;Recouvrement;oui;Direction C;2002;operationnelle cle;4;3;4;3;3;2;2;1;25
+APP-11;Recouvrement;oui;;2010;operationnelle cle;5;4;4;4;2;2;1;1;12
+APP-12;Achats;non;;2019;operationnelle cle;3;4;5;4;3;1;2;2;9
+APP-13;Comptabilité;oui;Direction C;2016;soutien;2;2;1;3;3;1;3;3;12
+APP-14;Recouvrement;oui;;2006;operationnelle cle;5;5;3;4;5;4;3;4;9
+APP-15;Recouvrement;non;Direction B;2014;strategique;3;5;4;3;5;4;4;3;18
+APP-16;Immatriculation;oui;Direction C;2017;soutien;2;1;3;1;3;2;3;3;6
+APP-17;Recouvrement;oui;Direction B;2024;fort potentiel;1;2;1;2;4;5;4;4;12
+APP-18;Recouvrement;oui;Direction D;2017;operationnelle cle;4;4;4;3;1;2;2;2;12
+APP-19;Relation;non;;2010;strategique;3;5;4;5;3;1;3;1;12
+APP-20;Ressources humaines;non;Direction A;2003;strategique;4;3;3;4;4;3;3;4;18
+APP-21;Immatriculation;oui;Direction C;2023;soutien;1;2;2;2;4;5;5;3;2
+APP-22;Comptabilité;oui;Direction B;2012;soutien;3;2;1;1;3;5;3;4;9
+APP-23;Paiement;non;Direction D;2022;strategique;5;5;3;3;3;3;5;3;6
+APP-24;Comptabilité;non;;2011;soutien;3;2;1;2;5;4;5;5;12
+APP-25;Pilotage;oui;Direction A;2014;soutien;3;2;1;2;3;4;5;5;38
+APP-26;Ressources humaines;oui;Direction D;2024;operationnelle cle;3;3;3;4;3;4;4;5;38
+APP-27;Ressources humaines;oui;Direction B;2024;fort potentiel;3;1;3;2;5;3;5;5;38
+APP-28;Achats;oui;Direction B;1999;soutien;3;3;3;2;5;5;3;3;2
+APP-29;Comptabilité;oui;;2007;strategique;4;5;4;5;1;1;1;3;9
+APP-30;Liquidation;oui;Direction B;2011;operationnelle cle;4;3;5;4;2;2;2;1;6
+APP-31;Liquidation;oui;Direction C;2016;fort potentiel;2;1;1;1;4;5;5;4;18
+APP-32;Paiement;oui;Direction B;2006;soutien;2;1;3;1;5;5;3;5;18
+APP-33;Achats;non;;2023;operationnelle cle;5;4;3;4;2;1;1;3;25
+APP-34;Ressources humaines;oui;;2013;soutien;1;2;2;1;5;5;5;4;9
+APP-35;Paiement;non;Direction D;1998;soutien;2;1;3;3;3;5;3;5;2
+APP-36;Relation;oui;Direction C;1999;soutien;3;2;2;3;1;1;1;2;2
+APP-37;Paiement;oui;;2000;strategique;5;4;4;5;2;2;3;1;2
+APP-38;Immatriculation;non;;2002;soutien;2;3;3;1;5;5;5;4;6
+APP-39;Pilotage;non;;2001;fort potentiel;3;3;3;2;3;4;5;4;38
+APP-40;Immatriculation;non;;2019;soutien;2;3;1;1;3;3;2;2;18
+APP-41;Paiement;oui;;2002;soutien;3;1;3;1;1;2;2;2;12
+APP-42;Comptabilité;oui;;2007;fort potentiel;3;2;2;1;4;5;3;3;9
+APP-43;Comptabilité;oui;Direction D;2021;soutien;1;1;1;3;1;2;2;1;9
+APP-44;Paiement;oui;;2010;operationnelle cle;3;5;4;5;3;3;2;1;6
+APP-45;Immatriculation;non;;2023;operationnelle cle;3;3;4;5;2;2;2;3;4
+APP-46;Pilotage;oui;Direction A;2008;soutien;3;3;2;2;1;3;3;1;6
+APP-47;Paiement;oui;Direction C;2006;soutien;3;1;3;2;1;3;3;1;4

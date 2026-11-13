@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C06
+Chapitre 6 : La stratégie numérique du Cameroun
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. De quand date la Vision 2035 ?
+      a) 2016
+      b) 2009
+      c) 2020
+      d) 2025
+
+ 2. Que vise la Vision 2035 ?
+      a) Un marché unique numérique
+      b) La certification des administrations
+      c) Un pays émergent, démocratique et uni dans sa diversité
+      d) Le doublement du budget
+
+ 3. Quelle période le Document de stratégie pour la croissance et l'emploi couvrait-il ?
+      a) 2010-2019
+      b) 2020-2030
+      c) 2016-2020
+      d) 2026-2030
+
+ 4. De quand date le plan stratégique Cameroun numérique 2020 ?
+      a) 2009
+      b) Juillet 2025
+      c) Mars 2026
+      d) Mai 2016
+
+ 5. Que fut le plan Cameroun numérique 2020 ?
+      a) Une loi
+      b) Le premier document national consacré à l'économie numérique
+      c) Un décret d'organisation
+      d) Une norme
+
+ 6. Quelle période la SND30 couvre-t-elle ?
+      a) 2010-2019
+      b) 2016-2020
+      c) 2020-2030
+      d) 2027-2031
+
+ 7. Qu'est la SND30 par rapport à la Vision 2035 ?
+      a) Sa deuxième phase
+      b) Sa première phase
+      c) Son remplacement
+      d) Son annexe
+
+ 8. Quand la stratégie nationale d'intelligence artificielle a-t-elle été présentée ?
+      a) Les 18 et 19 juillet 2024
+      b) Le 4 mars 2026
+      c) Le 22 septembre 2024
+      d) Les 7 et 8 juillet 2025
+
+ 9. Combien de piliers la stratégie nationale d'intelligence artificielle compte-t-elle ?
+      a) 4
+      b) 7
+      c) 5
+      d) 8
+
+10. Quand le plan stratégique national de santé numérique 2026-2030 a-t-il été lancé ?
+      a) En mai 2016
+      b) En juillet 2025
+      c) Le 4 mars 2026
+      d) En février 2024
+
+11. Combien d'axes le plan de santé numérique 2026-2030 compte-t-il ?
+      a) 8
+      b) 4
+      c) 5
+      d) 7
+
+12. Quel est le coût annoncé du plan de santé numérique 2026-2030 ?
+      a) 6,3 milliards de FCFA
+      b) 4,2 milliards de FCFA
+      c) 86 millions de FCFA
+      d) 29 milliards de FCFA
+
+13. Quel ministère a élaboré la Vision 2035 ?
+      a) Le ministère des Postes et Télécommunications
+      b) Le ministère chargé de l'économie et de la planification
+      c) Le ministère des Finances
+      d) Le ministère de la Santé
+
+14. Que relève la SND30 sur l'utilisation des technologies ?
+      a) Elle dépasse les objectifs
+      b) Elle est mesurée chaque mois
+      c) Elle reste faible malgré les investissements
+      d) Elle est achevée
+
+15. Quel est le titre exact du plan attendu ?
+      a) Plan de développement de l'économie numérique au Cameroun 2026-2030
+      b) Schéma directeur national 2026-2030
+      c) Stratégie nationale de développement 2026-2030
+      d) Vision numérique 2035
+
+16. Quel est l'état du plan 2026-2030 à la date du cours ?
+      a) Approuvé et en cours de mise en œuvre
+      b) Abandonné
+      c) En cours de rédaction
+      d) Finalisé et déposé, en cours de validation chez le Premier ministre
+
+17. Le plan 2026-2030 est-il en cours de mise en œuvre ?
+      a) Oui, depuis 2026
+      b) Non
+      c) Oui, depuis 2025
+      d) Oui, en partie
+
+18. Sur quel document un schéma directeur rédigé aujourd'hui se rattache-t-il ?
+      a) Le plan 2026-2030
+      b) Cameroun numérique 2020
+      c) La SND30, qui est en vigueur
+      d) Aucun
+
+19. Que constate le projet de plan sur le plan Cameroun numérique 2020 ?
+      a) Un taux d'exécution très faible
+      b) Une exécution complète
+      c) Un dépassement de budget
+      d) Une exécution à moitié
+
+20. Combien de causes le projet de plan donne-t-il à cette faible exécution ?
+      a) 2
+      b) 3
+      c) 10
+      d) 5
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. La Vision 2035 se met en œuvre par phases de dix ans.
+      Vrai / Faux
+
+22. La SND30 est en vigueur.
+      Vrai / Faux
+
+23. Le plan Cameroun numérique 2020 est échu.
+      Vrai / Faux
+
+24. L'exécution du plan Cameroun numérique 2020 a été complète.
+      Vrai / Faux
+
+25. Le plan de santé numérique 2026-2030 est la stratégie d'un secteur.
+      Vrai / Faux
+
+26. Le plan 2026-2030 a reçu l'approbation du Premier ministre.
+      Vrai / Faux
+
+27. Un document d'orientation attendu se cite comme fondement d'un schéma directeur.
+      Vrai / Faux
+
+28. Le schéma directeur prévoit de se réviser à l'approbation du plan.
+      Vrai / Faux
+
+29. Le projet de plan s'ouvre par un état des lieux.
+      Vrai / Faux
+
+30. Le projet de plan cite l'insuffisance des ressources financières parmi les causes d'échec du plan précédent.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. La Vision 2035 date de ______.
+
+32. La SND30 couvre la période 2020-______.
+
+33. Le plan Cameroun numérique 2020 date de mai ______.
+
+34. La stratégie nationale d'intelligence artificielle compte ______ piliers.
+
+35. Le plan de santé numérique 2026-2030 compte ______ axes.
+
+36. Le plan de santé numérique 2026-2030 est chiffré à ______ milliards de FCFA.
+
+37. Le plan 2026-2030 est finalisé et ______.
+
+38. Le plan 2026-2030 attend l'approbation du ______ ministre.
+
+39. Le projet de plan retient ______ piliers.
+
+40. Le projet de plan retient ______ axes d'intervention.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

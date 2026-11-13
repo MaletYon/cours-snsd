@@ -1,0 +1,34 @@
+SNSD-LAB-01, cinq forces et chaîne de valeur chez LiZbiZ
+
+Les pièces du lab se trouvent dans le dossier preuves, en lecture seule, et
+une copie de travail modifiable dans le dossier travail (ouvert au démarrage).
+  note_de_mission.txt       méthode du cabinet
+  clients_2026.csv          400 clients et leur chiffre d'affaires
+  livraisons_urbaines.csv   livraisons urbaines sur 18 mois
+  chaine_de_valeur.csv      coût des neuf activités
+  ressources.csv            dix ressources passées à la grille VRIO
+  MANIFESTE_SHA256.txt      empreintes de référence (preuves)
+
+Marche à suivre.
+
+1. Vérifier l'intégrité avant toute analyse. Ouvrez un terminal, puis tapez :
+       cd ~/preuves
+       sha256sum -c MANIFESTE_SHA256.txt
+   Chaque fichier doit afficher OK.
+
+2. Lire la note de mission.
+
+3. Mesurer le pouvoir des clients.
+
+4. Mesurer la progression du nouvel entrant.
+
+5. Lire la chaîne de valeur.
+
+6. Classer les ressources.
+
+7. Répondre. Saisissez vos réponses dans le volet Points de contrôle de la
+   page du lab, puis enregistrez. Nombres avec un point ou une virgule
+   décimale ; codes et listes comme indiqué dans chaque question. Quand vous
+   avez terminé, cliquez sur Terminer et corriger pour obtenir votre note.
+
+Toute votre activité dans le terminal est journalisée.

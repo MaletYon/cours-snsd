@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C13
+Chapitre 13 : Piloter l'exécution
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. Que deviennent les instances de la mission le jour de l'approbation ?
+      a) Elles deviennent permanentes
+      b) Elles se dissolvent
+      c) Elles sont doublées
+      d) Elles passent au cabinet
+
+ 2. Combien d'instances d'exécution l'ANPP compte-t-elle ?
+      a) 2
+      b) 3
+      c) 4
+      d) 6
+
+ 3. À quel rythme le comité de portefeuille se réunit-il ?
+      a) Chaque trimestre
+      b) Chaque semaine
+      c) Chaque année
+      d) Chaque mois
+
+ 4. De quoi le comité de portefeuille décide-t-il ?
+      a) De la conduite d'un projet
+      b) Des congés
+      c) Du choix des marques
+      d) Du lancement, de l'arrêt et de l'arbitrage entre projets
+
+ 5. De quoi la cellule de portefeuille décide-t-elle ?
+      a) Du budget
+      b) De rien : elle instruit et alerte
+      c) De l'arrêt des projets
+      d) Des recrutements
+
+ 6. À qui la cellule de portefeuille est-elle rattachée ?
+      a) À la division informatique
+      b) Au cabinet
+      c) Au directeur général
+      d) Au fournisseur
+
+ 7. Combien d'agents la cellule de portefeuille compte-t-elle ?
+      a) 2
+      b) 1
+      c) 5
+      d) 8
+
+ 8. À quelle date la cellule de portefeuille est-elle créée ?
+      a) 24 juin 2027
+      b) 30 juin 2028
+      c) 12 janvier 2027
+      d) 2 juillet 2027
+
+ 9. À quel rythme le comité de projet se réunit-il ?
+      a) Chaque trimestre
+      b) Chaque mois
+      c) Chaque année
+      d) Chaque jour
+
+10. Qui a proposé de suivre une organisation sur quatre axes ?
+      a) Ward et Daniel
+      b) Weill et Ross
+      c) Kaplan et Norton
+      d) Rogers et Davis
+
+11. Combien d'indicateurs le tableau de bord du schéma directeur compte-t-il au plus ?
+      a) Une douzaine
+      b) Trois
+      c) Cinquante
+      d) Cent
+
+12. Quelle cible pour les prestations payées à la date prévue en 2031 ?
+      a) 91 %
+      b) 70 %
+      c) 35 %
+      d) 99 %
+
+13. Quelle cible pour le délai de traitement d'une demande ?
+      a) 47 jours
+      b) 15 jours
+      c) 4 heures
+      d) 30 jours
+
+14. Quelle cible pour la part des projets dans la dépense ?
+      a) 22 %
+      b) 78 %
+      c) 35 %
+      d) 10 %
+
+15. Quelle cible pour les projets livrés à la date prévue ?
+      a) 70 %
+      b) 26 %
+      c) 99 %
+      d) 100 %
+
+16. Par combien d'éléments un indicateur se définit-il ?
+      a) 2
+      b) 3
+      c) 8
+      d) 5
+
+17. Lequel est l'un des cinq éléments qui définissent un indicateur ?
+      a) Un logo
+      b) Une source
+      c) Un fournisseur
+      d) Une marque
+
+18. Que contient au moins le tableau de bord ?
+      a) Un indicateur par agent
+      b) Le cours du dollar
+      c) Un indicateur de résultat pour le bénéficiaire du service
+      d) La liste des pannes
+
+19. Que compare la méthode de la valeur acquise ?
+      a) Ce qui devait être fait, ce qui est fait, ce qui a été dépensé
+      b) Le budget et le chiffre d'affaires
+      c) Deux fournisseurs
+      d) Deux exercices
+
+20. Que désigne VP ?
+      a) La valeur publique
+      b) La valeur perdue
+      c) La valeur du projet
+      d) La valeur planifiée
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. La cellule de portefeuille est rattachée à la division informatique.
+      Vrai / Faux
+
+22. Chaque type de décision doit avoir un titulaire connu.
+      Vrai / Faux
+
+23. Le conseil d'administration décide de la révision et du budget chaque année.
+      Vrai / Faux
+
+24. Un indicateur sans source ne sera pas produit.
+      Vrai / Faux
+
+25. Un indicateur sans cible suffit à piloter.
+      Vrai / Faux
+
+26. Suivre l'avancement et jamais les effets est une violation typique.
+      Vrai / Faux
+
+27. Vingt-deux projets livrés à l'heure sans paiements à date fixe sont un succès.
+      Vrai / Faux
+
+28. Le pourcentage d'avancement déclaré par un chef de projet est fiable.
+      Vrai / Faux
+
+29. La valeur acquise est rangée par l'ISO 21502 parmi les pratiques de maîtrise.
+      Vrai / Faux
+
+30. À la première revue, toutes les fiches portaient « avancement conforme ».
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. La ______ de portefeuille instruit et alerte.
+
+32. Le comité de ______ lance, arrête et arbitre.
+
+33. La norme ISO/IEC 38500 confie à l'organe de gouvernance la tâche de ______.
+
+34. Kaplan et Norton proposent ______ axes.
+
+35. Un indicateur a une formule, une source, un responsable, une fréquence et une ______.
+
+36. La cible de paiements à date pour 2031 est de ______ %.
+
+37. La cible de délai de traitement est de ______ jours.
+
+38. La méthode de la valeur ______ compare le prévu, le fait et le dépensé.
+
+39. L'indice de délai est le rapport de VA à ______.
+
+40. L'indice de coût est le rapport de VA à ______.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

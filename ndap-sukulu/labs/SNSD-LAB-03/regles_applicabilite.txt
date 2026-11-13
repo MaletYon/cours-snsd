@@ -1,0 +1,19 @@
+AUDIX CONSEIL, note de travail : règles d'applicabilité retenues pour l'exercice
+
+T1  Loi n° 2010/012, cybersécurité : toute organisation qui exploite un système d'information.
+T2  Loi n° 2024/017, données personnelles : toute organisation qui traite des données personnelles.
+T3  Loi n° 2010/021, commerce électronique : toute organisation qui vend ou contracte en ligne.
+T4  Loi n° 2018/012, régime financier de l'État : administrations et établissements publics.
+T5  Loi n° 2017/010, établissements publics : établissements publics.
+T6  Loi n° 2017/011, entreprises publiques : entreprises publiques.
+T7  Décret n° 2018/366, code des marchés publics : administrations et établissements publics.
+T8  Décret n° 2018/355, marchés des entreprises publiques : entreprises publiques.
+T9  Actes uniformes de l'OHADA : sociétés commerciales, entreprises publiques et établissements de crédit.
+T10 Règlements de la COBAC : établissements de crédit.
+T11 Règlements de paiement de la CEMAC : établissements de crédit et toute organisation qui paie sur compte mobile.
+
+Ces règles simplifient les textes pour l'exercice. Une mission réelle lit chaque texte et date sa carte.
+
+Engagements et paiements : une autorisation d'engagement couvre le total du marché l'année de sa
+signature. Les crédits de paiement suivent l'échéancier.
+(Document fictif établi pour le cours SNSD (MSN-2S4-MSI01). Noms, dates, adresses et montants fictifs.)

@@ -1,0 +1,12 @@
+BANQUE SANAGA, contrôle de second niveau, note de méthode (mai 2027)
+
+Registre des risques du schéma directeur.
+  Criticité = probabilité x impact, chacun noté de 1 à 5. Seuil d'attention : 12.
+  Tout risque au seuil ou au-dessus doit avoir un traitement et un propriétaire.
+Continuité.
+  Durée maximale d'interruption admissible (DMIA) : fixée par le métier, en heures.
+  Perte de données maximale admissible (PDMA) : fixée par le métier, en heures.
+  Le dernier exercice donne, pour chaque activité essayée, le délai de reprise constaté et l'âge
+  des données retrouvées. Une case vide signifie que l'activité n'a pas été essayée.
+  Écart de reprise : délai constaté supérieur à la DMIA. Écart de données : âge supérieur à la PDMA.
+(Document fictif établi pour le cours SNSD (MSN-2S4-MSI01). Noms, dates, adresses et montants fictifs.)

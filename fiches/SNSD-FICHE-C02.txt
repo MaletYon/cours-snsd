@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C02
+Chapitre 2 : Les théories de la stratégie
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. En quelle année Porter publie-t-il sa méthode d'analyse d'un secteur ?
+      a) 1937
+      b) 1980
+      c) 1991
+      d) 2003
+
+ 2. Combien de forces Porter distingue-t-il ?
+      a) 3
+      b) 4
+      c) 5
+      d) 7
+
+ 3. Laquelle n'est pas l'une des cinq forces ?
+      a) Le pouvoir de l'État
+      b) La rivalité entre concurrents
+      c) La menace des substituts
+      d) Le pouvoir des clients
+
+ 4. Quelle force pose la question « est-il facile d'entrer ? » ?
+      a) Les substituts
+      b) Les fournisseurs
+      c) La rivalité
+      d) Les nouveaux entrants
+
+ 5. Quelle force pose la question « le besoin peut-il être servi autrement ? » ?
+      a) Les clients
+      b) Les substituts
+      c) Les nouveaux entrants
+      d) Les fournisseurs
+
+ 6. Chez LiZbiZ, quel fait illustre le pouvoir des clients ?
+      a) Le prix du carburant est subi
+      b) Une jeune pousse livre à moto
+      c) Un client pèse 38 % du chiffre d'affaires
+      d) Six transporteurs se partagent le marché
+
+ 7. Chez LiZbiZ, quel fait illustre le pouvoir des fournisseurs ?
+      a) Carburant et pièces à prix subis
+      b) Un client à 38 %
+      c) Des points de retrait chez des commerçants
+      d) Une application de suivi
+
+ 8. Chez LiZbiZ, quel est le substitut cité ?
+      a) La fibre optique
+      b) Le transport aérien
+      c) Les entrepôts
+      d) Les points de retrait tenus par des commerçants
+
+ 9. Qu'ajoute Porter en 1985 ?
+      a) Les cinq forces
+      b) La chaîne de valeur
+      c) La grille VRIO
+      d) Les marchés bifaces
+
+10. Laquelle est une activité de soutien de la chaîne de valeur ?
+      a) La vente
+      b) La production
+      c) Les achats
+      d) Le service
+
+11. Laquelle est une activité principale de la chaîne de valeur ?
+      a) La logistique de distribution
+      b) Les ressources humaines
+      c) L'infrastructure
+      d) La technologie
+
+12. Que montrent Porter et Millar en 1985 ?
+      a) La stratégie est toujours émergente
+      b) Les entreprises existent à cause des coûts de transaction
+      c) Les plateformes servent deux groupes
+      d) L'information traverse toute la chaîne de valeur
+
+13. Quel est l'apport du texte de Porter et Millar ?
+      a) Mesurer la maturité informatique
+      b) Faire du système d'information une arme stratégique
+      c) Classer les applications
+      d) Décrire l'urbanisation
+
+14. Combien de stratégies génériques Porter distingue-t-il ?
+      a) 2
+      b) 4
+      c) 3
+      d) 5
+
+15. Laquelle n'est pas une stratégie générique de Porter ?
+      a) La diversification
+      b) La domination par les coûts
+      c) La différenciation
+      d) La concentration
+
+16. Que devient une entreprise qui poursuit les trois stratégies à la fois ?
+      a) Elle domine son secteur
+      b) Elle devient une plateforme
+      c) Elle réduit ses coûts
+      d) Elle reste enlisée au milieu
+
+17. Quelle stratégie générique l'automatisation sert-elle ?
+      a) La différenciation
+      b) La domination par les coûts
+      c) La concentration
+      d) Aucune
+
+18. Quelle stratégie générique la connaissance du client sert-elle ?
+      a) La domination par les coûts
+      b) L'intégration verticale
+      c) La différenciation
+      d) Aucune
+
+19. Quelle limite le cours reconnaît-il aux cinq forces ?
+      a) Elles supposent un secteur aux frontières nettes
+      b) Elles ignorent les clients
+      c) Elles datent de 1937
+      d) Elles ne valent que pour les banques
+
+20. D'où vient l'avantage selon la théorie des ressources ?
+      a) De sa position sur le marché
+      b) De ses prix
+      c) De sa taille
+      d) De ce que l'entreprise possède et que les autres ne peuvent pas copier
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. La rentabilité d'une entreprise dépend de cinq forces selon Porter.
+      Vrai / Faux
+
+22. La chaîne de valeur date de 1980.
+      Vrai / Faux
+
+23. Chaque activité de la chaîne de valeur produit et consomme de l'information.
+      Vrai / Faux
+
+24. Les plateformes numériques brouillent les frontières des secteurs.
+      Vrai / Faux
+
+25. Un opérateur de téléphonie peut devenir un concurrent des banques.
+      Vrai / Faux
+
+26. Barney exige qu'une ressource soit rare pour fonder un avantage durable.
+      Vrai / Faux
+
+27. Une ressource facile à imiter fonde un avantage durable.
+      Vrai / Faux
+
+28. LiZbiZ exploite pleinement ses dix ans de données de tournées.
+      Vrai / Faux
+
+29. Les données que seule l'entreprise détient donnent un avantage si elle les exploite.
+      Vrai / Faux
+
+30. Les capacités dynamiques justifient des dépenses qui ne rapportent rien dans l'immédiat.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. Porter distingue ______ forces.
+
+32. En 1985, Porter ajoute la chaîne de ______.
+
+33. Les trois stratégies génériques sont la domination par les coûts, la ______ et la concentration.
+
+34. Une entreprise qui poursuit les trois stratégies reste enlisée au ______.
+
+35. Chez LiZbiZ, un client pèse ______ % du chiffre d'affaires.
+
+36. Porter et ______ montrent que l'information traverse toute la chaîne.
+
+37. La grille issue de Barney s'appelle ______.
+
+38. Une ressource fonde un avantage si elle a de la valeur, si elle est ______, difficile à imiter et exploitée.
+
+39. Teece, Pisano et Shuen introduisent les capacités ______.
+
+40. LiZbiZ détient ______ ans de données de tournées.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C15
+Chapitre 15 : Données, intelligence artificielle, plateformes, sobriété
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. Combien de forces obligent la méthode à s'élargir ?
+      a) 2
+      b) 4
+      c) 3
+      d) 6
+
+ 2. Laquelle n'est pas l'une des quatre forces ?
+      a) Les données
+      b) Les plateformes
+      c) La fiscalité
+      d) La sobriété
+
+ 3. Que fait chacune de ces forces au schéma directeur ?
+      a) Elle lui ajoute un chapitre
+      b) Elle le rend caduc
+      c) Elle le raccourcit
+      d) Elle le remplace
+
+ 4. De quand date le Cadre stratégique de l'Union africaine en matière de données ?
+      a) Juin 2014
+      b) Juillet 2024
+      c) Mars 2026
+      d) Février 2022
+
+ 5. À combien de questions gouverner une donnée revient-il à répondre ?
+      a) 2
+      b) 5
+      c) 3
+      d) 10
+
+ 6. Quelle réponse attend la question « à qui appartient-elle ? » ?
+      a) La division informatique
+      b) Le fournisseur
+      c) Un propriétaire dans le métier
+      d) Personne
+
+ 7. Quelle réponse attend la question « où est sa référence ? » ?
+      a) Un seul système maître
+      b) Plusieurs copies
+      c) Le poste de chaque agent
+      d) Le fournisseur
+
+ 8. Qui est le propriétaire de la donnée « bénéficiaire » à l'ANPP ?
+      a) La cheffe de la division informatique
+      b) Le directeur financier
+      c) Le cabinet
+      d) Le directeur des prestations
+
+ 9. Quel taux de doublons probables l'échantillon de 5 000 dossiers a-t-il donné ?
+      a) 1 %
+      b) 7,4 %
+      c) 22 %
+      d) 38 %
+
+10. Combien de dossiers environ sont à examiner sur 186 000 ?
+      a) 5 000
+      b) 1 380
+      c) 13 800
+      d) 74 000
+
+11. Par quoi le projet de référentiel commence-t-il ?
+      a) Par un chantier de fiabilisation
+      b) Par l'achat d'un serveur
+      c) Par un appel d'offres
+      d) Par une formation
+
+12. Qu'est une donnée de référence ?
+      a) Une donnée secrète
+      b) Une donnée archivée
+      c) Une donnée statistique
+      d) Une donnée partagée par plusieurs processus qui décrit un objet stable de l'activité
+
+13. Que comporte le volet données du schéma directeur ?
+      a) La liste des serveurs
+      b) Les données de référence, leurs propriétaires, les indicateurs de qualité, la cellule qui les suit
+      c) Les mots de passe
+      d) Les contrats
+
+14. De quand date la Stratégie continentale de l'Union africaine sur l'intelligence artificielle ?
+      a) Juillet 2025
+      b) Février 2022
+      c) Juillet 2024
+      d) Septembre 2024
+
+15. Quand le Cameroun a-t-il présenté sa stratégie nationale d'intelligence artificielle ?
+      a) Juillet 2025
+      b) Juillet 2024
+      c) Mars 2026
+      d) Mai 2016
+
+16. Quelle norme décrit un système de management de l'intelligence artificielle ?
+      a) L'ISO/IEC 27001
+      b) L'ISO/IEC 38500
+      c) L'ISO 22301
+      d) L'ISO/IEC 42001
+
+17. Qu'est l'intelligence artificielle pour le schéma directeur ?
+      a) Un projet en soi
+      b) Une famille de techniques qui peut servir un objectif
+      c) Une obligation légale
+      d) Un produit à acheter
+
+18. Sur combien de conditions un cas d'usage se juge-t-il ?
+      a) 2
+      b) 3
+      c) 5
+      d) 8
+
+19. Quelles sont les cinq conditions d'un cas d'usage d'intelligence artificielle ?
+      a) Objectif, données, décision, preuve, exploitation
+      b) Coût, délai, qualité, risque, marque
+      c) Vitesse, volume, variété, véracité, valeur
+      d) Besoin, budget, marché, recette, bilan
+
+20. Que demande la condition « décision » ?
+      a) Quel objectif est servi
+      b) Si les données existent
+      c) Qui surveille la dérive
+      d) Qui décide à la fin et qui répond d'une erreur
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. Les quatre forces rendent la méthode caduque.
+      Vrai / Faux
+
+22. Les données deviennent un actif à part.
+      Vrai / Faux
+
+23. La fiabilisation des données est un chantier informatique.
+      Vrai / Faux
+
+24. Une donnée de référence a un propriétaire, un système maître et une règle de mise à jour.
+      Vrai / Faux
+
+25. Le diagnostic a trouvé onze fichiers de bénéficiaires.
+      Vrai / Faux
+
+26. L'intelligence artificielle est un projet pour le schéma directeur.
+      Vrai / Faux
+
+27. Un cas d'usage entre au portefeuille avant le projet qui lui fournit des données fiables.
+      Vrai / Faux
+
+28. Chaque signalement du modèle des paiements indus indique ses motifs.
+      Vrai / Faux
+
+29. L'exploitation du modèle est confiée à la cellule des données.
+      Vrai / Faux
+
+30. Le projet des paiements indus décale un projet de soutien.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. Les quatre forces sont les données, l'intelligence artificielle, les plateformes et la ______.
+
+32. Gouverner une donnée revient à répondre à ______ questions.
+
+33. Une donnée a un seul système ______.
+
+34. L'échantillon a donné ______ % de doublons probables.
+
+35. Une donnée partagée par plusieurs processus est une donnée de ______.
+
+36. Le projet de référentiel commence par un chantier de ______.
+
+37. La norme du système de management de l'intelligence artificielle est l'ISO/IEC ______.
+
+38. Un cas d'usage se juge sur ______ conditions.
+
+39. Les cinq conditions sont l'objectif, les données, la décision, la ______ et l'exploitation.
+
+40. Dans le cas des paiements indus, le modèle ______ et un agent instruit.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

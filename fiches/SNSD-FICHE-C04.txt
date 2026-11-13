@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C04
+Chapitre 4 : Normes et référentiels
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. Combien de natures de référentiel le Tableau 4.1 distingue-t-il ?
+      a) 2
+      b) 4
+      c) 3
+      d) 5
+
+ 2. Quelle nature s'impose sous sanction ?
+      a) La norme certifiable
+      b) Le cadre volontaire
+      c) Le texte obligatoire
+      d) La norme de recommandation
+
+ 3. Quelle nature est vérifiée par un tiers ?
+      a) La norme certifiable
+      b) Le cadre volontaire
+      c) Le texte obligatoire
+      d) La norme de recommandation
+
+ 4. Quelle est la nature de COBIT 2019 ?
+      a) Texte obligatoire
+      b) Norme certifiable
+      c) Règlement
+      d) Cadre volontaire
+
+ 5. Quelle est la nature de l'ISO/IEC 27001 ?
+      a) Cadre volontaire
+      b) Norme certifiable
+      c) Texte obligatoire
+      d) Norme de recommandation
+
+ 6. Quelle est la nature de l'ISO 31000 ?
+      a) Norme certifiable
+      b) Texte obligatoire
+      c) Norme de recommandation, non certifiable
+      d) Cadre propriétaire
+
+ 7. Quelle est la nature du code des marchés publics ?
+      a) Texte obligatoire
+      b) Cadre volontaire
+      c) Norme certifiable
+      d) Norme de recommandation
+
+ 8. Quelle preuve attend-on pour une norme certifiable ?
+      a) Un usage déclaré
+      b) La conformité à un article
+      c) Une déclaration orale
+      d) Un certificat, un périmètre, une date
+
+ 9. Quelle preuve attend-on pour un cadre volontaire ?
+      a) Un certificat
+      b) Un usage déclaré et documenté
+      c) Une sanction
+      d) Un agrément
+
+10. De combien de manières une norme devient-elle contraignante ?
+      a) 1
+      b) 2
+      c) 3
+      d) 5
+
+11. Laquelle rend une norme contraignante ?
+      a) Un contrat l'exige
+      b) Un consultant la cite
+      c) Elle est récente
+      d) Elle est gratuite
+
+12. Que faut-il écrire à la place de « conforme à » pour un cadre volontaire ?
+      a) Certifié par
+      b) Agréé par
+      c) Validé par
+      d) Établi selon
+
+13. Quelle mention portait le schéma directeur de la BANQUE SANAGA en 2024 ?
+      a) Certifié ISO 9001
+      b) Conforme à COBIT, ITIL et TOGAF
+      c) Approuvé par la COBAC
+      d) Établi selon l'ISO 38500
+
+14. Qu'a trouvé Mme NKENG à l'appui de cette mention ?
+      a) Trois certificats
+      b) Un rapport d'audit
+      c) Rien : ni liste, ni édition, ni évaluation
+      d) Une déclaration d'applicabilité
+
+15. De quoi traite l'ISO/IEC 38500 ?
+      a) La gouvernance des technologies de l'information
+      b) La sécurité de l'information
+      c) La gestion de projet
+      d) La continuité d'activité
+
+16. De quand date la troisième édition de l'ISO/IEC 38500 ?
+      a) 2008
+      b) 2015
+      c) 2021
+      d) Février 2024
+
+17. Sur quelle norme la troisième édition s'aligne-t-elle ?
+      a) L'ISO 9001
+      b) L'ISO 37000 de 2021
+      c) L'ISO 31000
+      d) L'ISO 22301
+
+18. À qui l'ISO/IEC 38500 s'adresse-t-elle ?
+      a) À la direction informatique
+      b) Aux fournisseurs
+      c) À l'organe de gouvernance
+      d) Aux utilisateurs
+
+19. Quelles sont les trois tâches du conseil ?
+      a) Évaluer, diriger, surveiller
+      b) Planifier, faire, vérifier
+      c) Acheter, installer, maintenir
+      d) Identifier, protéger, détecter
+
+20. Que fait le conseil à l'égard du schéma directeur ?
+      a) Il le rédige
+      b) Il l'exécute
+      c) Il le chiffre
+      d) Il le demande, l'approuve et en surveille l'exécution
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. On peut être certifié COBIT 2019 en tant qu'organisation.
+      Vrai / Faux
+
+22. On est conforme à un texte ou certifié selon une norme, sur un périmètre et à une date.
+      Vrai / Faux
+
+23. Écrire « conforme à » devant un cadre volontaire est une violation typique.
+      Vrai / Faux
+
+24. Une norme devient contraignante si un texte y renvoie.
+      Vrai / Faux
+
+25. L'ISO/IEC 38500 est certifiable.
+      Vrai / Faux
+
+26. L'ISO/IEC 38500 s'adresse d'abord à la direction informatique.
+      Vrai / Faux
+
+27. Le conseil rédige le schéma directeur.
+      Vrai / Faux
+
+28. Le conseil de l'ANPP a approuvé sans surveiller.
+      Vrai / Faux
+
+29. L'ISO 37000 traite de la gouvernance des organismes.
+      Vrai / Faux
+
+30. COBIT 2019 compte un domaine de gouvernance et quatre domaines de gestion.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. Un cadre volontaire se ______, une norme se certifie, un texte oblige.
+
+32. Le Tableau 4.1 distingue ______ natures de référentiel.
+
+33. Pour un cadre volontaire, on écrit « établi ______ ».
+
+34. Une certification vaut sur un ______ et à une date.
+
+35. Les trois tâches du conseil sont évaluer, ______ et surveiller.
+
+36. La troisième édition de l'ISO/IEC 38500 date de février ______.
+
+37. L'ISO/IEC 38500 s'adresse à l'organe de ______.
+
+38. L'ISO ______ traite de la gouvernance des organismes.
+
+39. COBIT 2019 compte ______ objectifs.
+
+40. COBIT est le cadre de l'______.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

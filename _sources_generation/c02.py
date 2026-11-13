@@ -92,7 +92,7 @@ performance se lit sur quatre axes~: finances, clients, processus internes, appr
 une mesure, une cible et une initiative. Le modèle sera repris au Chapitre~\ref{chap:piloter} pour piloter
 l'exécution du schéma directeur.
 
-""" + sec("Et dans une Administration ?", "sec:c02-public") + r"""
+""" + sec("Dans une Administration", "sec:c02-public") + r"""
 Ces théories sont nées dans l'entreprise. Leur transposition demande trois précautions.
 
 \begin{enumerate}

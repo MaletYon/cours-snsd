@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-P00
+Chapitre 0 : Le schéma directeur dort dans un tiroir
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. Que verse l'ANPP chaque mois ?
+      a) Des salaires aux fonctionnaires
+      b) Des prestations à des bénéficiaires
+      c) Des subventions aux communes
+      d) Des bourses aux étudiants
+
+ 2. Combien d'agents compte l'ANPP ?
+      a) 186
+      b) 214
+      c) 412
+      d) 1 000
+
+ 3. Combien d'antennes compte l'ANPP ?
+      a) 10
+      b) 4
+      c) 23
+      d) 47
+
+ 4. Combien de bénéficiaires l'ANPP sert-elle ?
+      a) 18 600
+      b) 412 000
+      c) 1,8 million
+      d) 186 000
+
+ 5. Quelle période couvrait le schéma directeur échu de l'ANPP ?
+      a) 2016-2020
+      b) 2021-2025
+      c) 2020-2030
+      d) 2027-2031
+
+ 6. Combien de pages comptait le schéma directeur 2021-2025 ?
+      a) 60
+      b) 118
+      c) 214
+      d) 412
+
+ 7. Combien de projets le document de 2021 prévoyait-il ?
+      a) 23
+      b) 11
+      c) 40
+      d) 47
+
+ 8. Combien des 23 projets du document de 2021 ont été livrés ?
+      a) 4
+      b) 11
+      c) 13
+      d) 6
+
+ 9. Combien de projets du document ont été arrêtés en cours de route ?
+      a) 6
+      b) 4
+      c) 11
+      d) 13
+
+10. Combien de projets du document n'ont jamais démarré ?
+      a) 4
+      b) 6
+      c) 13
+      d) 11
+
+11. Combien de projets l'Agence a-t-elle menés hors du document ?
+      a) 11
+      b) 6
+      c) 13
+      d) 23
+
+12. Quel budget le document de 2021 annonçait-il ?
+      a) 3,1 milliards de FCFA
+      b) 4,2 milliards de FCFA
+      c) 86 millions de FCFA
+      d) 6,3 milliards de FCFA
+
+13. Quelle a été la dépense informatique réelle sur la période ?
+      a) 6,3 milliards de FCFA
+      b) 3,1 milliards de FCFA
+      c) 682 millions de FCFA
+      d) 4,2 milliards de FCFA
+
+14. Quel est le taux de projets livrés, à l'unité près ?
+      a) 6 %
+      b) 48 %
+      c) 26 %
+      d) 52 %
+
+15. Quel est le taux d'exécution du budget annoncé, à l'unité près ?
+      a) 49 %
+      b) 26 %
+      c) 78 %
+      d) 22 %
+
+16. Combien de jours la panne de mars 2026 a-t-elle duré ?
+      a) 1 jour
+      b) 11 jours
+      c) 2 semaines
+      d) 4 jours
+
+17. Quelle application hors plan est entrée en service en 2025 ?
+      a) LIQUID
+      b) e-RECETTES
+      c) HORIZON 3
+      d) WOURI
+
+18. Que manquait-il à e-RECETTES à sa mise en service ?
+      a) Un éditeur
+      b) Des utilisateurs
+      c) Un site de secours
+      d) Une base de données
+
+19. Quel cabinet conduit la mission de 2027 ?
+      a) AUDIX CONSEIL
+      b) KORO AUDIT
+      c) LiZbiZ
+      d) BANQUE SANAGA
+
+20. Qui est le chef de mission du cabinet ?
+      a) M. OWONA
+      b) M. TCHUENTE
+      c) M. ABDOULAYE
+      d) M. BEYALA
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. L'ANPP est une organisation fictive.
+      Vrai / Faux
+
+22. Le schéma directeur 2021-2025 a été validé en décembre 2020.
+      Vrai / Faux
+
+23. Plus de la moitié du document de 2021 décrivait du matériel.
+      Vrai / Faux
+
+24. La majorité des projets du document de 2021 a été livrée.
+      Vrai / Faux
+
+25. L'Agence a mené plus de projets hors du document qu'elle n'en a livré dans le document.
+      Vrai / Faux
+
+26. La dépense réelle a dépassé le budget annoncé en 2021.
+      Vrai / Faux
+
+27. Le document de 2021 citait le plan stratégique de l'Agence.
+      Vrai / Faux
+
+28. Le document de 2021 classait ses projets par priorité.
+      Vrai / Faux
+
+29. Le document de 2021 indiquait une source de financement.
+      Vrai / Faux
+
+30. Le document de 2021 désignait une instance de pilotage.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. L'ANPP sert ______ bénéficiaires.
+
+32. Le schéma directeur échu comptait ______ pages.
+
+33. Sur 23 projets, ______ ont été livrés.
+
+34. L'Agence a mené ______ projets hors du document.
+
+35. Le document annonçait 6,3 milliards. L'Agence en a dépensé ______ milliards.
+
+36. La panne de mars 2026 a duré ______ jours.
+
+37. Le cabinet chargé de la mission s'appelle ______ CONSEIL.
+
+38. Le nouveau schéma directeur couvrira la période 2027-______.
+
+39. L'application e-RECETTES n'avait pas de site de ______.
+
+40. L'état des lieux de 2021 occupait ______ pages.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

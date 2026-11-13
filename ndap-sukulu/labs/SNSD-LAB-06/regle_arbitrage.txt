@@ -1,0 +1,14 @@
+AUDIX CONSEIL, mission ANPP, règle d'arbitrage du portefeuille (mai 2027)
+
+Enveloppe : 4 200 millions de FCFA sur cinq ans.
+1. Les projets obligatoires sont retenus d'office.
+2. Parmi les autres, un projet dont la valeur est inférieure à 40 est écarté.
+3. Les projets restants sont classés par valeur rapportée au coût, du plus fort au plus faible.
+   En cas d'égalité, le projet de plus petit numéro passe devant.
+4. On les retient dans cet ordre tant que le total ne dépasse pas l'enveloppe. Un projet qui ferait
+   dépasser est sauté et l'on continue avec le suivant.
+5. On vérifie ensuite les dépendances : un projet retenu dont le projet amont (colonne depend_de)
+   n'est pas retenu est signalé au comité.
+
+Ce jeu d'essai reprend les ordres de grandeur du livre. Le détail des quarante fiches est propre au lab.
+(Document fictif établi pour le cours SNSD (MSN-2S4-MSI01). Noms, dates, adresses et montants fictifs.)

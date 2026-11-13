@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C10
+Chapitre 10 : Fixer la cible
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. Combien de maillons la chaîne qui mène à la cible compte-t-elle ?
+      a) 2
+      b) 4
+      c) 3
+      d) 6
+
+ 2. Quel est le premier maillon ?
+      a) L'architecture
+      b) Les principes
+      c) Les objectifs de l'organisation
+      d) Les capacités
+
+ 3. Comment une capacité se formule-t-elle ?
+      a) Par un verbe et un résultat
+      b) Par un nom de logiciel
+      c) Par un prix
+      d) Par une technique
+
+ 4. Laquelle est une capacité ?
+      a) Disposer d'un progiciel intégré
+      b) Passer au nuage
+      c) Avoir un entrepôt de données
+      d) Produire la dépense par programme
+
+ 5. Quelle capacité répond à l'objectif « ne payer que les ayants droit » ?
+      a) Recevoir une demande depuis un téléphone
+      b) Tenir un fichier unique des bénéficiaires, rapproché de l'état civil
+      c) Produire la dépense par programme
+      d) Payer sans interruption
+
+ 6. Combien d'objectifs le plan stratégique 2026-2030 de l'ANPP compte-t-il ?
+      a) 3
+      b) 6
+      c) 4
+      d) 10
+
+ 7. Comment la cible s'obtient-elle ?
+      a) Elle se déduit
+      b) Elle s'invente
+      c) Elle se copie
+      d) Elle s'achète
+
+ 8. Qu'est un principe directeur ?
+      a) Un objectif chiffré
+      b) Un projet prioritaire
+      c) Un article de loi
+      d) Une règle durable qui tranche d'avance une famille de décisions
+
+ 9. En combien de parties TOGAF demande-t-il d'écrire un principe ?
+      a) 2
+      b) 4
+      c) 3
+      d) 6
+
+10. Quelles sont les quatre parties d'un principe directeur ?
+      a) Titre, auteur, date, visa
+      b) Coût, délai, risque, valeur
+      c) Nom, énoncé, justification, conséquences
+      d) Fait, pièce, cause, effet
+
+11. Qu'est-ce qui fait la valeur d'un principe ?
+      a) Ses conséquences
+      b) Son nom
+      c) Sa longueur
+      d) Son auteur
+
+12. Combien de principes directeurs l'ANPP a-t-elle retenus ?
+      a) 3
+      b) 10
+      c) 12
+      d) 6
+
+13. Quelle conséquence le principe « donnée unique » entraîne-t-il ?
+      a) Les serveurs sont doublés
+      b) Les antennes renoncent à leurs fichiers locaux
+      c) Le budget est gelé
+      d) Les agents sont mutés
+
+14. Que dit le principe « secours d'abord » ?
+      a) Le secours passe après les projets
+      b) Le secours est facultatif
+      c) Aucune application clé sans reprise éprouvée
+      d) Le secours est loué
+
+15. Que dit le principe « sobriété » ?
+      a) On retire avant d'ajouter
+      b) On achète le moins cher
+      c) On supprime la formation
+      d) On gèle les projets
+
+16. Quelle conséquence le principe « acheter avant de construire » entraîne-t-il ?
+      a) Le produit est réécrit
+      b) L'éditeur est nommé
+      c) Le marché est évité
+      d) Le métier adapte ses usages au produit
+
+17. Combien de principes suffisent en général ?
+      a) Un ou deux
+      b) Six à dix
+      c) Vingt à trente
+      d) Cinquante
+
+18. Combien de plans la pratique de l'urbanisation retient-elle ?
+      a) 2
+      b) 3
+      c) 4
+      d) 5
+
+19. Lequel est le plus utile au schéma directeur ?
+      a) Le plan fonctionnel
+      b) Le plan technique
+      c) Le plan applicatif
+      d) Le plan métier
+
+20. Que contient le plan fonctionnel ?
+      a) Les serveurs et les réseaux
+      b) Les logiciels et leurs échanges
+      c) Les contrats
+      d) Des blocs de fonctions, indépendants des logiciels
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. Une capacité nomme un logiciel.
+      Vrai / Faux
+
+22. « Disposer d'un progiciel intégré » est une capacité.
+      Vrai / Faux
+
+23. La cible part des objectifs de l'organisation.
+      Vrai / Faux
+
+24. Partir d'une solution et chercher ensuite les besoins est une violation typique.
+      Vrai / Faux
+
+25. Un principe qui ne gêne personne ne décide rien.
+      Vrai / Faux
+
+26. Le comité de pilotage approuve les principes un par un, avec leurs conséquences.
+      Vrai / Faux
+
+27. Le principe « propriétaire désigné » demande qu'un directeur signe pour chaque application.
+      Vrai / Faux
+
+28. Le principe de la donnée unique a été adopté sans débat à l'ANPP.
+      Vrai / Faux
+
+29. Le plan fonctionnel dépend des logiciels en place.
+      Vrai / Faux
+
+30. Chaque donnée a un seul bloc maître.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. La chaîne va des objectifs aux ______, aux principes, puis à l'architecture.
+
+32. Une capacité se formule par un ______ et un résultat.
+
+33. La cible se ______, elle ne s'invente pas.
+
+34. Un principe directeur vaut par ses ______.
+
+35. Un principe s'écrit en quatre parties : nom, énoncé, ______, conséquences.
+
+36. Le principe « ______ d'abord » interdit une application clé sans reprise éprouvée.
+
+37. Le principe de sobriété dit qu'on ______ avant d'ajouter.
+
+38. L'ANPP a retenu ______ principes directeurs.
+
+39. Les quatre plans sont métier, ______, applicatif et technique.
+
+40. Le plan fonctionnel découpe le système en zones, en quartiers et en ______.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

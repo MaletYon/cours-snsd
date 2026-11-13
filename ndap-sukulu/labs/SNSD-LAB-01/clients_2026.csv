@@ -1,0 +1,401 @@
+client;secteur;chiffre_affaires_millions
+CL-001;Grand compte;7655
+CL-002;Commerce;33
+CL-003;Vente en ligne;43
+CL-004;Commerce;15
+CL-005;Distribution;30
+CL-006;Industrie;44
+CL-007;Commerce;44
+CL-008;Distribution;26
+CL-009;Distribution;53
+CL-010;Industrie;43
+CL-011;Commerce;44
+CL-012;Distribution;20
+CL-013;Commerce;4
+CL-014;Distribution;46
+CL-015;Vente en ligne;21
+CL-016;Industrie;9
+CL-017;Distribution;46
+CL-018;Commerce;58
+CL-019;Commerce;14
+CL-020;Vente en ligne;23
+CL-021;Distribution;47
+CL-022;Distribution;41
+CL-023;Vente en ligne;17
+CL-024;Vente en ligne;5
+CL-025;Industrie;32
+CL-026;Distribution;5
+CL-027;Distribution;43
+CL-028;Vente en ligne;60
+CL-029;Commerce;31
+CL-030;Distribution;24
+CL-031;Industrie;58
+CL-032;Industrie;10
+CL-033;Distribution;38
+CL-034;Distribution;58
+CL-035;Industrie;6
+CL-036;Commerce;20
+CL-037;Industrie;59
+CL-038;Distribution;49
+CL-039;Distribution;7
+CL-040;Vente en ligne;23
+CL-041;Commerce;59
+CL-042;Commerce;31
+CL-043;Commerce;56
+CL-044;Distribution;20
+CL-045;Vente en ligne;26
+CL-046;Distribution;36
+CL-047;Vente en ligne;19
+CL-048;Distribution;18
+CL-049;Industrie;54
+CL-050;Commerce;11
+CL-051;Vente en ligne;31
+CL-052;Distribution;26
+CL-053;Vente en ligne;42
+CL-054;Commerce;11
+CL-055;Distribution;25
+CL-056;Distribution;11
+CL-057;Vente en ligne;57
+CL-058;Vente en ligne;44
+CL-059;Industrie;6
+CL-060;Industrie;23
+CL-061;Commerce;30
+CL-062;Distribution;43
+CL-063;Vente en ligne;25
+CL-064;Vente en ligne;19
+CL-065;Commerce;9
+CL-066;Commerce;46
+CL-067;Vente en ligne;34
+CL-068;Vente en ligne;57
+CL-069;Vente en ligne;28
+CL-070;Commerce;7
+CL-071;Industrie;39
+CL-072;Vente en ligne;25
+CL-073;Industrie;46
+CL-074;Industrie;13
+CL-075;Industrie;30
+CL-076;Distribution;11
+CL-077;Industrie;13
+CL-078;Commerce;59
+CL-079;Industrie;48
+CL-080;Commerce;7
+CL-081;Commerce;60
+CL-082;Vente en ligne;30
+CL-083;Vente en ligne;7
+CL-084;Distribution;22
+CL-085;Industrie;43
+CL-086;Distribution;14
+CL-087;Commerce;19
+CL-088;Industrie;46
+CL-089;Vente en ligne;17
+CL-090;Commerce;42
+CL-091;Vente en ligne;27
+CL-092;Commerce;11
+CL-093;Distribution;9
+CL-094;Commerce;20
+CL-095;Distribution;19
+CL-096;Distribution;52
+CL-097;Distribution;15
+CL-098;Industrie;45
+CL-099;Industrie;60
+CL-100;Commerce;39
+CL-101;Distribution;13
+CL-102;Industrie;29
+CL-103;Commerce;17
+CL-104;Distribution;39
+CL-105;Commerce;22
+CL-106;Distribution;13
+CL-107;Vente en ligne;30
+CL-108;Distribution;7
+CL-109;Industrie;15
+CL-110;Commerce;55
+CL-111;Industrie;40
+CL-112;Industrie;57
+CL-113;Distribution;24
+CL-114;Vente en ligne;42
+CL-115;Commerce;2
+CL-116;Distribution;21
+CL-117;Distribution;21
+CL-118;Industrie;55
+CL-119;Commerce;15
+CL-120;Industrie;45
+CL-121;Distribution;23
+CL-122;Industrie;22
+CL-123;Commerce;47
+CL-124;Vente en ligne;26
+CL-125;Vente en ligne;35
+CL-126;Industrie;39
+CL-127;Distribution;13
+CL-128;Vente en ligne;49
+CL-129;Commerce;12
+CL-130;Distribution;59
+CL-131;Distribution;13
+CL-132;Distribution;18
+CL-133;Distribution;35
+CL-134;Industrie;32
+CL-135;Commerce;55
+CL-136;Industrie;22
+CL-137;Distribution;31
+CL-138;Distribution;32
+CL-139;Vente en ligne;36
+CL-140;Vente en ligne;6
+CL-141;Commerce;13
+CL-142;Distribution;5
+CL-143;Industrie;47
+CL-144;Distribution;7
+CL-145;Vente en ligne;23
+CL-146;Vente en ligne;42
+CL-147;Commerce;52
+CL-148;Vente en ligne;7
+CL-149;Vente en ligne;28
+CL-150;Vente en ligne;46
+CL-151;Vente en ligne;39
+CL-152;Industrie;17
+CL-153;Vente en ligne;29
+CL-154;Distribution;17
+CL-155;Industrie;3
+CL-156;Industrie;33
+CL-157;Distribution;34
+CL-158;Distribution;22
+CL-159;Industrie;38
+CL-160;Commerce;14
+CL-161;Distribution;54
+CL-162;Vente en ligne;7
+CL-163;Industrie;17
+CL-164;Vente en ligne;47
+CL-165;Commerce;2
+CL-166;Distribution;35
+CL-167;Vente en ligne;25
+CL-168;Distribution;60
+CL-169;Distribution;6
+CL-170;Industrie;57
+CL-171;Industrie;51
+CL-172;Vente en ligne;7
+CL-173;Commerce;60
+CL-174;Commerce;8
+CL-175;Industrie;60
+CL-176;Commerce;20
+CL-177;Commerce;48
+CL-178;Vente en ligne;6
+CL-179;Industrie;54
+CL-180;Vente en ligne;20
+CL-181;Distribution;13
+CL-182;Industrie;26
+CL-183;Distribution;46
+CL-184;Vente en ligne;3
+CL-185;Commerce;16
+CL-186;Commerce;20
+CL-187;Industrie;21
+CL-188;Distribution;5
+CL-189;Commerce;55
+CL-190;Commerce;20
+CL-191;Commerce;13
+CL-192;Vente en ligne;12
+CL-193;Industrie;26
+CL-194;Vente en ligne;58
+CL-195;Vente en ligne;42
+CL-196;Distribution;25
+CL-197;Industrie;47
+CL-198;Vente en ligne;8
+CL-199;Distribution;40
+CL-200;Industrie;45
+CL-201;Vente en ligne;16
+CL-202;Vente en ligne;14
+CL-203;Vente en ligne;57
+CL-204;Distribution;55
+CL-205;Commerce;16
+CL-206;Vente en ligne;29
+CL-207;Industrie;17
+CL-208;Vente en ligne;10
+CL-209;Commerce;44
+CL-210;Distribution;52
+CL-211;Distribution;3
+CL-212;Industrie;5
+CL-213;Distribution;25
+CL-214;Commerce;42
+CL-215;Vente en ligne;35
+CL-216;Commerce;50
+CL-217;Vente en ligne;38
+CL-218;Distribution;2
+CL-219;Industrie;48
+CL-220;Vente en ligne;43
+CL-221;Distribution;10
+CL-222;Vente en ligne;55
+CL-223;Industrie;9
+CL-224;Commerce;47
+CL-225;Vente en ligne;38
+CL-226;Vente en ligne;22
+CL-227;Vente en ligne;56
+CL-228;Commerce;47
+CL-229;Vente en ligne;53
+CL-230;Distribution;58
+CL-231;Vente en ligne;19
+CL-232;Commerce;18
+CL-233;Industrie;10
+CL-234;Distribution;43
+CL-235;Vente en ligne;32
+CL-236;Vente en ligne;54
+CL-237;Distribution;33
+CL-238;Commerce;47
+CL-239;Vente en ligne;59
+CL-240;Vente en ligne;47
+CL-241;Distribution;55
+CL-242;Vente en ligne;11
+CL-243;Commerce;41
+CL-244;Distribution;5
+CL-245;Distribution;19
+CL-246;Commerce;48
+CL-247;Industrie;40
+CL-248;Distribution;18
+CL-249;Vente en ligne;21
+CL-250;Commerce;40
+CL-251;Vente en ligne;57
+CL-252;Commerce;12
+CL-253;Commerce;22
+CL-254;Industrie;58
+CL-255;Distribution;27
+CL-256;Vente en ligne;39
+CL-257;Commerce;8
+CL-258;Industrie;7
+CL-259;Commerce;7
+CL-260;Commerce;46
+CL-261;Vente en ligne;55
+CL-262;Distribution;28
+CL-263;Vente en ligne;47
+CL-264;Industrie;9
+CL-265;Commerce;47
+CL-266;Industrie;46
+CL-267;Commerce;20
+CL-268;Vente en ligne;6
+CL-269;Industrie;23
+CL-270;Industrie;23
+CL-271;Commerce;26
+CL-272;Industrie;46
+CL-273;Distribution;8
+CL-274;Commerce;7
+CL-275;Commerce;14
+CL-276;Distribution;3
+CL-277;Industrie;49
+CL-278;Vente en ligne;21
+CL-279;Distribution;3
+CL-280;Distribution;12
+CL-281;Distribution;3
+CL-282;Distribution;22
+CL-283;Vente en ligne;60
+CL-284;Vente en ligne;4
+CL-285;Commerce;46
+CL-286;Distribution;10
+CL-287;Industrie;35
+CL-288;Commerce;38
+CL-289;Industrie;33
+CL-290;Vente en ligne;60
+CL-291;Industrie;16
+CL-292;Commerce;51
+CL-293;Commerce;24
+CL-294;Distribution;51
+CL-295;Industrie;16
+CL-296;Commerce;47
+CL-297;Distribution;59
+CL-298;Vente en ligne;52
+CL-299;Commerce;41
+CL-300;Vente en ligne;13
+CL-301;Distribution;41
+CL-302;Distribution;59
+CL-303;Distribution;25
+CL-304;Commerce;41
+CL-305;Vente en ligne;57
+CL-306;Commerce;53
+CL-307;Distribution;43
+CL-308;Vente en ligne;56
+CL-309;Vente en ligne;47
+CL-310;Vente en ligne;31
+CL-311;Vente en ligne;49
+CL-312;Commerce;17
+CL-313;Vente en ligne;22
+CL-314;Commerce;47
+CL-315;Commerce;56
+CL-316;Industrie;28
+CL-317;Distribution;10
+CL-318;Vente en ligne;52
+CL-319;Vente en ligne;30
+CL-320;Industrie;36
+CL-321;Distribution;38
+CL-322;Industrie;41
+CL-323;Commerce;27
+CL-324;Industrie;49
+CL-325;Commerce;18
+CL-326;Vente en ligne;41
+CL-327;Commerce;59
+CL-328;Vente en ligne;36
+CL-329;Industrie;35
+CL-330;Vente en ligne;35
+CL-331;Vente en ligne;51
+CL-332;Distribution;24
+CL-333;Vente en ligne;54
+CL-334;Vente en ligne;21
+CL-335;Vente en ligne;47
+CL-336;Commerce;32
+CL-337;Vente en ligne;17
+CL-338;Vente en ligne;27
+CL-339;Vente en ligne;54
+CL-340;Distribution;25
+CL-341;Vente en ligne;53
+CL-342;Vente en ligne;12
+CL-343;Commerce;15
+CL-344;Distribution;48
+CL-345;Commerce;21
+CL-346;Distribution;48
+CL-347;Distribution;57
+CL-348;Commerce;13
+CL-349;Vente en ligne;43
+CL-350;Industrie;34
+CL-351;Industrie;50
+CL-352;Distribution;41
+CL-353;Commerce;17
+CL-354;Industrie;52
+CL-355;Distribution;21
+CL-356;Industrie;57
+CL-357;Industrie;40
+CL-358;Distribution;16
+CL-359;Distribution;55
+CL-360;Industrie;42
+CL-361;Distribution;34
+CL-362;Commerce;12
+CL-363;Commerce;7
+CL-364;Vente en ligne;53
+CL-365;Commerce;49
+CL-366;Vente en ligne;30
+CL-367;Distribution;54
+CL-368;Commerce;14
+CL-369;Industrie;15
+CL-370;Industrie;16
+CL-371;Industrie;44
+CL-372;Distribution;48
+CL-373;Distribution;5
+CL-374;Commerce;24
+CL-375;Industrie;28
+CL-376;Distribution;17
+CL-377;Commerce;25
+CL-378;Commerce;8
+CL-379;Industrie;60
+CL-380;Commerce;51
+CL-381;Vente en ligne;18
+CL-382;Distribution;19
+CL-383;Vente en ligne;30
+CL-384;Vente en ligne;29
+CL-385;Commerce;12
+CL-386;Commerce;8
+CL-387;Commerce;42
+CL-388;Industrie;58
+CL-389;Commerce;16
+CL-390;Industrie;26
+CL-391;Vente en ligne;52
+CL-392;Industrie;24
+CL-393;Industrie;40
+CL-394;Commerce;35
+CL-395;Commerce;43
+CL-396;Industrie;23
+CL-397;Commerce;37
+CL-398;Industrie;7
+CL-399;Vente en ligne;54
+CL-400;Industrie;35

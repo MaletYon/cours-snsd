@@ -1,0 +1,31 @@
+risque;libelle;probabilite;impact;traitement;proprietaire
+R01;Reprise de données défaillante;2;4;réduire;Directeur financier
+R02;Retard du marché du site de secours;3;3;réduire;Directeur des risques
+R03;Refus d'un changement par les agences;3;2;réduire;Directeur financier
+R04;Reprise de données défaillante;5;2;réduire;Directeur financier
+R05;Dépassement du budget du lot 1;4;5;;DSI
+R06;Non-conformité relevée par le superviseur;3;2;réduire;Directeur des risques
+R07;Non-conformité relevée par le superviseur;5;5;;Directeur du réseau
+R08;Défaillance du prestataire d'hébergement;2;5;accepter;Directeur financier
+R09;Perte d'un lien entre sites;3;4;accepter;Directeur des risques
+R10;Incident de sécurité pendant la migration;4;3;réduire;Directeur du réseau
+R11;Défaillance du prestataire d'hébergement;4;4;;Directeur du réseau
+R12;Reprise de données défaillante;1;2;réduire;Directeur des risques
+R13;Dépassement du budget du lot 1;3;5;accepter;Directeur des risques
+R14;Défaillance du prestataire d'hébergement;5;2;réduire;Directeur des risques
+R15;Perte d'un lien entre sites;5;4;réduire;DSI
+R16;Incident de sécurité pendant la migration;3;4;accepter;Directeur des risques
+R17;Indisponibilité des équipes métier;2;5;réduire;Directeur financier
+R18;Incident de sécurité pendant la migration;4;2;réduire;Directeur financier
+R19;Défaillance du prestataire d'hébergement;3;5;;Directeur financier
+R20;Hausse du coût des licences;2;2;accepter;Directeur financier
+R21;Défaillance du prestataire d'hébergement;1;3;réduire;Directeur des risques
+R22;Dépassement du budget du lot 1;1;2;accepter;DSI
+R23;Retard du marché du site de secours;3;4;éviter;Directeur du réseau
+R24;Non-conformité relevée par le superviseur;2;4;transférer;DSI
+R25;Perte d'un lien entre sites;1;2;accepter;DSI
+R26;Incident de sécurité pendant la migration;5;2;éviter;Directeur des risques
+R27;Coexistence prolongée des deux systèmes;5;2;éviter;DSI
+R28;Départ d'un administrateur du système central;2;4;éviter;DSI
+R29;Dépassement du budget du lot 1;2;2;transférer;Directeur financier
+R30;Refus d'un changement par les agences;4;5;éviter;Directeur des risques

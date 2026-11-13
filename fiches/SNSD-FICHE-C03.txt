@@ -1,0 +1,233 @@
+NDAP SUKULU · SNSD · fiche SNSD-FICHE-C03
+Chapitre 3 : L'alignement et la valeur
+
+Version papier, à utiliser en attendant l'ouverture du portail NDAP SUKULU.
+La fiche complète compte 40 questions. Répondez sur la grille en fin de fiche.
+Durée indicative : 60 minutes. Seuil de réussite : 60 %.
+Les corrections figurent dans le livret de correction du cours.
+
+========================================================================
+Questions à choix multiple (une seule bonne réponse)
+========================================================================
+
+ 1. Combien de stades le modèle de Nolan compte-t-il ?
+      a) 4
+      b) 6
+      c) 5
+      d) 3
+
+ 2. Quel est le premier stade du modèle de Nolan ?
+      a) La contagion
+      b) Le contrôle
+      c) L'initiation
+      d) La maturité
+
+ 3. Quel stade suit la contagion ?
+      a) Le contrôle
+      b) L'initiation
+      c) La maturité
+      d) L'intégration
+
+ 4. Quelle forme la dépense informatique suit-elle selon Nolan ?
+      a) Une droite
+      b) Une baisse continue
+      c) Un palier
+      d) Une courbe en S répétée
+
+ 5. Quelle idée de Nolan le cours retient-il ?
+      a) La dépense baisse avec le temps
+      b) Une organisation ne saute pas de stade
+      c) Les données viennent en premier
+      d) Le contrôle est inutile
+
+ 6. Que doit d'abord faire une agence dont les applications ont proliféré ?
+      a) Passer à la gestion des données
+      b) Acheter un progiciel
+      c) Reprendre la main sur ses dépenses et son inventaire
+      d) Externaliser
+
+ 7. Que propose Rockart en 1979 ?
+      a) Partir des facteurs clés de succès
+      b) Classer les applications en quatre familles
+      c) Mesurer l'alignement sur six critères
+      d) Décrire six stades
+
+ 8. Que sont les facteurs clés de succès ?
+      a) Les projets les plus coûteux
+      b) Les applications les plus récentes
+      c) Les indicateurs financiers
+      d) Les quelques domaines où les résultats doivent être bons
+
+ 9. Comment obtient-on les facteurs clés de succès ?
+      a) Par inventaire du matériel
+      b) Par entretien avec les dirigeants
+      c) Par audit de sécurité
+      d) Par appel d'offres
+
+10. À l'ANPP, quelle application répond au facteur « payer à date fixe » ?
+      a) La comptabilité analytique
+      b) Un lien avec l'état civil
+      c) Un tableau de bord des paiements
+      d) La messagerie
+
+11. À l'ANPP, que demande le facteur « ne payer que les ayants droit » ?
+      a) Un fichier unique, à jour des décès
+      b) La dépense par programme
+      c) Un guichet unique
+      d) Un site d'information
+
+12. À l'ANPP, que demande le facteur « rendre compte à la tutelle » ?
+      a) L'état quotidien des paiements
+      b) Les demandes et les délais
+      c) Un fichier des décès
+      d) La dépense par programme
+
+13. Selon quoi la grille de McFarlan classe-t-elle les applications ?
+      a) Leur âge
+      b) Leur importance pour l'activité d'aujourd'hui et de demain
+      c) Leur coût
+      d) Leur éditeur
+
+14. Combien de familles la grille compte-t-elle ?
+      a) 3
+      b) 5
+      c) 4
+      d) 6
+
+15. Quelle famille est décisive pour la stratégie future ?
+      a) Stratégique
+      b) De soutien
+      c) Opérationnelle clé
+      d) À fort potentiel
+
+16. Sans quelle famille l'activité s'arrête-t-elle ?
+      a) À fort potentiel
+      b) De soutien
+      c) Stratégique
+      d) Opérationnelle clé
+
+17. Quelle conduite pour une application à fort potentiel ?
+      a) Standardiser et acheter
+      b) Expérimenter à petit budget, trancher vite
+      c) Fiabiliser et sécuriser
+      d) Retirer
+
+18. Quelle conduite pour une application de soutien ?
+      a) Investir et innover
+      b) Expérimenter
+      c) Standardiser, acheter, réduire le coût
+      d) Développer sur mesure
+
+19. Quelle conduite pour une application opérationnelle clé ?
+      a) Fiabiliser, sécuriser, ne pas rater
+      b) Expérimenter à petit budget
+      c) Réduire le coût avant tout
+      d) Abandonner
+
+20. Qu'est une application de soutien développée sur mesure ?
+      a) Un avantage durable
+      b) Une obligation
+      c) Un risque de continuité
+      d) Un gaspillage
+
+========================================================================
+Vrai ou faux
+========================================================================
+
+21. Le modèle de Nolan a vieilli dans ses détails.
+      Vrai / Faux
+
+22. Une organisation peut passer d'un coup de la prolifération à la gestion des données.
+      Vrai / Faux
+
+23. De chaque facteur clé de succès on tire les informations nécessaires, puis les applications.
+      Vrai / Faux
+
+24. La grille de McFarlan date de 1984.
+      Vrai / Faux
+
+25. Toutes les applications se gèrent de la même manière.
+      Vrai / Faux
+
+26. Une application opérationnelle clé sans secours est un risque.
+      Vrai / Faux
+
+27. Une application stratégique se standardise et s'achète au moindre coût.
+      Vrai / Faux
+
+28. L'alignement se traite par un achat de matériel.
+      Vrai / Faux
+
+29. L'alignement est une affaire de décisions et de personnes.
+      Vrai / Faux
+
+30. À l'ANPP, la division informatique assistait aux réunions de direction.
+      Vrai / Faux
+
+========================================================================
+Textes à trous
+========================================================================
+
+31. Le modèle de Nolan compte ______ stades.
+
+32. Une organisation ne ______ pas de stade.
+
+33. Rockart part des facteurs clés de ______.
+
+34. Les facteurs clés de succès s'obtiennent par ______ avec les dirigeants.
+
+35. Les quatre familles sont stratégique, opérationnelle clé, à fort potentiel et de ______.
+
+36. Une application de soutien développée sur mesure est un ______.
+
+37. L'activité s'arrête sans une application opérationnelle ______.
+
+38. Une application à fort potentiel s'______ à petit budget.
+
+39. Le modèle d'alignement stratégique est dû à Henderson et ______.
+
+40. L'______ stratégique relie l'externe et l'interne.
+
+========================================================================
+Grille de réponses   Nom : ............................  Matricule : ............
+========================================================================
+ 1. ............................................
+ 2. ............................................
+ 3. ............................................
+ 4. ............................................
+ 5. ............................................
+ 6. ............................................
+ 7. ............................................
+ 8. ............................................
+ 9. ............................................
+10. ............................................
+11. ............................................
+12. ............................................
+13. ............................................
+14. ............................................
+15. ............................................
+16. ............................................
+17. ............................................
+18. ............................................
+19. ............................................
+20. ............................................
+21. ............................................
+22. ............................................
+23. ............................................
+24. ............................................
+25. ............................................
+26. ............................................
+27. ............................................
+28. ............................................
+29. ............................................
+30. ............................................
+31. ............................................
+32. ............................................
+33. ............................................
+34. ............................................
+35. ............................................
+36. ............................................
+37. ............................................
+38. ............................................
+39. ............................................
+40. ............................................

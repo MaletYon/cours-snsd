@@ -1,0 +1,33 @@
+SNSD-LAB-05, comparer trois scénarios de cible
+
+Les pièces du lab se trouvent dans le dossier preuves, en lecture seule, et
+une copie de travail modifiable dans le dossier travail (ouvert au démarrage).
+  note_scenarios.txt    les trois scénarios et la méthode
+  criteres.csv          cinq critères et deux jeux de poids
+  notes_comite.csv      18 lignes de notes
+  couts_scenarios.csv   coût par année
+  MANIFESTE_SHA256.txt  empreintes de référence (preuves)
+
+Marche à suivre.
+
+1. Vérifier l'intégrité avant toute analyse. Ouvrez un terminal, puis tapez :
+       cd ~/preuves
+       sha256sum -c MANIFESTE_SHA256.txt
+   Chaque fichier doit afficher OK.
+
+2. Lire la note.
+
+3. Calculer la note moyenne de chaque scénario par critère.
+
+4. Calculer les notes pondérées avec les poids du comité.
+
+5. Refaire le calcul avec les poids alternatifs.
+
+6. Lire les coûts.
+
+7. Répondre. Saisissez vos réponses dans le volet Points de contrôle de la
+   page du lab, puis enregistrez. Nombres avec un point ou une virgule
+   décimale ; codes et listes comme indiqué dans chaque question. Quand vous
+   avez terminé, cliquez sur Terminer et corriger pour obtenir votre note.
+
+Toute votre activité dans le terminal est journalisée.

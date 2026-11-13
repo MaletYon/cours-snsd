@@ -41,8 +41,25 @@ def lecture(titre, rows, texte, head='Exigence'):
     d3 = lambda x: fr(x, 3) if abs(x * 100 - round(x * 100)) > 1e-9 else fr(x, 2)
     return box('boxlecture', t + '\n\n\\medskip\n\\textbf{Décompte.} ' + dec + '\n\\hfill\\lecture{%s}{%s}{%s}\n\n\\medskip\n\\textbf{Lecture.} %s' % (d3(mu) if mu else '0', d3(u) if u else '0', fr(h, 2), texte.strip()), titre)
 
+# Titres en casse de phrase : seule la première lettre en majuscule, noms propres et sigles conservés.
+GARDE = {"Cameroun", "Afrique", "Porter", "Nolan", "Rockart", "Luftman", "Venkatraman", "McFarlan", "ArchiMate", "Union"}
+def phrase(t):
+    import re
+    def mot(w, premier):
+        m = re.match(r"^([«(\"']*)((?:[A-Za-zÀ-ÿ]{1,2}')?)(.*)$", w)
+        pre, eli, reste = m.groups()
+        coeur = re.sub(r"[^A-Za-zÀ-ÿŒœ-]", "", reste)
+        if not coeur or coeur in GARDE or (len(coeur) > 1 and coeur.upper() == coeur) or re.search(r"[a-zà-ÿ][A-Z]", coeur) or re.search(r"\d", reste) or "\\" in w or "~" in w:
+            return w if not premier else pre + (eli[:1].upper() + eli[1:] if eli else "") + reste
+        if premier:
+            return pre + (eli[:1].upper() + eli[1:] + reste.lower() if eli else reste[:1].upper() + reste[1:].lower())
+        return pre + eli.lower() + reste[:1].lower() + reste[1:].lower()
+    out = t.split(" ")
+    return " ".join(mot(w, i == 0) for i, w in enumerate(out))
+
 def chapitre(fichier, num, titre, label, mark, epi, epi_src, niveau, prereq, objectifs, ouv_titre, ouverture, corps,
              metiers, resume, points, exos, lectures, transition, sources=''):
+    titre = phrase(titre)
     o = [BAR, '% Fichier  : ' + fichier, '% Titre    : ' + titre, '% Auteur   : MINKA MI NGUIDJOÏ Thierry Emmanuel',
          '% Version  : 1.0 -- novembre 2026', '% Corrigés : corriges/Corr_' + ('P00' if num == 0 else 'C%02d' % num) + '.tex', BAR]
     if sources:
@@ -69,4 +86,5 @@ def chapitre(fichier, num, titre, label, mark, epi, epi_src, niveau, prereq, obj
     print(fichier, len(s.split('\n')), 'lignes')
 
 def sec(titre, label):
+    titre = phrase(titre)
     return '\n'.join([BAR, '\\section{%s}' % titre, '\\label{%s}' % label, BAR, ''])
