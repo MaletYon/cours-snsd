@@ -53,16 +53,16 @@ d'usage se juge sur cinq conditions avant d'entrer au portefeuille.
     ["Exploitation", "Qui surveillera la dérive du modèle, avec quel budget~?"]],
     "Cinq conditions pour un cas d'usage d'intelligence artificielle", "15.2") + r"""
 
-\begin{boxscenario}{ANPP. Le cas des paiements indus, révision de 2028}
+\begin{boxscenario}{ANPP. Le cas des paiements indus, révision de 2026}
 La direction financière propose un modèle qui signale les dossiers à risque de paiement indu~: bénéficiaire
 décédé, double immatriculation, droit éteint. Le comité de portefeuille applique les cinq conditions.
 
 L'objectif est clair~: ne payer que les ayants droit. Les données ne sont pas prêtes~: le référentiel ne sera
-fiabilisé qu'à la fin de 2028. La décision est fixée~: le modèle signale, un agent instruit, aucune suspension
+fiabilisé qu'à la fin de 2026. La décision est fixée~: le modèle signale, un agent instruit, aucune suspension
 automatique. La preuve est exigée~: chaque signalement indique ses motifs. L'exploitation est confiée à la
 cellule des données.
 
-Le projet entre au portefeuille pour 2029, après le référentiel. Il coûte 95~millions. Il décale un projet de
+Le projet entre au portefeuille pour 2027, après le référentiel. Il coûte 95~millions. Il décale un projet de
 soutien, selon la règle du Chapitre~\ref{chap:piloter}.
 \end{boxscenario}
 
@@ -95,7 +95,7 @@ textes qui régissent l'ANTIC lui confient de favoriser l'interopérabilité ent
 d'information~\cite{decret2012180,decret2019150}. Le schéma directeur liste donc les échanges attendus, leurs partenaires et leur
 état.
 
-""" + tab("L{3.2cm}L{3.2cm}L{2.6cm}L{3.0cm}", ["Échange", "Partenaire", "État en 2027", "Dépend de l'ANPP~?"], [
+""" + tab("L{3.2cm}L{3.2cm}L{2.6cm}L{3.0cm}", ["Échange", "Partenaire", "État en 2025", "Dépend de l'ANPP~?"], [
     ["Décès", "État civil", "Courrier mensuel", "Non"],
     ["Carrières", "Employeurs", "Bordereaux papier", "En partie"],
     ["Paiements", "Banques, opérateurs de paiement", "Fichiers déposés", "Oui"],
@@ -147,11 +147,11 @@ Tous les six ans, il coûte 28,5~millions. L'économie annuelle est de 14,25~mil
     ["Sobriété", "Durées de vie, plan de retrait, indicateur de consommation"]],
     "Cinq ajouts au schéma directeur", "15.4") + r"""
 
-""" + lecture("Les défis nouveaux dans le schéma directeur de l'ANPP, révision de 2028", [
+""" + lecture("Les défis nouveaux dans le schéma directeur de l'ANPP, révision de 2026", [
     ("Les données de référence sont listées avec leur propriétaire", "O", "Quatre données, quatre propriétaires"),
     ("Un indicateur de qualité est mesuré pour chacune", "N", "Mesure pour les bénéficiaires seuls"),
     ("Chaque cas d'usage d'IA passe la grille des cinq conditions", "O", "Fiche des paiements indus"),
-    ("Une règle d'usage des assistants est diffusée", "O", "Note du 3 mars 2028"),
+    ("Une règle d'usage des assistants est diffusée", "O", "Note du 3 mars 2026"),
     ("Les échanges avec l'extérieur sont listés avec leur état", "O", "Tableau 15.3"),
     ("Chaque échange dépendant d'un tiers a une solution d'attente", "N", "Rien pour le fichier d'identité"),
     ("Une doctrine d'hébergement par classe de données existe", "O", "Principe directeur n° 7"),
@@ -165,7 +165,7 @@ chapitre("partie6/P06_C15_donnees_ia.tex", 15, "Données, Intelligence Artificie
  ["Répondre aux cinq questions de gouvernance d'une donnée.", "Juger un cas d'usage d'intelligence artificielle sur cinq conditions.", "Lister les échanges d'une organisation avec l'extérieur et leurs dépendances.",
   "Formuler une doctrine d'hébergement par classe de données.", "Chiffrer un levier de sobriété.", "Dire ce que ces forces ajoutent au schéma directeur."],
  "« mettons de l'intelligence artificielle »", r"""
-Yaoundé, mars~2028. Un administrateur revient d'un colloque. Au conseil, il demande pourquoi le schéma directeur
+Yaoundé, mars~2026. Un administrateur revient d'un colloque. Au conseil, il demande pourquoi le schéma directeur
 voté neuf mois plus tôt « ne contient pas d'intelligence artificielle ». Il veut un projet avant la fin de
 l'année. M.~OWONA transmet à la cellule de portefeuille.
 

@@ -47,7 +47,7 @@ Le schéma directeur ne remplace pas la politique de sécurité. Il lui donne qu
     \item \textbf{Une organisation.} Un responsable de la sécurité qui ne dépend pas de celui qu'il contrôle.
           À l'ANPP, il est rattaché au directeur général.
     \item \textbf{Un budget.} Une ligne propre, distincte des projets. L'ANPP y consacre 6~\% de sa dépense
-          informatique annuelle à partir de 2028.
+          informatique annuelle à partir de 2026.
     \item \textbf{Une règle de projet.} Chaque fiche comporte une analyse de risque de sécurité et son coût.
     \item \textbf{Un calendrier.} L'audit obligatoire, les tests d'intrusion, les revues d'habilitations sont
           programmés sur cinq ans.
@@ -67,7 +67,7 @@ dommage inacceptable. Elle fixe le temps laissé pour redémarrer.
 après un sinistre. Elle fixe la fréquence des sauvegardes ou de la réplication.
 \end{boxdef}
 
-""" + tab("L{3.4cm}L{2.6cm}L{2.6cm}L{3.4cm}", ["Activité de l'ANPP", "Interruption admissible", "Perte admissible", "Constat de mars 2026"], [
+""" + tab("L{3.4cm}L{2.6cm}L{2.6cm}L{3.4cm}", ["Activité de l'ANPP", "Interruption admissible", "Perte admissible", "Constat de mars 2024"], [
     ["Paiement des prestations", "4 heures", "1 heure", "4 jours, 11 jours de données"],
     ["Encaissement (e-RECETTES)", "8 heures", "1 heure", "Aucun secours"],
     ["Liquidation des droits", "2 jours", "1 jour", "4 jours"],
@@ -86,12 +86,12 @@ continuité une obligation~\cite{cobac200801}.
 La carte d'applicabilité du Chapitre~\ref{chap:droit} devient un \termecle{registre de conformité}. Chaque
 exigence y reçoit un responsable, un état et une pièce.
 
-""" + tab("L{3.6cm}L{3.2cm}L{2.2cm}L{3.0cm}", ["Exigence", "Source", "État en 2027", "Projet qui la traite"], [
-    ["Audit de sécurité", "Loi n°~2010/012", "Non réalisé depuis 2022", "Obligatoire n°~2"],
+""" + tab("L{3.6cm}L{3.2cm}L{2.2cm}L{3.0cm}", ["Exigence", "Source", "État en 2025", "Projet qui la traite"], [
+    ["Audit de sécurité", "Loi n°~2010/012", "Non réalisé depuis 2020", "Obligatoire n°~2"],
     ["Formalités préalables des traitements", "Loi n°~2024/017", "Non engagées", "Obligatoire n°~3"],
     ["Engagements et paiements", "Loi n°~2018/012", "Conforme", "Plan de financement"],
-    ["Programmation des marchés", "Décret n°~2018/366", "Conforme pour 2027", "Plan d'achat"],
-    ["Approbation par le conseil", "Loi n°~2017/010", "Conforme", "Délibération du 24~juin"]],
+    ["Programmation des marchés", "Décret n°~2018/366", "Conforme pour 2025", "Plan d'achat"],
+    ["Approbation par le conseil", "Loi n°~2017/010", "Conforme", "Délibération du 26~juin"]],
     "Le registre de conformité du schéma directeur (extrait)", "14.3") + r"""
 
 La conformité se construit dans les projets. Le registre impose que la fiche de tout projet touchant des
@@ -124,18 +124,18 @@ que prévu. Quatre parades relèvent du schéma directeur et non du chef de proj
 \end{enumerate}
 \end{boxprocedure}
 
-""" + lecture("La maîtrise des risques dans le schéma directeur 2027-2031 de l'ANPP", [
-    ("Un registre des risques existe avec des propriétaires", "O", "Registre du 11 juin 2027"),
+""" + lecture("La maîtrise des risques dans le schéma directeur 2025-2029 de l'ANPP", [
+    ("Un registre des risques existe avec des propriétaires", "O", "Registre du 13 juin 2025"),
     ("Chaque risque au-dessus du seuil a un traitement", "O", "Cinq traitements"),
     ("Un bilan d'impact sur l'activité a été conduit", "O", "Tableau 14.2"),
     ("Le secours est dimensionné sur ce bilan", "O", "Fiche du projet de secours"),
-    ("Un exercice de continuité annuel est programmé", "O", "Calendrier 2028-2031"),
+    ("Un exercice de continuité annuel est programmé", "O", "Calendrier 2026-2029"),
     ("Le responsable de la sécurité est indépendant de l'informatique", "O", "Cible d'organisation"),
-    ("La sécurité a une ligne budgétaire propre", "O", "6~\\% à partir de 2028"),
+    ("La sécurité a une ligne budgétaire propre", "O", "6~\\% à partir de 2026"),
     ("Chaque fiche de projet porte les rubriques de risque", "N", "Rubriques absentes de huit fiches"),
     ("Le registre de conformité est tenu", "O", "Tableau 14.3"),
     ("Le registre des risques a été relu depuis l'approbation", "K", "Aucun procès-verbal fourni")],
-    r"""Huit \OUI{} sur dix. Le document de 2027 fait ce que celui de 2021 ignorait. Le \NON{} est facile à
+    r"""Huit \OUI{} sur dix. Le document de 2025 fait ce que celui de 2019 ignorait. Le \NON{} est facile à
 lever. Le \NEK{} est de preuve et il est le plus instructif~: un registre bien fait à la date d'approbation ne
 prouve rien sur sa vie ensuite. La cote dépendra des procès-verbaux du comité de portefeuille.""") + r"""
 """
@@ -145,12 +145,12 @@ chapitre("partie5/P05_C14_maitriser.tex", 14, "Risques, Sécurité, Continuité,
  ["Distinguer les risques du schéma directeur des risques qu'il traite.", "Écrire un risque en trois parties et le coter.", "Dire ce que le schéma directeur apporte à la sécurité.",
   "Conduire un bilan d'impact sur l'activité.", "Tirer un registre de conformité d'une carte d'applicabilité.", "Citer quatre parades à l'échec des projets."],
  "« quatre jours »", r"""
-Yaoundé, mars~2026. Un onduleur de la salle des serveurs cède un mardi à 14~heures. Les serveurs s'arrêtent sans
+Yaoundé, mars~2024. Un onduleur de la salle des serveurs cède un mardi à 14~heures. Les serveurs s'arrêtent sans
 précaution. Au redémarrage, la base des paiements est corrompue. La dernière sauvegarde utilisable date de onze
 jours. Il faut la restaurer, puis ressaisir onze jours d'opérations à partir des bordereaux des antennes.
 
 Les paiements du mois partent avec quatre jours de retard. Pour 186~000~bénéficiaires, quatre jours sont longs.
-Le ministre de tutelle convoque le directeur général. Le schéma directeur 2021-2025 prévoyait bien un « plan de
+Le ministre de tutelle convoque le directeur général. Le schéma directeur 2019-2023 prévoyait bien un « plan de
 secours ». C'était le projet n°~17. Il n'avait jamais démarré, faute de budget. Personne n'avait écrit ce que
 coûterait son absence.
 

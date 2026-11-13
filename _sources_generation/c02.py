@@ -103,7 +103,7 @@ Ces théories sont nées dans l'entreprise. Leur transposition demande trois pr�
           reste utile pour repérer ce qu'elle détient d'unique, par exemple son fichier des bénéficiaires.
 \end{enumerate}
 
-\begin{boxscenario}{Mission LiZbiZ. La note stratégique du 4 février 2027}
+\begin{boxscenario}{Mission LiZbiZ. La note stratégique du 6 février 2025}
 \textbf{Constatations.} Le plan HORIZON~3 vise le doublement du chiffre d'affaires. Un client pèse 38~\% des
 ventes. Une jeune pousse a pris 9~\% des livraisons urbaines à Douala en dix-huit mois. LiZbiZ détient dix ans
 de données de tournées qu'elle n'exploite pas.
@@ -121,7 +121,7 @@ chapitre("partie1/P01_C02_theories_strategie.tex", 2, "Les Théories de la Strat
   "Distinguer stratégie délibérée et stratégie émergente.", "Reconnaître une rupture et un marché biface.",
   "Raisonner un choix de faire ou de faire faire.", "Transposer ces théories à une administration."],
  "« le concurrent livre à moto »", r"""
-Douala, mardi 2~février~2027. Le directeur commercial de LiZbiZ ne s'inquiète pas. La jeune pousse qui livre à
+Douala, mardi 4~février~2025. Le directeur commercial de LiZbiZ ne s'inquiète pas. La jeune pousse qui livre à
 moto dans la ville « ne fait pas le même métier ». Elle ne transporte que des petits colis, elle n'a pas
 d'entrepôt et ses prix ne couvrent sans doute pas ses coûts.
 

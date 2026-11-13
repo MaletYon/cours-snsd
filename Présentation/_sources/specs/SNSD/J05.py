@@ -1,0 +1,43 @@
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from _h import *
+
+SPEC = [
+    T("Jour 5 / 15 · Séance de 2 heures", "Doctrines et stratégies numériques\ndans le monde et en Afrique", "« Une administration ne s'écrit pas comme si elle était seule. »", "Partie II · Chapitre C05"),
+    R("Jour 4 · Normes et référentiels", ["Quatre natures : **texte, norme certifiable, cadre volontaire, recommandation**", "ISO/IEC 38500 : **évaluer, diriger, surveiller**",
+        "Six objectifs de **COBIT 2019** portent le schéma directeur", "On écrit « **établi selon** », jamais « conforme à » un cadre volontaire"]),
+    A([("20 min", "**OCDE et Nations Unies** : recommandation de 2014, Pacte numérique mondial"), ("15 min", "**L'infrastructure publique numérique**"),
+       ("25 min", "**L'Union africaine** : six textes"), ("20 min", "**La doctrine française** : RACINES, urbanisation, valeur"),
+       ("10 min", "**Souveraineté et sobriété**"), ("30 min", "**Exercice** en séance · synthèse")]),
+    C("C05", "Chapitre 5", "PARTIE II · LE CONTEXTE INTERNATIONAL", "Doctrines et stratégies numériques dans le monde et en Afrique", "« Le bailleur parle une autre langue. »"),
+    O(["Situer la **recommandation de l'OCDE** de 2014 et le **Pacte numérique mondial** de 2024", "Définir l'**infrastructure publique numérique**",
+       "Présenter **six textes** de l'Union africaine", "Décrire **RACINES**, l'urbanisation et le pilotage par la valeur", "Définir **souveraineté** et **sobriété** numériques"]),
+    D("Deux instruments mondiaux", "Aucun n'oblige le Cameroun directement", [("OCDE, 15 juillet 2014", "Recommandation sur les stratégies numériques gouvernementales. Passer de l'administration **électronique**, qui met en ligne l'existant, à l'administration **numérique**, qui repense le service."),
+        ("Nations Unies, 22 septembre 2024", "Pacte numérique mondial, annexe I de la résolution 79/1. Un **engagement politique** des États, sans sanction, qui oriente les financements.")]),
+    K("L'infrastructure publique numérique", "Une doctrine installée depuis 2023", [("I", "Identité", "Un socle d'identité numérique commun à toutes les administrations."),
+        ("P", "Paiement", "Un socle de paiement ouvert aux services publics et privés."), ("E", "Échange de données", "Un socle par lequel les administrations s'échangent des données.")]),
+    P("Conséquence pour une agence", "Bâtir seul ce qui existera en commun est le gaspillage le plus fréquent", ["L'État ne numérise pas **service par service** : il construit des socles",
+        "Avant de bâtir son identification des bénéficiaires, l'ANPP demande ce que l'État prévoit", "Chaque application est conçue pour **se brancher plus tard** : interfaces documentées, identifiants convertibles",
+        "Les bailleurs financent des projets qui se branchent sur des **socles communs**"]),
+    TB("Six textes de l'Union africaine", "Tableau 5.2 du livre", ["Texte", "Date", "Apport"], [4.6, 2.6, 4.2], [
+        ["Convention de Malabo", "27 juin 2014", "Transactions, données personnelles, cybersécurité"], ["Stratégie de transformation numérique", "2020-2030", "Marché unique numérique d'ici 2030"],
+        ["Cadre stratégique des données", "Février 2022", "Gouvernance et circulation des données"], ["Protocole ZLECAf, commerce numérique", "Février 2024", "Règles communes, 22 ratifications requises"],
+        ["Stratégie continentale sur l'IA", "Juillet 2024", "Cadres nationaux, compétences"], ["Pacte numérique africain", "Juillet 2024", "Position commune de l'Afrique"]], 14),
+    D("L'internalisation", "Comment ces textes atteignent une organisation", [("La règle", "Les textes continentaux ne s'appliquent pas directement. Ils passent par le **droit national**."),
+        ("Deux exemples", "La loi camerounaise de 2024 sur les données personnelles reprend des principes de Malabo. La stratégie nationale d'intelligence artificielle de 2025 cite la stratégie continentale.")]),
+    ST("La méthode RACINES", "Rationalisation des choix informatiques · France, années 1980", [("1", "Évaluation de l'existant et orientations."), ("2", "Scénarios."), ("3", "Plan d'action."), ("4", "Mise en œuvre."), ("5", "Suivi.")]),
+    CP("Urbanisation et valeur", "Deux apports de la doctrine française", "L'urbanisation, années 1990", ["Le système se découpe en **zones, quartiers, îlots**", "Un îlot rend un service et un seul", "Une donnée a **un seul maître**"],
+       "Le pilotage par la valeur, années 2000", ["La méthode MAREVA note un projet sur plusieurs axes", "Rentabilité, risque, valeur pour les usagers, valeur pour les agents, nécessité", "Un projet public ne se réduit pas à son **rendement financier**"],
+       "Le cours garde les trois instances de RACINES et y ajoute le **financement** et la **mesure de la valeur**."),
+    CP("Deux doctrines récentes", "Chapitre 5, avant-dernière section", "Souveraineté", ["Garder la maîtrise de ses **données**, de ses infrastructures et de ses choix", "Elle pèse sur le choix d'un hébergement", "Elle ne se confond pas avec l'**autarcie**"],
+       "Sobriété", ["Mesurer l'empreinte matérielle et énergétique", "Allonger la durée de vie des postes, réduire le nombre de serveurs", "Une affaire de **bonne gestion** avant d'être écologique"]),
+    SC("La convention du bailleur", "Mission ANPP · 3 février 2025", ["M. OWONA transmet la convention de financement signée avec un bailleur.",
+        "Trois expressions y reviennent : « **infrastructure publique numérique** », « Pacte numérique mondial », « **interopérabilité** ».",
+        "M. ABDOULAYE, directeur financier : « Nous avons toujours présenté nos projets un par un. »"], "Le vocabulaire de la convention dit ce qui sera financé."),
+    EX("RACINES aujourd'hui", "20 minutes, en binôme", "Comparez les cinq étapes de RACINES aux six pièces du schéma directeur.", ["Quelle étape couvre quelle pièce ?", "Qu'est-ce que la méthode des années 1980 ne traite pas ?", "Que garde le cours de ses trois instances ?"],
+       "Corrigé. Étape 1 : pièces 1 et 2. Étape 2 : cible. Étape 3 : portefeuille. Manquent le financement annuel, la mesure de la valeur, le droit, les données, la sécurité."),
+    SY(["**OCDE 2014** : de l'administration électronique à l'administration numérique", "**Pacte numérique mondial**, 22 septembre 2024 : un engagement politique",
+        "**Union africaine** : stratégie 2020-2030, données 2022, IA et Pacte africain 2024, protocole ZLECAf", "**Infrastructure publique numérique** : identité, paiement, échange de données", "RACINES, urbanisation, souveraineté, sobriété"]),
+    M(["Chapitre C05 en entier", "Exercices 5.2 (socles) et 5.4 (souveraineté)"]),
+    F("Jour 6 · La stratégie numérique du Cameroun · Le cadre juridique", ["Vision 2035, SND30, plan 2026-2030", "Qui approuve, comment financer, comment acheter", "La carte d'applicabilité"]),
+]

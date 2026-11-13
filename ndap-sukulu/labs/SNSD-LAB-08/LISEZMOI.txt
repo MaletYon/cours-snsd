@@ -3,9 +3,9 @@ SNSD-LAB-08, tableau de bord d'exécution
 Les pièces du lab se trouvent dans le dossier preuves, en lecture seule, et
 une copie de travail modifiable dans le dossier travail (ouvert au démarrage).
   note_cellule.txt         méthode de la cellule
-  suivi_projets.csv        22 projets au 30 juin 2028
+  suivi_projets.csv        22 projets au 30 juin 2026
   registre_benefices.csv   12 bénéfices attendus
-  paiements_2027.csv       paiements de 2027 mois par mois
+  paiements_2025.csv       paiements de 2025 mois par mois
   MANIFESTE_SHA256.txt     empreintes de référence (preuves)
 
 Marche à suivre.

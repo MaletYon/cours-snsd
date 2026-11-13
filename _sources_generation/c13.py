@@ -14,14 +14,14 @@ ajoutent que chaque type de décision doit avoir un titulaire connu~\cite{weillr
 
 La \termecle{cellule de portefeuille} est l'instance la plus modeste et la plus utile. Elle tient les fiches à
 jour, prépare le comité, vérifie les chiffres des chefs de projet. Elle n'est pas rattachée à la division
-informatique. À l'ANPP, elle est créée par une décision du 2~juillet~2027.
+informatique. À l'ANPP, elle est créée par une décision du 4~juillet~2025.
 
 """ + sec("Le Tableau de Bord", "sec:c13-tableau") + r"""
 Kaplan et Norton ont proposé en 1992 de suivre une organisation sur quatre axes plutôt que sur le seul résultat
 financier~\cite{kaplannorton1992}. Transposés au schéma directeur, ils donnent une douzaine d'indicateurs au
 plus.
 
-""" + tab("L{2.8cm}L{4.8cm}L{4.4cm}", ["Axe", "Indicateur", "Cible de l'ANPP pour 2031"], [
+""" + tab("L{2.8cm}L{4.8cm}L{4.4cm}", ["Axe", "Indicateur", "Cible de l'ANPP pour 2029"], [
     ["Bénéficiaires", "Prestations payées à la date prévue", "99~\\%"],
     ["Bénéficiaires", "Délai de traitement d'une demande", "15~jours"],
     ["Finances", "Part des projets dans la dépense", "35~\\%"],
@@ -56,9 +56,9 @@ VP est la valeur planifiée, budget des travaux prévus à la date. VA est la va
 réellement achevés. CR est le coût réel. $\mathrm{IP_d}$ mesure le respect des délais, $\mathrm{IP_c}$ le
 respect des coûts. Au-dessous de 1, le portefeuille est en retard ou trop cher.
 
-\begin{boxscenario}{ANPP. La première revue, 30 juin 2028}
-Le profil du Tableau~11.5 prévoyait 380~millions en 2027 et la moitié de 1~050 au premier semestre 2028. La
-valeur planifiée au 30~juin~2028 est donc de $380 + 525 = 905$~millions. La cellule de portefeuille établit que
+\begin{boxscenario}{ANPP. La première revue, 30 juin 2026}
+Le profil du Tableau~11.5 prévoyait 380~millions en 2025 et la moitié de 1~050 au premier semestre 2026. La
+valeur planifiée au 30~juin~2026 est donc de $380 + 525 = 905$~millions. La cellule de portefeuille établit que
 les travaux achevés représentent 540~millions de budget et que 610~millions ont été payés.
 
 \[ \mathrm{IP_d} = \frac{540}{905} = 0{,}60 \qquad \mathrm{IP_c} = \frac{540}{610} = 0{,}89 \]
@@ -74,8 +74,8 @@ Un projet livré n'a encore rien rapporté. Ward et Daniel demandent de désigne
 mesure de départ, aucun progrès ne se prouve.
 
 """ + tab("L{3.6cm}L{2.8cm}L{2.6cm}L{2.6cm}", ["Bénéfice attendu", "Propriétaire", "Mesure de départ", "Cible"], [
-    ["Paiement à date fixe", "Directeur des prestations", "91~\\% en 2026", "99~\\% en 2031"],
-    ["Fin des doubles paiements", "Directeur financier", "2~340 cas en 2026", "Moins de 200"],
+    ["Paiement à date fixe", "Directeur des prestations", "91~\\% en 2024", "99~\\% en 2029"],
+    ["Fin des doubles paiements", "Directeur financier", "2~340 cas en 2024", "Moins de 200"],
     ["Délai de traitement", "Chefs d'antenne", "47~jours", "15~jours"],
     ["Économie de contrats", "Cheffe de division", "0", "85~millions par an"]],
     "Le registre des bénéfices (extrait)", "13.3") + r"""
@@ -99,7 +99,7 @@ Le budget de formation et d'accompagnement figure dans chaque fiche de projet. �
 l'investissement. Une fiche sans ce budget est renvoyée à son auteur.
 
 """ + sec("Accueillir l'Imprévu", "sec:c13-imprevu") + r"""
-Entre 2021 et 2025, onze projets de l'ANPP se sont faits hors du schéma directeur. Mintzberg appelle cela la
+Entre 2019 et 2023, onze projets de l'ANPP se sont faits hors du schéma directeur. Mintzberg appelle cela la
 stratégie émergente~\cite{mintzberg1985}. L'interdire est vain. Il faut une porte d'entrée.
 
 \begin{boxprocedure}
@@ -135,18 +135,18 @@ démarche complète.
 \begin{boxinfo}
 \textbf{Arrêter un projet.} Le comité de portefeuille a le pouvoir d'arrêter. C'est sa décision la plus
 difficile, parce que l'argent déjà dépensé pèse sur le jugement. La question à poser est simple~: sachant ce
-que nous savons, lancerions-nous ce projet aujourd'hui pour ce qu'il reste à payer~? Entre 2021 et 2025, quatre
+que nous savons, lancerions-nous ce projet aujourd'hui pour ce qu'il reste à payer~? Entre 2019 et 2023, quatre
 projets de l'ANPP ont été arrêtés sans qu'aucune instance ne l'ait décidé. Ils se sont éteints.
 \end{boxinfo}
 
-""" + lecture("Le dispositif de pilotage de l'ANPP, revue du 30 juin 2028", [
+""" + lecture("Le dispositif de pilotage de l'ANPP, revue du 30 juin 2026", [
     ("Un comité de portefeuille se réunit chaque trimestre", "O", "Quatre procès-verbaux"),
-    ("La cellule de portefeuille est indépendante de l'informatique", "O", "Décision du 2 juillet 2027"),
+    ("La cellule de portefeuille est indépendante de l'informatique", "O", "Décision du 4 juillet 2025"),
     ("Chaque indicateur a une source et une cible", "O", "Fiches d'indicateur"),
     ("Le tableau de bord contient un indicateur de résultat", "O", "Paiements à date"),
     ("L'avancement est mesuré par la valeur acquise", "O", "Note de la cellule"),
     ("Chaque bénéfice a un propriétaire et une mesure de départ", "N", "Deux bénéfices sans mesure de départ"),
-    ("Les demandes hors portefeuille passent par la procédure", "N", "Un projet lancé par une direction en mars 2028"),
+    ("Les demandes hors portefeuille passent par la procédure", "N", "Un projet lancé par une direction en mars 2026"),
     ("La révision annuelle est approuvée par le conseil", "K", "Conseil prévu en septembre"),
     ("Les projets en retard ont un plan de rattrapage", "O", "Deux plans joints")],
     r"""Six \OUI{} sur neuf. Le dispositif existe et fonctionne. Les deux \NON{} montrent que les habitudes
@@ -159,7 +159,7 @@ chapitre("partie5/P05_C13_piloter.tex", 13, "Piloter l'Exécution", "chap:pilote
  ["Composer les instances d'exécution d'un schéma directeur.", "Construire un tableau de bord sur quatre axes.", "Calculer les indices de délai et de coût par la valeur acquise.",
   "Tenir un registre des bénéfices.", "Instruire une demande hors portefeuille.", "Conduire une révision annuelle."],
  "« tout avance normalement »", r"""
-Yaoundé, vendredi 30~juin~2028. Première revue annuelle. Les chefs de projet présentent leurs fiches. Toutes
+Yaoundé, mardi 30~juin~2026. Première revue annuelle. Les chefs de projet présentent leurs fiches. Toutes
 portent la mention « avancement conforme ». M.~OWONA s'en réjouit.
 
 La cellule de portefeuille distribue ensuite une page. Elle a compté ce qui est réellement achevé. Sur
@@ -186,7 +186,7 @@ identique pour tous.
  ["définir un indicateur en cinq éléments", "calculer les deux indices de la valeur acquise", "remplir une ligne du registre des bénéfices", "préparer une révision annuelle"],
  [("Deux indices", 1, "À une date donnée, un portefeuille présente une valeur planifiée de 1~200~millions, une valeur acquise de 900 et un coût réel de 1~000. Calculez les deux indices et commentez."),
   ("Un indicateur", 2, "Définissez en cinq éléments l'indicateur « applications clés avec reprise éprouvée ». Dites ce que signifie « éprouvée » et quelle pièce le prouve."),
-  ("Le projet de mars", 2, "Une direction de l'ANPP a lancé seule un projet en mars 2028. Rédigez la décision que le comité de portefeuille aurait dû prendre, selon la procédure de ce chapitre."),
-  ("Arrêter", 3, "À la revue de 2029, le lot~1 de la refonte a consommé 80~\\% de son budget pour 45~\\% de ses travaux. Calculez l'indice de coût, estimez le coût final si la tendance se prolonge et rédigez la note d'options au comité~: poursuivre, redéfinir, arrêter.")],
+  ("Le projet de mars", 2, "Une direction de l'ANPP a lancé seule un projet en mars 2026. Rédigez la décision que le comité de portefeuille aurait dû prendre, selon la procédure de ce chapitre."),
+  ("Arrêter", 3, "Supposez qu'à une revue ultérieure le lot~1 de la refonte ait consommé 80~\\% de son budget pour 45~\\% de ses travaux. Calculez l'indice de coût, estimez le coût final si la tendance se prolonge et rédigez la note d'options au comité~: poursuivre, redéfinir, arrêter.")],
  ["Kaplan et Norton~\\cite{kaplannorton1992}.", "Ward et Daniel~\\cite{warddaniel2006}.", "ISO~21502~\\cite{iso21502} et ISO~21504~\\cite{iso21504}.", "Weill et Ross~\\cite{weillross2004}."],
  "Piloter suppose que rien de grave n'arrive. Le Chapitre~\\ref{chap:maitriser} traite de ce qui peut arriver.")

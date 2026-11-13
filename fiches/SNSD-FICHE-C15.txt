@@ -31,7 +31,7 @@ Questions à choix multiple (une seule bonne réponse)
  4. De quand date le Cadre stratégique de l'Union africaine en matière de données ?
       a) Juin 2014
       b) Juillet 2024
-      c) Mars 2026
+      c) Mars 2024
       d) Février 2022
 
  5. À combien de questions gouverner une donnée revient-il à répondre ?
@@ -92,12 +92,12 @@ Questions à choix multiple (une seule bonne réponse)
       a) Juillet 2025
       b) Février 2022
       c) Juillet 2024
-      d) Septembre 2024
+      d) Septembre 2022
 
 15. Quand le Cameroun a-t-il présenté sa stratégie nationale d'intelligence artificielle ?
       a) Juillet 2025
       b) Juillet 2024
-      c) Mars 2026
+      c) Mars 2024
       d) Mai 2016
 
 16. Quelle norme décrit un système de management de l'intelligence artificielle ?

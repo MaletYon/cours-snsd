@@ -53,10 +53,10 @@ Questions à choix multiple (une seule bonne réponse)
       d) 8
 
  8. À quelle date la cellule de portefeuille est-elle créée ?
-      a) 24 juin 2027
-      b) 30 juin 2028
-      c) 12 janvier 2027
-      d) 2 juillet 2027
+      a) 26 juin 2025
+      b) 30 juin 2026
+      c) 14 janvier 2025
+      d) 4 juillet 2025
 
  9. À quel rythme le comité de projet se réunit-il ?
       a) Chaque trimestre
@@ -76,7 +76,7 @@ Questions à choix multiple (une seule bonne réponse)
       c) Cinquante
       d) Cent
 
-12. Quelle cible pour les prestations payées à la date prévue en 2031 ?
+12. Quelle cible pour les prestations payées à la date prévue en 2029 ?
       a) 91 %
       b) 70 %
       c) 35 %
@@ -178,7 +178,7 @@ Textes à trous
 
 35. Un indicateur a une formule, une source, un responsable, une fréquence et une ______.
 
-36. La cible de paiements à date pour 2031 est de ______ %.
+36. La cible de paiements à date pour 2029 est de ______ %.
 
 37. La cible de délai de traitement est de ______ jours.
 

@@ -68,7 +68,7 @@ les plans, et un directeur général exécute.
 
 Le schéma directeur engage l'organisation sur plusieurs exercices. Il relève donc du conseil. Un document
 approuvé par le seul directeur général, ou par la seule direction informatique, n'engage pas les budgets à
-venir. C'est l'une des causes du sort du document de 2021 à l'ANPP~: le conseil l'avait approuvé, mais aucune
+venir. C'est l'une des causes du sort du document de 2019 à l'ANPP~: le conseil l'avait approuvé, mais aucune
 délibération n'en tirait de conséquence budgétaire.
 
 """ + sec("Acheter", "sec:c07-marches") + r"""
@@ -152,8 +152,8 @@ comptables.
 \end{enumerate}
 \end{boxprocedure}
 
-""" + lecture("Le cadre juridique dans le schéma directeur 2021 de l'ANPP", [
-    ("Le document est approuvé par le conseil", "O", "Délibération du 17 décembre 2020"),
+""" + lecture("Le cadre juridique dans le schéma directeur 2019 de l'ANPP", [
+    ("Le document est approuvé par le conseil", "O", "Délibération du 17 décembre 2018"),
     ("Une délibération en tire les conséquences budgétaires", "N", "Aucune"),
     ("Les projets sont chiffrés en engagements et en paiements", "N", "Total unique"),
     ("Chaque projet est rattaché à un programme budgétaire", "N", "Aucun rattachement"),
@@ -161,8 +161,8 @@ comptables.
     ("Aucun produit n'est nommé", "N", "Onze marques citées"),
     ("L'audit de sécurité obligatoire est prévu", "N", "Absent"),
     ("Les traitements de données personnelles sont recensés", "K", "Loi postérieure au document")],
-    r"""Un \OUI{} sur huit. Le document de 2021 était approuvé et inapplicable. Le \NEK{} est de critère~: la
-loi sur les données personnelles date de 2024 et ne pouvait pas être citée en 2020. Les six \NON{} tiennent à
+    r"""Un \OUI{} sur huit. Le document de 2019 était approuvé et inapplicable. Le \NEK{} est de critère~: la
+loi sur les données personnelles date de 2024 et ne pouvait pas être citée en 2018. Les six \NON{} tiennent à
 l'ignorance du droit public par ses rédacteurs. Aucun n'est technique.""") + r"""
 """
 chapitre("partie3/P03_C07_cadre_juridique.tex", 7, "Le Cadre Juridique d'un Schéma Directeur", "chap:droit", "Cadre juridique",
@@ -172,13 +172,13 @@ chapitre("partie3/P03_C07_cadre_juridique.tex", 7, "Le Cadre Juridique d'un Sch�
   "Dire quel organe approuve un schéma directeur.", "Énoncer quatre effets du code des marchés publics sur une trajectoire.",
   "Citer les textes communautaires applicables au système d'information d'une banque.", "Dresser une carte d'applicabilité."],
  "« nous lancerons le projet en mars »", r"""
-Yaoundé, mercredi 10~février~2027. Le directeur des prestations veut un tableau de bord des paiements « pour
-mars ». Mme~EKANI demande à M.~ABDOULAYE, directeur financier, si la dépense est inscrite au budget 2027. Elle ne
+Yaoundé, mercredi 12~février~2025. Le directeur des prestations veut un tableau de bord des paiements « pour
+mars ». Mme~EKANI demande à M.~ABDOULAYE, directeur financier, si la dépense est inscrite au budget 2025. Elle ne
 l'est pas. Elle demande si le marché figure à la programmation de l'année. Il n'y figure pas.
 
 M.~ABDOULAYE fait le compte. Il faut une inscription au budget, donc une délibération du conseil. Il faut ensuite
 un dossier d'appel d'offres, un délai de publication, une commission, une attribution, une notification. « Votre
-mars est un mars 2028. » Le directeur des prestations découvre que le calendrier d'un projet public commence
+mars est un mars 2026. » Le directeur des prestations découvre que le calendrier d'un projet public commence
 bien avant le premier jour de travail.
 
 \begin{boxalert}

@@ -182,7 +182,7 @@ Textes à trous
 
 37. La norme de sécurité de l'information est l'ISO/IEC ______.
 
-38. L'ANPP consacre ______ % de sa dépense informatique à la sécurité à partir de 2028.
+38. L'ANPP consacre ______ % de sa dépense informatique à la sécurité à partir de 2026.
 
 39. La norme de continuité d'activité est l'ISO ______.
 

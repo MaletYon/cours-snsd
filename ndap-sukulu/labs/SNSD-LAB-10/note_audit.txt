@@ -1,7 +1,7 @@
-ANPP, audit interne, note de méthode pour l'avis du 18 juin 2027
+ANPP, audit interne, note de méthode pour l'avis du 20 juin 2025
 
-Objet : le schéma directeur 2027-2031, version du 11 juin 2027, avant son approbation.
-Référentiel : 48 exigences en huit domaines, arrêté avec le directeur général le 2 juin.
+Objet : le schéma directeur 2025-2029, version du 13 juin 2025, avant son approbation.
+Référentiel : 48 exigences en huit domaines, arrêté avec le directeur général le 4 juin.
 Chaque exigence est cotée oui, non ou nek, avec sa pièce.
   mu = nombre de oui / nombre d'exigences.      U = nombre de nek / nombre d'exigences.
   H = - somme des p log2 p sur les cotes présentes (entropie de Shannon).

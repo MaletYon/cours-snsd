@@ -104,7 +104,7 @@ choisit les bonnes choses à faire.
 \end{enumerate}
 \end{boxprocedure}
 
-\begin{boxscenario}{Mission ANPP. Les référentiels retenus, 26 janvier 2027}
+\begin{boxscenario}{Mission ANPP. Les référentiels retenus, 28 janvier 2025}
 \textbf{Constatations.} Le cahier des charges du conseil cite « les bonnes pratiques » sans les nommer. Le
 bailleur qui finance une partie des projets demande un suivi de portefeuille. La division informatique compte
 deux agents certifiés ITIL et aucun architecte.
@@ -116,13 +116,13 @@ Ce choix est écrit dans la note de cadrage.
 \end{boxscenario}
 
 """ + lecture("Les référentiels à l'ANPP avant la mission", [
-    ("Les référentiels employés sont nommés avec leur édition", "N", "Schéma directeur 2021"),
+    ("Les référentiels employés sont nommés avec leur édition", "N", "Schéma directeur 2019"),
     ("Le conseil exerce les trois tâches de l'ISO/IEC~38500", "N", "Approuve sans surveiller"),
     ("Un processus de portefeuille existe", "N", "Aucune procédure"),
-    ("Un registre des risques informatiques est tenu", "O", "Registre de 2026"),
+    ("Un registre des risques informatiques est tenu", "O", "Registre de 2024"),
     ("La gestion des services suit un cadre déclaré", "K", "Pratiques ITIL non documentées"),
     ("Une certification est détenue sur un périmètre", "N", "Aucune")],
-    r"""Un seul \OUI{}. Le registre des risques existe depuis la panne de mars~2026. Le \NEK{} est de preuve~:
+    r"""Un seul \OUI{}. Le registre des risques existe depuis la panne de mars~2024. Le \NEK{} est de preuve~:
 deux agents appliquent ITIL sans procédure écrite. L'Agence n'a pas besoin de certificat à ce stade. Elle a
 besoin de nommer ce qu'elle emploie.""") + r"""
 """
@@ -133,7 +133,7 @@ chapitre("partie2/P02_C04_normes_referentiels.tex", 4, "Normes et Référentiels
   "Citer les objectifs de COBIT~2019 qui portent le schéma directeur.", "Situer TOGAF, ITIL~4 et l'ISO~21504.",
   "Déclarer les référentiels d'un schéma directeur."],
  "« conforme à COBIT »", r"""
-Douala, mercredi 20~janvier~2027. Le schéma directeur que la BANQUE SANAGA\footnote{La BANQUE SANAGA est fictive.
+Douala, mercredi 21~octobre~2026. Le schéma directeur que la BANQUE SANAGA\footnote{La BANQUE SANAGA est fictive.
 Sa panne de 2026 et l'Opération WOURI qui a suivi figurent dans d'autres cours de l'auteur.} avait remis à son
 superviseur en 2024 portait en couverture la mention « conforme à COBIT, ITIL et TOGAF ». Mme~NKENG, responsable
 du contrôle de second niveau, a cherché sur quoi reposait cette phrase. Elle n'a trouvé ni liste des objectifs

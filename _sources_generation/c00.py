@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 from ch import *
-corps = sec("Ce que Contenait le Schéma Directeur 2021-2025", "sec:p-contenu") + r"""
-Le document compte 214~pages. Il a été rédigé en 2020 par un cabinet, validé par le conseil d'administration le
-17~décembre~2020 et payé 86~millions de francs CFA. Mme~EKANI en dresse l'inventaire en une matinée.
+corps = sec("Ce que Contenait le Schéma Directeur 2019-2023", "sec:p-contenu") + r"""
+Le document compte 214~pages. Il a été rédigé en 2018 par un cabinet, validé par le conseil d'administration le
+17~décembre~2018 et payé 86~millions de francs CFA. Mme~EKANI en dresse l'inventaire en une matinée.
 
 """ + tab("L{5.2cm}cL{5.6cm}", ["Rubrique", "Pages", "Ce que l'on y trouve"], [
     ["État des lieux", "118", "Inventaire du matériel, poste par poste"],
@@ -10,14 +10,14 @@ Le document compte 214~pages. Il a été rédigé en 2020 par un cabinet, valid�
     ["Projets", "61", "23 fiches de projet, sans priorité ni responsable"],
     ["Budget", "4", "Un total de 6,3~milliards, sans échéancier"],
     ["Gouvernance", "2", "Un comité de pilotage, jamais réuni"],
-    ["Annexes", "20", "Glossaire, listes"]], "Anatomie du schéma directeur 2021-2025 de l'ANPP", "P.1") + r"""
+    ["Annexes", "20", "Glossaire, listes"]], "Anatomie du schéma directeur 2019-2023 de l'ANPP", "P.1") + r"""
 
 Plus de la moitié du document décrit du matériel qui a été remplacé depuis. Les orientations tiennent en neuf
 pages. Le budget tient en quatre, pour un montant qui représente dix fois le budget informatique annuel de
 l'Agence. Aucune ligne ne dit d'où viendrait l'argent.
 
 """ + sec("Ce qui s'est Passé en Cinq Ans", "sec:p-bilan") + r"""
-\begin{boxscenario}{Mission ANPP. Le bilan du schéma directeur 2021-2025, 19 janvier 2027}
+\begin{boxscenario}{Mission ANPP. Le bilan du schéma directeur 2019-2023, 21 janvier 2025}
 \textbf{Constatations.}
 \begin{itemize}
     \item Sur les 23 projets inscrits, 6 ont été livrés, 4 ont été commencés puis arrêtés, 13 n'ont jamais
@@ -47,7 +47,7 @@ M.~BEYALA écrit trois questions au tableau. Elles servent de fil à tout le cou
 Avant tout diagnostic, l'équipe cote huit propositions simples sur le document. Chacune reçoit une cote et une
 pièce. C'est la convention de tout le cours.
 
-""" + lecture("Le schéma directeur 2021-2025, 19 janvier 2027", [
+""" + lecture("Le schéma directeur 2019-2023, 21 janvier 2025", [
     ("Le document cite le plan stratégique de l'Agence", "N", "Aucune mention"),
     ("Chaque projet est rattaché à un objectif de l'Agence", "N", "23 fiches lues"),
     ("Les projets sont classés par priorité", "N", "Liste alphabétique"),
@@ -55,9 +55,9 @@ pièce. C'est la convention de tout le cours.
     ("Une source de financement est indiquée", "N", "Aucune"),
     ("Une instance de pilotage est désignée", "O", "Page 198"),
     ("Cette instance s'est réunie", "N", "Aucun procès-verbal"),
-    ("Le conseil a suivi l'exécution", "K", "Procès-verbaux de 2022 non retrouvés")],
+    ("Le conseil a suivi l'exécution", "K", "Procès-verbaux de 2020 non retrouvés")],
     r"""Le document n'est ni aligné ni finançable. Il désigne une instance, ce qui vaut un \OUI{}, mais
-l'instance n'a pas fonctionné. Le \NEK{} est de preuve~: les procès-verbaux du conseil pour 2022 manquent aux
+l'instance n'a pas fonctionné. Le \NEK{} est de preuve~: les procès-verbaux du conseil pour 2020 manquent aux
 archives. Avec $U = 0{,}125$, l'incertitude ne gêne pas la conclusion. Six écarts sont établis.""", "Proposition") + r"""
 
 \begin{boxdef}
@@ -82,16 +82,16 @@ chapitre("partie0/P00_tiroir.tex", 0, "Le Schéma Directeur Dort dans un Tiroir"
  ["Reconnaître un schéma directeur qui ne sert pas.", "Poser les trois questions du cours~: aligné, finançable, gouverné.",
   "Coter une proposition \\OUI{}, \\NON{} ou \\NEK{} avec une pièce.", "Situer les trois organisations du cours."],
  "« nous en avons déjà un »", r"""
-Yaoundé, mardi 12~janvier~2027. L'Agence nationale de paiement des prestations\footnote{L'ANPP, ses dirigeants,
+Yaoundé, mardi 14~janvier~2025. L'Agence nationale de paiement des prestations\footnote{L'ANPP, ses dirigeants,
 ses projets et ses chiffres sont fictifs, comme LiZbiZ, la BANQUE SANAGA et le cabinet AUDIX CONSEIL. Ces
 organisations figurent dans d'autres cours de l'auteur.}, l'ANPP, verse chaque mois des prestations à
 186\,000~bénéficiaires par dix antennes régionales. Elle emploie 412~agents. Son conseil d'administration vient de
-commander un schéma directeur pour 2027-2031 au cabinet AUDIX CONSEIL.
+commander un schéma directeur pour 2025-2029 au cabinet AUDIX CONSEIL.
 
 À la réunion de lancement, la cheffe de la division informatique, Mme~NGO~BIYONG, pose un classeur sur la
-table. « Nous en avons déjà un. Il couvrait 2021 à 2025. Je suis arrivée en 2023 et personne ne m'en a parlé. »
-Le directeur général, M.~OWONA, ajoute qu'en mars~2026 une panne a arrêté les paiements pendant quatre jours.
-Le projet e-RECETTES, mis en service en 2025, n'avait pas de site de secours. « Le conseil veut un nouveau
+table. « Nous en avons déjà un. Il couvrait 2019 à 2023. Je suis arrivée en 2021 et personne ne m'en a parlé. »
+Le directeur général, M.~OWONA, ajoute qu'en mars~2024 une panne a arrêté les paiements pendant quatre jours.
+Le projet e-RECETTES, mis en service en 2023, n'avait pas de site de secours. « Le conseil veut un nouveau
 document. Je voudrais surtout qu'il serve. »
 
 M.~BEYALA, chef de mission, confie le classeur à Mme~EKANI et au consultant junior. Leur première tâche n'est
@@ -114,7 +114,7 @@ du schéma directeur échu est la première pièce du nouveau.
   "Chaque proposition se cote \\OUI{}, \\NON{} ou \\NEK{}, avec une pièce.",
   "Le bilan du document échu ouvre le nouveau."],
  ["définir un schéma directeur et dire ce qu'il n'est pas", "énoncer les trois questions du cours", "expliquer la différence entre un \\NON{} et un \\NEK{}"],
- [("Le bilan en chiffres", 1, "Calculez, pour le schéma directeur 2021-2025 de l'ANPP, le taux de projets livrés, le taux de projets hors document parmi les projets menés et le taux d'exécution du budget."),
+ [("Le bilan en chiffres", 1, "Calculez, pour le schéma directeur 2019-2023 de l'ANPP, le taux de projets livrés, le taux de projets hors document parmi les projets menés et le taux d'exécution du budget."),
   ("Coter votre organisation", 2, "Prenez le schéma directeur d'une organisation que vous connaissez, ou à défaut son plan informatique. Cotez les huit propositions du prologue. Calculez $\\mu$ et $U$. Rédigez la lecture en cinq lignes."),
   ("La lettre au conseil", 3, "Rédigez la note d'une page que M.~BEYALA adresse au président du conseil, M.~TCHUENTE, pour expliquer pourquoi la mission commence par un bilan. Séparez constatations et analyse.")],
  ["Le chapitre sur le schéma directeur dans Peppard et Ward~\\cite{wardpeppard2016}.", "L'ISO/IEC~38500~\\cite{iso38500}, pour le rôle de l'organe de gouvernance."],

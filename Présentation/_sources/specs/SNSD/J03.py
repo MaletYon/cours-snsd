@@ -1,0 +1,51 @@
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from _h import *
+
+SPEC = [
+    T("Jour 3 / 15 · Séance de 2 heures", "L'alignement et la valeur", "« L'alignement est une affaire de décisions et de personnes. » Règle du chapitre", "Partie I · Chapitre C03"),
+    R("Jour 2 · Les théories de la stratégie", ["**Cinq forces** : rivalité, entrants, substituts, fournisseurs, clients", "**VRIO** : ce que tout le monde peut acheter ne donne que la parité",
+        "La stratégie réalisée mêle le **délibéré** et l'**émergent**", "On **fait soi-même** ce qui est spécifique, incertain et fréquent"]),
+    A([("20 min", "**Nolan, Rockart, McFarlan** : maturité, besoins, familles d'applications"), ("25 min", "**Le modèle d'alignement** stratégique et ses quatre perspectives"),
+       ("15 min", "**Luftman** : mesurer l'alignement"), ("20 min", "**La valeur** : Solow, Brynjolfsson, Carr, Ward et Daniel"),
+       ("10 min", "**Gouvernance et modèle opérationnel**"), ("30 min", "**Exercice** en séance · synthèse")]),
+    C("C03", "Chapitre 3", "PARTIE I · FONDEMENTS", "L'alignement et la valeur", "« L'informatique ne suit pas. »"),
+    O(["Situer une organisation dans les **stades de Nolan**", "Tirer des applications de **facteurs clés de succès**", "Classer des applications avec la grille de **McFarlan**",
+       "Décrire les **quatre perspectives** d'alignement", "Discuter le **paradoxe de la productivité** et la thèse de Carr", "Dire **qui décide de quoi**"]),
+    TB("Des facteurs clés de succès aux applications", "Rockart, 1979 · exemple de l'ANPP", ["Facteur clé de succès", "Information nécessaire", "Conséquence pour le SI"], [3.8, 4.0, 3.6], [
+        ["Payer à date fixe", "État des paiements par antenne, chaque jour", "Tableau de bord des paiements"], ["Ne payer que les ayants droit", "Fichier unique, à jour des décès", "Lien avec l'état civil"],
+        ["Rendre compte à la tutelle", "Dépense par programme", "Comptabilité analytique"], ["Rester joignable", "Demandes et délais de réponse", "Guichet unique des demandes"]]),
+    TB("La grille des applications", "McFarlan, 1984 · version de Peppard et Ward", ["Famille", "Rôle", "Conduite à tenir"], [2.8, 4.2, 4.4], [
+        ["Stratégique", "Décisive pour la stratégie future", "Investir, innover, garder la maîtrise"], ["Opérationnelle clé", "L'activité s'arrête sans elle", "Fiabiliser, sécuriser, ne pas rater"],
+        ["À fort potentiel", "Pourrait devenir stratégique", "Expérimenter à petit budget, trancher vite"], ["De soutien", "Utile, sans enjeu propre", "Standardiser, acheter, réduire le coût"]]),
+    TB("Quatre perspectives d'alignement", "Henderson et Venkatraman, 1993", ["Perspective", "Point de départ", "Rôle du DSI"], [3.4, 5.8, 2.2], [
+        ["Exécution de la stratégie", "La stratégie d'affaire commande l'organisation, qui commande le SI", "Exécutant"],
+        ["Transformation technologique", "La stratégie d'affaire commande la stratégie des TI", "Architecte"],
+        ["Potentiel concurrentiel", "Une technologie ouvre une stratégie d'affaire nouvelle", "Catalyseur"],
+        ["Niveau de service", "La stratégie des TI commande le service rendu aux métiers", "Prestataire"]]),
+    S4("L'alignement à l'ANPP", "Luftman, 2000 : six critères · ici, dix exigences cotées", [("2", "OUI : un responsable métier par projet, un plan de formation"), ("6", "NON : communication, valeur, gouvernance, architecture"),
+        ("2", "NEK de preuve, à lever pendant le diagnostic"), ("0,20", "µ : l'alignement n'est pas établi")],
+        "Le point d'appui est le partenariat. Le problème n'est pas technique."),
+    CP("La valeur en question", "Une controverse à connaître", "Solow 1987, Brynjolfsson 1993", ["On voit des ordinateurs partout **sauf dans les statistiques** de productivité",
+        "Quatre explications : mesure, délais d'apprentissage, redistribution, mauvaise gestion", "La valeur apparaît quand l'investissement s'accompagne d'un **changement d'organisation**"],
+       "Carr 2003", ["Les technologies deviennent une **commodité**, comme l'électricité", "Ce que tous peuvent acheter ne distingue personne", "Dépenser moins, suivre plutôt que mener"],
+       "Carr a raison pour l'**infrastructure**. Il a tort pour l'**usage** : la valeur vient des données, des processus et des compétences."),
+    D("La gestion des bénéfices", "Ward et Daniel, 2006", [("Le principe", "Un bénéfice n'est pas livré par un projet. Il est **obtenu par un métier** qui change sa manière de travailler."),
+        ("La conséquence", "Chaque bénéfice a un **propriétaire**, une **mesure** et une **date**, distincts de ceux du projet.")]),
+    P("Qui décide de quoi", "Weill et Ross 2004 · Ross, Weill et Robertson 2006 · Bharadwaj 2013", ["Cinq décisions : **principes, architecture, infrastructure, besoins applicatifs, investissement**",
+        "Quatre modèles opérationnels : diversification, coordination, réplication, **unification**", "L'ANPP relève de l'unification, LiZbiZ de la coordination",
+        "Pour Bharadwaj, la stratégie numérique est une **composante** de la stratégie d'affaire"]),
+    SC("« L'informatique ne suit pas »", "Mission ANPP · 10 février 2025", ["Le directeur des prestations attend depuis deux ans un état quotidien des paiements.",
+        "Mme NGO BIYONG n'a jamais reçu cette demande par écrit. Elle a appris par hasard la réforme des prestations de 2023.",
+        "La division informatique **n'assiste pas aux réunions de direction**. Personne n'arbitre."], "Chacun a raison. Le défaut porte un nom depuis 1993."),
+    METIERS3(("Directeur des systèmes d'information", "Tenir la grille des applications à jour. Demander pour chaque projet le métier qui en obtiendra le bénéfice."),
+             ("Directeur de métier", "Écrire le bénéfice attendu avant le projet et le mesurer après."),
+             ("Directeur général", "Faire entrer le responsable du système d'information dans les réunions où la stratégie se discute.")),
+    EX("Grille de McFarlan", "25 minutes, en binôme", "Classez six applications de l'ANPP dans les quatre familles et justifiez.",
+       ["La paie · e-RECETTES · la messagerie", "Un pilote de paiement sur compte mobile dans une antenne", "Le fichier des bénéficiaires · un site d'information du public"],
+       "Corrigé indicatif. Soutien : paie, messagerie, site. Opérationnelle clé : e-RECETTES. À fort potentiel : le pilote. Stratégique : le fichier des bénéficiaires."),
+    SY(["**Nolan** : une organisation ne saute pas de stade", "**McFarlan** : quatre familles, quatre conduites", "**Henderson et Venkatraman** : quatre perspectives, dont celle du numérique",
+        "La valeur vient de l'**usage** et du changement d'organisation", "Un bénéfice a un **propriétaire** dans le métier"]),
+    M(["Chapitre C03 en entier", "Exercices 3.2 (quelle perspective) et 3.3 (lever deux NEK)"]),
+    F("Jour 4 · Normes et référentiels", ["Texte, norme, cadre : trois natures", "ISO/IEC 38500 : évaluer, diriger, surveiller", "COBIT 2019, TOGAF, ISO 21504"]),
+]

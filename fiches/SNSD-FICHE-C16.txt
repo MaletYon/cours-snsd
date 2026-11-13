@@ -34,7 +34,7 @@ Questions à choix multiple (une seule bonne réponse)
       c) Est-il piloté ?
       d) A-t-il produit ce qu'il promettait ?
 
- 5. Quel audit le prologue a-t-il pratiqué sur le document de 2021 ?
+ 5. Quel audit le prologue a-t-il pratiqué sur le document de 2019 ?
       a) L'audit avant l'approbation
       b) L'audit à l'échéance
       c) L'audit pendant l'exécution
@@ -134,7 +134,7 @@ Questions à choix multiple (une seule bonne réponse)
 Vrai ou faux
 ========================================================================
 
-21. Les chapitres de méthode ont pratiqué l'audit avant approbation sur chaque livrable de 2027.
+21. Les chapitres de méthode ont pratiqué l'audit avant approbation sur chaque livrable de 2025.
       Vrai / Faux
 
 22. L'auditeur invente ses critères en cours de route.

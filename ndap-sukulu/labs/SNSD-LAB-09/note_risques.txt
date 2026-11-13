@@ -1,4 +1,4 @@
-BANQUE SANAGA, contrôle de second niveau, note de méthode (mai 2027)
+BANQUE SANAGA, contrôle de second niveau, note de méthode (novembre 2026)
 
 Registre des risques du schéma directeur.
   Criticité = probabilité x impact, chacun noté de 1 à 5. Seuil d'attention : 12.

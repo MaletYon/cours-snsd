@@ -104,8 +104,8 @@ rempli, sauf la note de cadrage et le schéma directeur lui-même.
  ["Résultat", "Un fichier unique des 186~000 bénéficiaires, maître pour toutes les applications"],
  ["Objectif servi", "Ne payer que les ayants droit"],
  ["Responsable", "Directeur des prestations"],
- ["Investissement", "340~millions (60 en 2027, 280 en 2028)"],
- ["Coût annuel ensuite", "48~millions à partir de 2029"],
+ ["Investissement", "340~millions (60 en 2025, 280 en 2026)"],
+ ["Coût annuel ensuite", "48~millions à partir de 2027"],
  ["Durée", "20~mois, passation comprise"],
  ["Dépendances", "Aucune en amont. Les trois lots de la refonte en dépendent"],
  ["Ce qu'il remplace", "Onze fichiers de bénéficiaires"],
@@ -121,8 +121,8 @@ rempli, sauf la note de cadrage et le schéma directeur lui-même.
  ["Source", "Journal des paiements"],
  ["Responsable de la mesure", "Cellule de portefeuille"],
  ["Fréquence", "Chaque mois"],
- ["Mesure de départ", "91~\\% en 2026"],
- ["Cible", "99~\\% en 2031"]]) + r"""
+ ["Mesure de départ", "91~\\% en 2024"],
+ ["Cible", "99~\\% en 2029"]]) + r"""
 
 \gardetitre
 \section*{B5. Sommaire type d'un schéma directeur}
@@ -222,11 +222,11 @@ ecrire('annexes/Ann_C_textes.tex', C)
 S = {'T': 'Texte', 'N': 'Norme', 'E': 'Engagement', 'R': 'Règle de l\'art', 'C': 'Cohérence'}
 D = [
  ("D1. Cadrage", "cadrer", [
-  ("La note de cadrage est signée par le commanditaire", 'R', 'O', "Signature du 29~janvier"),
+  ("La note de cadrage est signée par le commanditaire", 'R', 'O', "Signature du 31~janvier"),
   ("Le périmètre du diagnostic est celui de la note de cadrage", 'C', 'O', "Rapprochement des deux documents"),
   ("L'organe d'approbation est le conseil d'administration", 'T', 'O', "Section 2 de la note"),
   ("Le comité de pilotage est présidé par la direction générale", 'N', 'O', "Composition du comité"),
-  ("L'horizon couvre le plan stratégique de l'Agence", 'E', 'O', "2027-2031 pour un plan 2026-2030"),
+  ("L'horizon couvre le plan stratégique de l'Agence", 'E', 'O', "2025-2029 pour un plan 2024-2028"),
   ("La tutelle a été informée du lancement", 'R', 'K', "Copie du courrier non remise. \\textit{Preuve}")]),
  ("D2. Diagnostic", "diagnostic", [
   ("L'inventaire est construit depuis les métiers", 'R', 'O', "47~fiches, dont 16 hors liste officielle"),
@@ -234,11 +234,11 @@ D = [
   ("Chaque note renvoie à une pièce", 'R', 'O', "Registre des pièces"),
   ("La dépense de cinq exercices est reconstituée", 'R', 'O', "Tableau 9.5"),
   ("Le total de la dépense égale la somme par nature", 'C', 'O', "2~418 + 682 = 3~100"),
-  ("Le rapport est approuvé par le comité de pilotage", 'R', 'O', "Procès-verbal du 19~mars")]),
+  ("Le rapport est approuvé par le comité de pilotage", 'R', 'O', "Procès-verbal du 21~mars")]),
  ("D3. Cible", "cible", [
   ("Chaque capacité se rattache à un objectif du plan stratégique", 'E', 'O', "Tableau 10.1"),
   ("Chaque objectif est servi par une capacité et par un projet au moins", 'E', 'O', "Table de correspondance"),
-  ("Les principes directeurs sont approuvés avec leurs conséquences", 'N', 'O', "Procès-verbal du 9~avril"),
+  ("Les principes directeurs sont approuvés avec leurs conséquences", 'N', 'O', "Procès-verbal du 11~avril"),
   ("L'architecture est décrite par des vues adaptées aux lecteurs", 'N', 'O', "Quatre plans"),
   ("Toutes les applications de l'inventaire sont situées sur le plan fonctionnel", 'C', 'O', "47 sur 47"),
   ("Deux scénarios éligibles ont été comparés sur des critères fixés d'avance", 'R', 'O', "Tableau 10.6")]),
@@ -265,7 +265,7 @@ D = [
   ("Une procédure traite les demandes hors portefeuille", 'R', 'O', "Section 8"),
   ("La révision annuelle précède la préparation du budget", 'R', 'K', "Calendrier non arrêté. \\textit{Preuve}")]),
  ("D7. Maîtrise des risques", "maitriser", [
-  ("Un registre des risques existe avec des propriétaires", 'N', 'O', "Registre du 11~juin"),
+  ("Un registre des risques existe avec des propriétaires", 'N', 'O', "Registre du 13~juin"),
   ("Le secours est dimensionné par un bilan d'impact sur l'activité", 'N', 'O', "Tableau 14.2"),
   ("L'audit de sécurité obligatoire est programmé", 'T', 'O', "Projet obligatoire n°~2"),
   ("Les traitements de données personnelles sont recensés et leurs formalités programmées", 'T', 'O', "Projet obligatoire n°~3"),
@@ -292,13 +292,13 @@ assert n == 48 and tot == {'O': 37, 'N': 7, 'K': 4} and src == {'T': 9, 'N': 8, 
 Dx = G + r"""\chapter{Les quarante-huit exigences de la mission ANPP}
 \label{ann:exigences}
 
-Cette annexe réunit le référentiel employé le 18~juin~2027 pour l'audit du schéma directeur 2027-2031 de l'ANPP
+Cette annexe réunit le référentiel employé le 20~juin~2025 pour l'audit du schéma directeur 2025-2029 de l'ANPP
 avant son approbation (Chapitre~\ref{chap:audit}). Elle permet de refaire chaque calcul~: 6 + 6 + 6 + 6 + 7 +
 6 + 6 + 5 = 48 exigences, 37~\OUI{}, 7~\NON{}, 4~\NEK{}. La colonne Source indique d'où vient l'exigence~: un
 texte, une norme, un engagement de l'Agence, une règle de l'art ou la cohérence interne du document. Les
 quatre \NEK{} sont de preuve.
 
-Les cotes sont celles du 18~juin~2027. Elles diffèrent parfois de celles des encadrés de lecture des chapitres,
+Les cotes sont celles du 20~juin~2025. Elles diffèrent parfois de celles des encadrés de lecture des chapitres,
 établies à d'autres dates sur des livrables intermédiaires.
 
 """ + body + r"""\gardetitre

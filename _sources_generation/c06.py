@@ -141,20 +141,20 @@ note comme des évolutions attendues et n'en tire aucun projet.
 \end{enumerate}
 \end{boxprocedure}
 
-\begin{boxscenario}{Mission ANPP. Le rattachement stratégique, 5 février 2027}
+\begin{boxscenario}{Mission ANPP. Le rattachement stratégique, 7 février 2025}
 \textbf{Constatations.} Le décret de création de l'Agence fixe trois missions~: liquider les prestations, les
 payer, tenir le fichier des bénéficiaires. L'Agence contribue à un programme budgétaire de protection sociale.
-Son secteur n'a pas de stratégie numérique propre. Le plan stratégique 2026-2030 de l'Agence, adopté en
-décembre~2025, compte quatre objectifs.
+Son secteur n'a pas de stratégie numérique propre. Le plan stratégique 2024-2028 de l'Agence, adopté en
+décembre~2023, compte quatre objectifs.
 
 \textbf{Analyse} (confiance élevée). Le rattachement se fait à quatre niveaux~: missions, plan stratégique de
-l'Agence, programme budgétaire, SND30. Le plan Cameroun numérique 2026-2030 est noté comme attendu. L'absence de
+l'Agence, programme budgétaire, SND30. Le plan national appelé à succéder à Cameroun numérique 2020 est noté comme attendu. L'absence de
 stratégie sectorielle est écrite~: elle explique que l'Agence doive fixer seule ses principes d'interopérabilité.
 \end{boxscenario}
 
 """ + lecture("Le rattachement stratégique de l'ANPP", [
     ("Les missions sont tirées d'un texte cité", "O", "Décret de création"),
-    ("Un plan stratégique de l'organisation est en vigueur", "O", "Plan 2026-2030"),
+    ("Un plan stratégique de l'organisation est en vigueur", "O", "Plan 2024-2028"),
     ("Le programme budgétaire est identifié", "O", "Loi de finances"),
     ("La stratégie du secteur est citée", "K", "Aucune stratégie sectorielle"),
     ("Le lien avec la SND30 est écrit", "N", "Absent du plan de l'Agence"),
@@ -170,12 +170,13 @@ chapitre("partie3/P03_C06_strategie_cameroun.tex", 6, "La Stratégie Numérique 
   "Présenter la stratégie nationale d'intelligence artificielle et une stratégie sectorielle.", "Nommer les acteurs publics du numérique et leur rôle.",
   "Établir le rattachement stratégique d'un schéma directeur."],
  "« conformément au plan Cameroun numérique »", r"""
-Yaoundé, jeudi 4~février~2027. Le projet de note que le consultant junior soumet à Mme~EKANI commence ainsi~:
-« Conformément au plan Cameroun numérique 2026-2030, l'ANPP engage sa transformation. » Mme~EKANI demande où
-il a lu ce plan. Il en a entendu parler dans un séminaire.
+Yaoundé, jeudi 15~octobre~2026. La cellule de portefeuille de l'ANPP prépare la révision annuelle du schéma
+directeur. Le projet de préambule qu'un agent soumet à Mme~NGO BIYONG commence ainsi~: « Conformément au plan
+Cameroun numérique 2026-2030, l'ANPP poursuit sa transformation. » Elle demande où il a lu ce plan. Il en a
+entendu parler dans un séminaire.
 
 Elle lui fait chercher le texte d'approbation. Il n'y en a pas. Le plan est finalisé et déposé. Le Premier
-ministre ne l'a pas encore approuvé. La phrase du consultant est donc fausse~: on ne se conforme pas à un texte
+ministre ne l'a pas encore approuvé. La phrase est donc fausse~: on ne se conforme pas à un texte
 qui n'est pas en vigueur.
 
 \begin{boxalert}

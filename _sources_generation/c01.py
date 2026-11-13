@@ -86,13 +86,13 @@ conduire un projet structurant. Au-delà de cinq ans, les hypothèses techniques
 
 L'horizon ne dit rien de la fréquence de révision. Un document à cinq ans se révise chaque année. La trajectoire
 est précise pour la première année, indicative pour les suivantes. On parle de \termecle{plan glissant}. À
-l'ANPP, l'horizon retenu est 2027-2031, calé sur la fin de la Stratégie nationale de développement en 2030 et sur
-le cadre budgétaire à moyen terme de l'Agence.
+l'ANPP, l'horizon retenu est 2025-2029, calé sur le plan stratégique 2024-2028 de l'Agence et sur son cadre
+budgétaire à moyen terme.
 
 """ + sec("Trois Organisations, Trois Régimes", "sec:c01-cas") + r"""
-\begin{boxscenario}{Les trois missions d'AUDIX CONSEIL en 2027}
+\begin{boxscenario}{Les trois missions d'AUDIX CONSEIL en 2025}
 """ + tab("L{2.6cm}L{3.4cm}L{5.8cm}", ["Organisation", "Nature", "Demande"], [
-    ["ANPP", "Établissement public, Yaoundé, 412 agents", "Schéma directeur 2027-2031, après l'échec du précédent"],
+    ["ANPP", "Établissement public, Yaoundé, 412 agents", "Schéma directeur 2025-2029, après l'échec du précédent"],
     ["LiZbiZ", "Société anonyme de logistique, Douala", "Stratégie numérique à l'appui du plan de croissance HORIZON~3"],
     ["BANQUE SANAGA", "Établissement de crédit, Douala", "Schéma directeur exigé après la panne et l'Opération WOURI"]]) + r"""
 
@@ -110,7 +110,7 @@ chapitre("partie1/P01_C01_vocabulaire.tex", 1, "Stratégie, Système d'Informati
   "Situer le schéma directeur dans l'histoire des documents de planification.", "Énumérer les six pièces d'un schéma directeur.",
   "Dire ce qu'un schéma directeur n'est pas."],
  "« notre stratégie, c'est la fibre »", r"""
-Douala, jeudi 14~janvier~2027. M.~ETEME, directeur général de LiZbiZ, reçoit M.~BEYALA. Son entreprise de
+Douala, jeudi 16~janvier~2025. M.~ETEME, directeur général de LiZbiZ, reçoit M.~BEYALA. Son entreprise de
 logistique veut doubler son chiffre d'affaires en trois ans. C'est le plan HORIZON~3. « Notre stratégie
 numérique est prête. Nous installons la fibre dans les quatre sites et nous changeons tous les postes. »
 
@@ -136,7 +136,7 @@ ne change pour lui, il s'agit d'une stratégie informatique. Elle est nécessair
  ["distinguer stratégie numérique et stratégie informatique sur un exemple", "citer les six pièces d'un schéma directeur", "expliquer ce qu'est un plan glissant"],
  [("Classer dix phrases", 1, "Classez dans l'un des quatre niveaux du Tableau~1.1~: (a) migrer la messagerie~; (b) ouvrir un guichet en ligne~; (c) servir les zones rurales~; (d) créer un référentiel des agents~; (e) recruter deux administrateurs de bases de données~; (f) réduire de moitié le délai de paiement~; (g) permettre le suivi d'un dossier par SMS~; (h) remplacer les onduleurs~; (i) partager les données avec l'état civil~; (j) devenir le premier logisticien du pays."),
   ("La stratégie de LiZbiZ", 2, "Réécrivez en dix lignes la stratégie numérique de LiZbiZ du point de vue de ses clients. Dites ensuite ce que devient le projet de fibre dans ce nouveau texte."),
-  ("Six pièces", 2, "Reprenez le Tableau~P.1 du prologue. Pour chacune des six pièces d'un schéma directeur, dites si le document de 2021 la contenait, en partie ou pas du tout."),
+  ("Six pièces", 2, "Reprenez le Tableau~P.1 du prologue. Pour chacune des six pièces d'un schéma directeur, dites si le document de 2019 la contenait, en partie ou pas du tout."),
   ("Horizon", 3, "La BANQUE SANAGA veut un schéma directeur à dix ans « pour ne plus y revenir ». Rédigez la réponse de M.~BEYALA en séparant ce qui peut être fixé à dix ans de ce qui ne le peut pas.")],
  ["Peppard et Ward~\\cite{wardpeppard2016}, chapitres 1 à 3.", "Bharadwaj et al.~\\cite{bharadwaj2013}, sur la fusion des stratégies."],
  "Les mots sont posés. Reste à savoir comment une organisation choisit sa stratégie. Le Chapitre~\\ref{chap:strategie} présente les théories que le consultant doit connaître dans leur texte d'origine.")

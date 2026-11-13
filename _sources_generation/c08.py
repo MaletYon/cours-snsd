@@ -5,12 +5,12 @@ Cadrer, c'est répondre par écrit à six questions avant de commencer. Tant qu'
 ne démarre pas.
 
 """ + tab("L{3.0cm}L{4.4cm}L{4.6cm}", ["Question", "Ce qu'il faut écrire", "Réponse de l'ANPP"], [
-    ["Pourquoi", "Le fait qui déclenche la démarche", "Document de 2021 échu, panne de mars 2026"],
+    ["Pourquoi", "Le fait qui déclenche la démarche", "Document de 2019 échu, panne de mars 2024"],
     ["Pour qui", "Le commanditaire et l'organe qui approuve", "Directeur général, conseil d'administration"],
     ["Sur quoi", "Le périmètre~: entités, métiers, systèmes", "Siège et dix antennes, 47 applications"],
-    ["Jusqu'où", "L'horizon et le niveau d'ambition", "2027-2031, enveloppe à fixer"],
+    ["Jusqu'où", "L'horizon et le niveau d'ambition", "2025-2029, enveloppe à fixer"],
     ["Avec qui", "Les instances et leurs membres", "Trois instances, Tableau~8.2"],
-    ["Pour quand", "Le calendrier et les livrables", "12 janvier au 24 juin 2027"]],
+    ["Pour quand", "Le calendrier et les livrables", "14 janvier au 26 juin 2025"]],
     "Les six questions du cadrage", "8.1") + r"""
 
 Le produit du cadrage est une \termecle{note de cadrage}. Elle tient en dix pages, elle est signée par le
@@ -23,11 +23,11 @@ paiement, le recouvrement, les fonctions de soutien. La troisième nomme les obj
 infrastructures, les données, l'organisation informatique, les contrats.
 
 Ce qui n'est pas dans le périmètre s'écrit aussi. L'ANPP a exclu la téléphonie des antennes, gérée par un
-contrat distinct qui court jusqu'en 2029. L'exclusion est datée et motivée.
+contrat distinct qui court jusqu'en 2027. L'exclusion est datée et motivée.
 
 L'horizon dépend du rythme de l'organisation. Trois ans conviennent à une entreprise dont le marché bouge.
 Cinq ans conviennent à une administration dont le plan stratégique court sur cinq ans. Au-delà, le document ne
-prévoit plus, il rêve. L'ANPP retient 2027-2031 pour couvrir son plan stratégique 2026-2030 et l'exercice qui
+prévoit plus, il rêve. L'ANPP retient 2025-2029 pour couvrir son plan stratégique 2024-2028 et l'exercice qui
 suit.
 
 \begin{boxinfo}
@@ -93,20 +93,20 @@ matrice de l'ANPP le fait passer de consulté à réalisateur associé. Le cabin
 l'Agence mieux que lui.
 
 """ + sec("Le Calendrier et les Livrables", "sec:c08-calendrier") + r"""
-""" + tab("L{0.6cm}L{3.2cm}L{3.6cm}L{4.4cm}", ["N°", "Phase", "Dates en 2027", "Livrable"], [
-    ["1", "Cadrage", "12 au 29 janvier", "Note de cadrage"],
-    ["2", "Diagnostic", "1\\textsuperscript{er} février au 19 mars", "Rapport de diagnostic"],
-    ["3", "Cible", "22 mars au 23 avril", "Dossier de cible, scénarios"],
-    ["4", "Portefeuille et trajectoire", "26 avril au 21 mai", "Portefeuille, feuille de route"],
-    ["5", "Chiffrage et financement", "24 mai au 11 juin", "Plan de financement"],
-    ["6", "Validation", "14 au 24 juin", "Schéma directeur 2027-2031"]],
+""" + tab("L{0.6cm}L{3.2cm}L{3.6cm}L{4.4cm}", ["N°", "Phase", "Dates en 2025", "Livrable"], [
+    ["1", "Cadrage", "12 au 31 janvier", "Note de cadrage"],
+    ["2", "Diagnostic", "1\\textsuperscript{er} février au 21 mars", "Rapport de diagnostic"],
+    ["3", "Cible", "24 mars au 25 avril", "Dossier de cible, scénarios"],
+    ["4", "Portefeuille et trajectoire", "28 avril au 23 mai", "Portefeuille, feuille de route"],
+    ["5", "Chiffrage et financement", "26 mai au 13 juin", "Plan de financement"],
+    ["6", "Validation", "14 au 26 juin", "Schéma directeur 2025-2029"]],
     "Les six phases de la mission ANPP", "8.5") + r"""
 
 Chaque phase se clôt par un comité de pilotage qui approuve le livrable. Une phase non approuvée n'est pas
 terminée. La règle a un coût~: le calendrier dépend de l'agenda du directeur général. Elle a un bénéfice~: le
 document final ne contient que des décisions déjà prises.
 
-Le schéma directeur de 2021 comptait 214 pages. La note de cadrage de 2027 fixe un plafond de 60 pages hors
+Le schéma directeur de 2019 comptait 214 pages. La note de cadrage de 2025 fixe un plafond de 60 pages hors
 annexes, plus une synthèse de quatre pages pour le conseil.
 
 \begin{boxprocedure}
@@ -126,19 +126,19 @@ annexes, plus une synthèse de quatre pages pour le conseil.
 """ + sec("Communiquer", "sec:c08-communiquer") + r"""
 Un schéma directeur que personne ne connaît ne s'exécute pas. Le plan de communication tient en un tableau~: à
 qui, quoi, quand, par quel moyen. À l'ANPP, une note du directeur général annonce la mission à tous les agents
-le 15~janvier. Une page d'information paraît à la fin de chaque phase. Les chefs d'antenne reçoivent le
+le 17~janvier. Une page d'information paraît à la fin de chaque phase. Les chefs d'antenne reçoivent le
 diagnostic avant le comité de pilotage, non après.
 
-""" + lecture("La note de cadrage de la mission ANPP, 29 janvier 2027", [
+""" + lecture("La note de cadrage de la mission ANPP, 31 janvier 2025", [
     ("Le fait déclencheur est écrit", "O", "Section 1 de la note"),
     ("Le commanditaire et l'organe d'approbation sont nommés", "O", "Section 2"),
     ("Le périmètre et les exclusions sont listés", "O", "Section 3, téléphonie exclue"),
-    ("L'horizon et l'ambition sont fixés", "O", "2027-2031, aligner"),
+    ("L'horizon et l'ambition sont fixés", "O", "2025-2029, aligner"),
     ("Le comité de pilotage est présidé par un arbitre des budgets", "O", "Directeur général"),
     ("Les bénéficiaires sont représentés ou consultés", "O", "Deux réunions prévues"),
     ("Chaque livrable a un approbateur unique", "O", "Tableau 8.4"),
     ("L'enveloppe financière est fixée", "N", "Renvoyée à la phase 5"),
-    ("La note est signée par le commanditaire", "O", "Signature du 29 janvier"),
+    ("La note est signée par le commanditaire", "O", "Signature du 31 janvier"),
     ("La tutelle a été informée du lancement", "K", "Courrier annoncé, copie non remise")],
     r"""Huit \OUI{} sur dix. Le \NON{} est un choix assumé~: le directeur général ne veut pas fixer d'enveloppe
 avant le diagnostic. Le risque est connu. Une cible dessinée sans plafond coûte toujours plus que ce que
@@ -151,11 +151,11 @@ chapitre("partie4/P04_C08_cadrer.tex", 8, "Cadrer et Gouverner la Démarche", "c
   "Composer les instances d'une démarche de schéma directeur.", "Placer les parties prenantes sur une grille pouvoir-intérêt.",
   "Dresser une matrice des responsabilités.", "Rédiger une note de cadrage."],
  "« qui préside ? »", r"""
-Yaoundé, jeudi 14~janvier~2027. Réunion de lancement dans la salle du conseil de l'ANPP. M.~BEYALA projette la
+Yaoundé, jeudi 16~janvier~2025. Réunion de lancement dans la salle du conseil de l'ANPP. M.~BEYALA projette la
 composition du comité de pilotage. La première ligne porte le nom de Mme~NGO BIYONG comme présidente. C'est ce
 que prévoyait le cahier des charges.
 
-Mme~NGO BIYONG lève la main la première. « Si je préside, ce sera encore le plan de l'informatique. En 2021
+Mme~NGO BIYONG lève la main la première. « Si je préside, ce sera encore le plan de l'informatique. En 2019
 c'était le cas. Vous savez ce qu'il est devenu. » M.~OWONA, le directeur général, hésite. Son agenda est plein.
 M.~BEYALA lui pose une seule question~: « Qui, dans cette salle, peut retirer un milliard à une direction pour le
 donner à une autre~? » Le directeur général préside.

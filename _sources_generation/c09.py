@@ -94,9 +94,9 @@ points qui commandent la continuité~: l'alimentation électrique, la climatisat
 l'existence d'un site de secours.
 
 À l'ANPP, la salle du siège abrite tous les serveurs. Les antennes y accèdent par un lien unique. La panne de
-mars~2026 a duré quatre jours parce qu'un onduleur a cédé et que la dernière sauvegarde restaurable datait de
+mars~2024 a duré quatre jours parce qu'un onduleur a cédé et que la dernière sauvegarde restaurable datait de
 onze jours. Le diagnostic ne refait pas l'audit de sécurité. Il en reprend les constats et note s'il existe.
-À l'ANPP, l'audit obligatoire n'a pas été réalisé depuis 2022.
+À l'ANPP, l'audit obligatoire n'a pas été réalisé depuis 2020.
 
 """ + sec("L'Organisation et les Compétences", "sec:c09-organisation") + r"""
 La division informatique de l'ANPP compte 19~agents pour 412~agents de l'Agence. Le référentiel européen des
@@ -120,14 +120,14 @@ La dépense se partage en deux. Le \termecle{fonctionnement} maintient l'existan
 licences, liaisons, énergie. Le \termecle{projet} crée du nouveau. Le rapport entre les deux dit la marge de
 manœuvre.
 
-""" + tab("L{4.2cm}rr", ["Nature", "Montant 2021-2025 (millions de FCFA)", "Part"], [
+""" + tab("L{4.2cm}rr", ["Nature", "Montant 2019-2023 (millions de FCFA)", "Part"], [
     ["Fonctionnement", "2 418", "78~\\%"],
     ["Projets", "682", "22~\\%"],
     ["Total", "3 100", "100~\\%"]],
     "La dépense informatique de l'ANPP sur cinq ans", "9.5") + r"""
 
 Avec 78~\% de fonctionnement, l'ANPP consacre aux projets 136~millions par an en moyenne. Le schéma directeur de
-2021 annonçait 6,3~milliards. L'écart était lisible dès le premier jour pour qui avait fait ce tableau.
+2019 annonçait 6,3~milliards. L'écart était lisible dès le premier jour pour qui avait fait ce tableau.
 
 """ + sec("Restituer", "sec:c09-restituer") + r"""
 Le rapport de diagnostic tient en trente pages. Il s'ouvre par dix constats au plus, rangés par ordre de
@@ -135,7 +135,7 @@ gravité. Chaque constat suit la même forme~: le fait, la pièce, la conséquen
 quatre cases, forces, faiblesses, occasions, menaces, peut le clore. Elle résume, elle ne remplace pas les
 constats.
 
-\begin{boxscenario}{Mission ANPP. Les cinq premiers constats, 19 mars 2027}
+\begin{boxscenario}{Mission ANPP. Les cinq premiers constats, 21 mars 2025}
 \begin{enumerate}
     \item La liquidation des droits repose sur une application de 2004 que deux agents savent maintenir.
     \item Aucun site de secours. La dernière panne a suspendu les paiements quatre jours.
@@ -148,7 +148,7 @@ constats.
 Le comité de pilotage valide le diagnostic. Les directeurs y lisent parfois des faits qui les gênent. Le
 consultant ne retire pas un constat prouvé. Il peut en revoir la formulation.
 
-""" + lecture("Le diagnostic de la mission ANPP, 19 mars 2027", [
+""" + lecture("Le diagnostic de la mission ANPP, 21 mars 2025", [
     ("L'inventaire couvre toutes les applications trouvées", "O", "47 fiches"),
     ("Chaque application a un responsable côté métier", "N", "19 fiches sans responsable"),
     ("Chaque note renvoie à une pièce", "O", "Registre des pièces du diagnostic"),
@@ -156,7 +156,7 @@ consultant ne retire pas un constat prouvé. Il peut en revoir la formulation.
     ("La dépense des autres directions est incluse", "K", "Trois directions n'ont pas répondu"),
     ("Les compétences critiques sont repérées", "O", "Tableau 9.4"),
     ("Les comptes rendus d'entretien sont validés", "O", "38 validations"),
-    ("Le rapport est approuvé par le comité de pilotage", "O", "Procès-verbal du 19 mars")],
+    ("Le rapport est approuvé par le comité de pilotage", "O", "Procès-verbal du 21 mars")],
     r"""Six \OUI{} sur huit. Le \NON{} n'est pas une faute du cabinet. Il est un constat~: dix-neuf applications
 n'ont pas de propriétaire. Le \NEK{} est de preuve. Tant que trois directions n'ont pas transmis leurs achats,
 le total de 3,1~milliards est un plancher.""") + r"""
@@ -168,9 +168,9 @@ chapitre("partie4/P04_C09_diagnostiquer.tex", 9, "Diagnostiquer l'Existant", "ch
   "Noter une application sur sa valeur et sa santé.", "Reconstituer la dépense informatique et la partager entre fonctionnement et projets.",
   "Rédiger un constat en trois temps."],
  "« nous avons trente et une applications »", r"""
-Yaoundé, lundi 8~février~2027. Mme~NGO BIYONG remet au cabinet la liste des applications de l'Agence. Elle en
+Yaoundé, lundi 10~février~2025. Mme~NGO BIYONG remet au cabinet la liste des applications de l'Agence. Elle en
 compte 31. Le même jour, Mme~EKANI revient de la direction des prestations avec une clé contenant un classeur
-de calcul. Un chef de service l'a construit en 2019 pour corriger les pensions de réversion que l'application
+de calcul. Un chef de service l'a construit en 2017 pour corriger les pensions de réversion que l'application
 officielle calcule mal. Il traite 4~200 dossiers par an. Personne à la division informatique ne le connaît.
 
 En trois semaines, le cabinet trouve seize outils de cette sorte. Le consultant junior propose de les appeler
@@ -196,7 +196,7 @@ travaille, puis on rapproche de la liste officielle.
  ["conduire un entretien et en rédiger le compte rendu", "remplir une fiche d'application", "calculer les deux notes d'une application et en tirer la décision", "reconstituer la part des projets dans la dépense"],
  [("Deux notes", 1, "Une application de l'ANPP obtient 4, 5, 2, 4 sur les critères de valeur et 1, 2, 3, 2 sur les critères de santé. Calculez les deux notes et donnez la décision."),
   ("La dépense", 2, "Sur un exercice, une organisation dépense 310~millions de salaires informatiques, 240 de maintenance et de licences, 90 de liaisons et 160 de projets. Calculez la part des projets. Elle veut la porter à 35~\\% sans augmenter le total. De combien doit baisser le fonctionnement~?"),
-  ("Trois constats", 2, "Rédigez en trois temps les constats correspondant aux faits suivants~: l'audit de sécurité n'a pas été fait depuis 2022, la division n'a aucun agent chargé des données, dix-neuf applications n'ont pas de responsable côté métier."),
+  ("Trois constats", 2, "Rédigez en trois temps les constats correspondant aux faits suivants~: l'audit de sécurité n'a pas été fait depuis 2020, la division n'a aucun agent chargé des données, dix-neuf applications n'ont pas de responsable côté métier."),
   ("Les seize", 3, "Proposez une conduite pour les seize applications hors contrôle de l'ANPP. Distinguez celles qui calculent des droits des autres. Dites ce que le schéma directeur doit prévoir pour que le phénomène ne se reproduise pas, sans l'interdire par principe.")],
  ["Peppard et Ward sur l'évaluation du portefeuille existant~\\cite{wardpeppard2016}.", "COBIT~2019 pour les niveaux de capacité~\\cite{cobit2019}.", "La norme EN~16234-1~\\cite{ecf}."],
  "L'existant est connu. Reste à dire où aller. C'est l'objet du Chapitre~\\ref{chap:cible}.")

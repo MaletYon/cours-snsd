@@ -12,8 +12,8 @@ l'investissement et tout ce que l'organisation paiera ensuite pour faire vivre l
     ["Sortie", "Reprise des données et retrait en fin de vie"]],
     "Les cinq postes du coût complet", "12.1") + r"""
 
-Le référentiel des bénéficiaires de l'ANPP demande 340~millions d'investissement, payés 60 en 2027 et 280 en
-2028. Il coûte ensuite 48~millions par an à partir de 2029. Sur la période du schéma directeur, son coût
+Le référentiel des bénéficiaires de l'ANPP demande 340~millions d'investissement, payés 60 en 2025 et 280 en
+2026. Il coûte ensuite 48~millions par an à partir de 2027. Sur la période du schéma directeur, son coût
 complet est de $340 + 3 \times 48 = 484$~millions. La fiche de projet n'affichait que 340.
 
 \begin{boxalert}
@@ -61,13 +61,13 @@ l'observera et comment.
 Le Chapitre~\ref{chap:droit} a distingué autorisations d'engagement et crédits de paiement. Chaque projet se
 présente donc sur deux lignes.
 
-""" + tab("L{4.6cm}rrrr", ["Lot 2. Liquidation (millions)", "2028", "2029", "2030", "Total"], [
+""" + tab("L{4.6cm}rrrr", ["Lot 2. Liquidation (millions)", "2026", "2027", "2028", "Total"], [
     ["Autorisations d'engagement", "780", "", "", "780"],
     ["Crédits de paiement", "150", "420", "210", "780"]],
     "Engagements et paiements d'un lot", "12.2") + r"""
 
-L'engagement est pris en 2028 pour la totalité, sans quoi le marché ne peut pas être signé. Les paiements
-suivent les livraisons. Si les crédits de 2029 sont réduits, le fournisseur n'est pas payé à l'échéance, le
+L'engagement est pris en 2026 pour la totalité, sans quoi le marché ne peut pas être signé. Les paiements
+suivent les livraisons. Si les crédits de 2027 sont réduits, le fournisseur n'est pas payé à l'échéance, le
 projet ralentit et des intérêts moratoires courent.
 
 """ + sec("Financer", "sec:c12-financer") + r"""
@@ -83,12 +83,12 @@ financier, l'économie dégagée par le schéma directeur lui-même.
     "Le plan de financement de l'ANPP", "12.3") + r"""
 
 Une ressource n'est acquise que lorsqu'un acte l'établit. Le plan distingue donc trois états~: acquise,
-demandée, espérée. Au 11~juin~2027, seules les ressources propres de 2027 sont acquises. Le schéma directeur
+demandée, espérée. Au 13~juin~2025, seules les ressources propres de 2025 sont acquises. Le schéma directeur
 l'écrit et prévoit ce qui serait retiré si la subvention ou la convention manquait. C'est le
 \termecle{scénario de repli}. Celui de l'ANPP ramène le portefeuille à 2~300~millions en conservant les cinq
 projets obligatoires, le référentiel et le premier lot de la refonte.
 
-Le fonctionnement change aussi. En 2031, les nouveaux systèmes ajoutent 310~millions de charges annuelles. Le
+Le fonctionnement change aussi. En 2029, les nouveaux systèmes ajoutent 310~millions de charges annuelles. Le
 retrait de neuf applications en retire 85. Le fonctionnement annuel augmente donc de 225~millions. Le conseil
 d'administration doit le savoir le jour où il approuve.
 
@@ -120,9 +120,9 @@ Un portefeuille de 4,2~milliards ne se conduit pas avec une division conçue pou
 an. Le plan de dotation répond à trois questions~: quelles compétences, combien, par quelle voie.
 
 """ + tab("L{4.6cm}cL{5.4cm}", ["Compétence", "Postes", "Voie"], [
-    ["Responsable de la sécurité", "1", "Recrutement en 2027"],
+    ["Responsable de la sécurité", "1", "Recrutement en 2025"],
     ["Chefs de projet", "2", "Un recrutement, une mobilité interne"],
-    ["Architecte", "1", "Recrutement en 2028"],
+    ["Architecte", "1", "Recrutement en 2026"],
     ["Données", "3", "Deux recrutements, une reconversion"],
     ["Acheteur informatique", "1", "Mobilité depuis les marchés"]],
     "Le plan de dotation de l'ANPP~: huit postes", "12.5") + r"""
@@ -146,13 +146,13 @@ remplacement à la maintenance est organisé avant.
 \end{enumerate}
 \end{boxprocedure}
 
-""" + lecture("Le plan de financement de l'ANPP, 11 juin 2027", [
+""" + lecture("Le plan de financement de l'ANPP, 13 juin 2025", [
     ("Chaque projet affiche investissement et coût annuel", "O", "22 fiches complétées"),
     ("Une provision pour aléas est chiffrée", "O", "8~\\% des projets non obligatoires"),
     ("Chaque projet est présenté en engagements et en paiements", "O", "Tableaux du plan"),
     ("Chaque ressource est qualifiée", "O", "Tableau 12.3 et colonne d'état"),
     ("Un scénario de repli est écrit", "O", "Portefeuille à 2 300 millions"),
-    ("Le fonctionnement de 2031 est calculé", "O", "Hausse de 225 millions par an"),
+    ("Le fonctionnement de 2029 est calculé", "O", "Hausse de 225 millions par an"),
     ("Le total avec provision tient dans l'enveloppe", "N", "4 422 pour 4 200"),
     ("Le plan d'achat est rapproché de la programmation", "O", "Quatorze marchés"),
     ("Les huit postes sont autorisés", "K", "Demande adressée à la tutelle, réponse attendue")],
@@ -167,13 +167,13 @@ chapitre("partie4/P04_C12_financer.tex", 12, "Chiffrer, Financer, Acheter, Doter
  ["Calculer le coût complet d'un projet.", "Donner une estimation avec sa fourchette et sa provision.", "Calculer une valeur actuelle nette et en dire les limites.",
   "Présenter un projet en engagements et en paiements.", "Établir un plan de financement avec un scénario de repli.", "Choisir entre faire, acheter et louer.", "Établir un plan de dotation."],
  "« qui paiera ensuite ? »", r"""
-Yaoundé, mardi 25~mai~2027. M.~ABDOULAYE relit les 22~fiches. Il additionne les investissements~: 4~180~millions.
+Yaoundé, mardi 27~mai~2025. M.~ABDOULAYE relit les 22~fiches. Il additionne les investissements~: 4~180~millions.
 Il cherche ensuite la colonne des coûts annuels. Neuf fiches n'en ont pas. Il appelle Mme~EKANI. « Vous me
 demandez d'approuver l'achat de vingt-deux voitures sans me dire ce qu'elles consomment. »
 
-Le cabinet reprend les neuf fiches en une semaine. Le résultat surprend le comité~: en 2031, l'Agence paiera
+Le cabinet reprend les neuf fiches en une semaine. Le résultat surprend le comité~: en 2029, l'Agence paiera
 chaque année 225~millions de plus qu'aujourd'hui pour faire tourner ce qu'elle aura construit. Personne ne
-l'avait vu. Le schéma directeur de 2021 ne le disait pas non plus.
+l'avait vu. Le schéma directeur de 2019 ne le disait pas non plus.
 
 \begin{boxalert}
 \textbf{Violation typique.} Présenter au conseil un total d'investissement sans la charge récurrente qu'il
@@ -193,10 +193,10 @@ et le fonctionnement annuel à son terme.
   "Une ressource est acquise, demandée ou espérée.", "Le scénario de repli dit ce qui reste si une ressource manque.",
   "Le conseil approuve l'enveloppe et le fonctionnement annuel à terme.", "Le plan de dotation précède les projets."],
  ["calculer le coût complet d'un projet sur cinq ans", "calculer une valeur actuelle nette", "dresser le tableau des engagements et des paiements", "écrire un scénario de repli"],
- [("Coût complet", 1, "Un projet demande 200~millions d'investissement en 2027 et 30~millions par an à partir de 2028. Calculez son coût complet sur 2027-2031."),
+ [("Coût complet", 1, "Un projet demande 200~millions d'investissement en 2025 et 30~millions par an à partir de 2026. Calculez son coût complet sur 2025-2029."),
   ("Valeur actuelle nette", 2, "Un projet coûte 120~millions et procure un gain net de 40~millions par an pendant quatre ans. Calculez sa valeur actuelle nette au taux de 8~\\%, puis au taux de 15~\\%. Commentez."),
   ("La provision", 2, "Vérifiez les chiffres de la lecture du plan de financement~: montant des projets non obligatoires, provision, total. De combien faut-il réduire le portefeuille pour tenir dans 4~200~millions, provision comprise~?"),
-  ("Le repli", 3, "La convention avec le partenaire technique et financier n'est pas signée à la fin de 2027. Rédigez la note au comité de pilotage~: projets touchés, conséquences sur la trajectoire, options, recommandation."),
+  ("Le repli", 3, "La convention avec le partenaire technique et financier n'est pas signée à la fin de 2025. Rédigez la note au comité de pilotage~: projets touchés, conséquences sur la trajectoire, options, recommandation."),
   ("Louer ou acheter", 3, "La BANQUE SANAGA hésite entre acheter ses serveurs de secours et louer un service d'hébergement hors de la CEMAC. Comparez les deux voies sur cinq critères, dont le regard du superviseur et la réversibilité.")],
  ["Ward et Daniel sur la gestion des bénéfices~\\cite{warddaniel2006}.", "La loi n°~2018/012~\\cite{loi2018012}.", "Williamson sur les coûts de transaction~\\cite{williamson1975}."],
- "Le schéma directeur est complet. Le conseil d'administration l'approuve le 24~juin~2027. Le plus difficile commence~: l'exécuter. C'est l'objet du Chapitre~\\ref{chap:piloter}.")
+ "Le schéma directeur est complet. Le conseil d'administration l'approuve le 26~juin~2025. Le plus difficile commence~: l'exécuter. C'est l'objet du Chapitre~\\ref{chap:piloter}.")

@@ -123,9 +123,9 @@ importé, c'est aussi une affaire de coût~: allonger la durée de vie des poste
 relèvent de la bonne gestion avant de relever de l'écologie.
 
 """ + sec("Ce que le Consultant en Retient", "sec:c05-usage") + r"""
-\begin{boxscenario}{Mission ANPP. La note de contexte international, 2 février 2027}
+\begin{boxscenario}{Mission ANPP. La note de contexte international, 4 février 2025}
 \textbf{Constatations.} Le bailleur qui cofinance les projets de l'Agence cite le Pacte numérique mondial et
-l'infrastructure publique numérique dans sa convention. Le schéma directeur de 2021 ne mentionnait aucun texte
+l'infrastructure publique numérique dans sa convention. Le schéma directeur de 2019 ne mentionnait aucun texte
 international. L'Agence a développé son propre identifiant des bénéficiaires.
 
 \textbf{Analyse} (confiance moyenne). Le nouveau document doit montrer au bailleur que les projets de l'Agence
@@ -140,7 +140,7 @@ chapitre("partie2/P02_C05_doctrines_strategies.tex", 5, "Doctrines et Stratégie
   "Présenter les six textes de l'Union africaine utiles à une stratégie numérique.", "Décrire la méthode RACINES, l'urbanisation et le pilotage par la valeur.",
   "Définir infrastructure publique numérique, souveraineté et sobriété."],
  "« le bailleur parle une autre langue »", r"""
-Yaoundé, lundi 1\textsuperscript{er}~février~2027. M.~OWONA transmet à l'équipe la convention de financement
+Yaoundé, lundi 3~février~2025. M.~OWONA transmet à l'équipe la convention de financement
 signée avec un bailleur. Trois expressions y reviennent~: « infrastructure publique numérique », « Pacte numérique
 mondial », « interopérabilité ». Le directeur financier de l'Agence, M.~ABDOULAYE, avoue ne pas savoir ce que le
 bailleur attend au juste. « Nous avons toujours présenté nos projets un par un. »

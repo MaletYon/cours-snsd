@@ -5,7 +5,7 @@ La cible décrit le système d'information voulu à la fin de la période. Elle 
 La chaîne compte quatre maillons~: les objectifs de l'organisation, les capacités qu'ils demandent, les
 principes qui guideront les choix, l'architecture qui en résulte.
 
-""" + tab("L{4.6cm}L{7.4cm}", ["Objectif du plan stratégique 2026-2030", "Capacité demandée au système d'information"], [
+""" + tab("L{4.6cm}L{7.4cm}", ["Objectif du plan stratégique 2024-2028", "Capacité demandée au système d'information"], [
     ["Payer chaque prestation à date fixe", "Liquider et payer sans interruption, y compris en cas de sinistre"],
     ["Ne payer que les ayants droit", "Tenir un fichier unique des bénéficiaires, rapproché de l'état civil"],
     ["Rapprocher l'Agence des bénéficiaires", "Recevoir et suivre une demande depuis une antenne ou un téléphone"],
@@ -49,7 +49,7 @@ Le plan fonctionnel est le plus utile au schéma directeur. Il découpe le syst�
 quartiers et en blocs, à la manière d'un plan de ville. Chaque fonction appartient à un seul bloc. Chaque
 donnée a un seul bloc maître.
 
-\begin{boxscenario}{Mission ANPP. Le plan fonctionnel cible, 9 avril 2027}
+\begin{boxscenario}{Mission ANPP. Le plan fonctionnel cible, 11 avril 2025}
 Le plan cible de l'ANPP compte cinq zones.
 \begin{enumerate}
     \item \textbf{Référentiels.} Bénéficiaires, employeurs, barèmes. Zone maîtresse des données communes.
@@ -83,7 +83,7 @@ qu'il fait, ce qu'il coûte en ordre de grandeur, ce qu'il demande à l'organisa
 """ + tab("L{2.8cm}L{3.0cm}L{3.0cm}L{3.2cm}", ["", "A. Consolider", "B. Refondre par étapes", "C. Remplacer d'un bloc"], [
     ["Principe", "Sécuriser l'existant, différer la refonte", "Secours puis refonte de la production en trois lots", "Progiciel intégré unique"],
     ["Ordre de grandeur", "1,9 milliard", "4,2 milliards", "7,5 milliards"],
-    ["Capacités atteintes en 2031", "1 sur 4", "4 sur 4", "4 sur 4"],
+    ["Capacités atteintes en 2029", "1 sur 4", "4 sur 4", "4 sur 4"],
     ["Effort interne", "Faible", "Soutenu", "Très fort"],
     ["Risque principal", "L'application de 2004 cède", "Coexistence de l'ancien et du nouveau", "Échec d'un projet unique"]],
     "Les trois scénarios présentés au comité de pilotage", "10.5") + r"""
@@ -100,7 +100,7 @@ retenu quatre critères.
     "La notation des scénarios (notes de 1 à 5)", "10.6") + r"""
 
 Le calcul pour le scénario~B~: $0{,}40 \times 4 + 0{,}25 \times 3 + 0{,}20 \times 3 + 0{,}15 \times 4 = 3{,}55$.
-L'écart entre A et B est mince. Le comité a retenu B le 23~avril après avoir constaté que A laissait trois
+L'écart entre A et B est mince. Le comité a retenu B le 25~avril après avoir constaté que A laissait trois
 objectifs du plan stratégique sans réponse. La grille éclaire. Elle ne décide pas à la place du comité.
 
 \begin{boxalert}
@@ -120,13 +120,13 @@ La cible porte aussi sur l'organisation. Celle de l'ANPP prévoit trois changeme
 sécurité rattaché au directeur général, une cellule des données de trois agents, un propriétaire désigné pour
 chaque application.
 
-""" + lecture("Le dossier de cible de l'ANPP, 23 avril 2027", [
+""" + lecture("Le dossier de cible de l'ANPP, 25 avril 2025", [
     ("Chaque capacité se rattache à un objectif du plan stratégique", "O", "Tableau 10.1"),
-    ("Les principes sont approuvés avec leurs conséquences", "O", "Procès-verbal du 9 avril"),
+    ("Les principes sont approuvés avec leurs conséquences", "O", "Procès-verbal du 11 avril"),
     ("Le plan fonctionnel situe toutes les applications", "O", "47 applications placées"),
     ("Chaque donnée commune a un bloc maître", "O", "Zone des référentiels"),
     ("Deux scénarios au moins étaient éligibles", "O", "A et B, écart de 0,20"),
-    ("Les critères et les poids ont été fixés avant la notation", "O", "Procès-verbal du 9 avril"),
+    ("Les critères et les poids ont été fixés avant la notation", "O", "Procès-verbal du 11 avril"),
     ("L'ordre de grandeur de chaque scénario est justifié", "N", "Scénario C estimé par analogie seule"),
     ("La cible d'organisation est décrite", "O", "Section 5 du dossier"),
     ("Aucun produit n'est nommé", "O", "Relecture du dossier")],
@@ -141,7 +141,7 @@ chapitre("partie4/P04_C10_cible.tex", 10, "Fixer la Cible", "chap:cible", "Fixer
   "Décrire une architecture sur quatre plans.", "Rapprocher un plan fonctionnel d'un inventaire.",
   "Conduire une analyse des écarts.", "Comparer des scénarios sur une grille pondérée."],
  "« il nous faut un progiciel intégré »", r"""
-Yaoundé, lundi 22~mars~2027. Premier jour de la phase de cible. M.~ABDOULAYE arrive avec une plaquette. Un
+Yaoundé, lundi 24~mars~2025. Premier jour de la phase de cible. M.~ABDOULAYE arrive avec une plaquette. Un
 éditeur lui a présenté un progiciel qui couvre « toute la gestion d'un organisme de protection sociale ». Il
 propose d'en faire la cible. « Le diagnostic a montré que tout est à refaire. Refaisons tout d'un coup. »
 

@@ -3,7 +3,7 @@ SNSD-LAB-01, cinq forces et chaîne de valeur chez LiZbiZ
 Les pièces du lab se trouvent dans le dossier preuves, en lecture seule, et
 une copie de travail modifiable dans le dossier travail (ouvert au démarrage).
   note_de_mission.txt       méthode du cabinet
-  clients_2026.csv          400 clients et leur chiffre d'affaires
+  clients_2024.csv          400 clients et leur chiffre d'affaires
   livraisons_urbaines.csv   livraisons urbaines sur 18 mois
   chaine_de_valeur.csv      coût des neuf activités
   ressources.csv            dix ressources passées à la grille VRIO

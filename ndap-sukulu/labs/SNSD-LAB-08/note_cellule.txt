@@ -1,4 +1,4 @@
-ANPP, cellule de portefeuille, note de méthode pour la revue du 30 juin 2028
+ANPP, cellule de portefeuille, note de méthode pour la revue du 30 juin 2026
 
 Valeur planifiée (VP) : budget des travaux prévus à la date.
 Valeur acquise (VA) : budget des travaux réellement achevés.

@@ -1,19 +1,19 @@
 numero;domaine;exigence;source;cote;piece;alignement
-1;cadrage;La note de cadrage est signée par le commanditaire;regle de l art;oui;Signature du 29 janvier;non
+1;cadrage;La note de cadrage est signée par le commanditaire;regle de l art;oui;Signature du 31 janvier;non
 2;cadrage;Le périmètre du diagnostic est celui de la note de cadrage;coherence;oui;Rapprochement des deux documents;non
 3;cadrage;L'organe d'approbation est le conseil d'administration;texte;oui;Section 2 de la note;non
 4;cadrage;Le comité de pilotage est présidé par la direction générale;norme;oui;Composition du comité;oui
-5;cadrage;L'horizon couvre le plan stratégique de l'Agence;engagement;oui;2027-2031 pour un plan 2026-2030;non
+5;cadrage;L'horizon couvre le plan stratégique de l'Agence;engagement;oui;2025-2029 pour un plan 2024-2028;non
 6;cadrage;La tutelle a été informée du lancement;regle de l art;nek;Copie du courrier non remise. Preuve;non
 7;diagnostic;L'inventaire est construit depuis les métiers;regle de l art;oui;47 fiches, dont 16 hors liste officielle;non
 8;diagnostic;Chaque application a un responsable côté métier;regle de l art;non;19 fiches sans responsable;non
 9;diagnostic;Chaque note renvoie à une pièce;regle de l art;oui;Registre des pièces;non
 10;diagnostic;La dépense de cinq exercices est reconstituée;regle de l art;oui;Tableau 9.5;non
 11;diagnostic;Le total de la dépense égale la somme par nature;coherence;oui;2 418 + 682 = 3 100;non
-12;diagnostic;Le rapport est approuvé par le comité de pilotage;regle de l art;oui;Procès-verbal du 19 mars;non
+12;diagnostic;Le rapport est approuvé par le comité de pilotage;regle de l art;oui;Procès-verbal du 21 mars;non
 13;cible;Chaque capacité se rattache à un objectif du plan stratégique;engagement;oui;Tableau 10.1;oui
 14;cible;Chaque objectif est servi par une capacité et par un projet au moins;engagement;oui;Table de correspondance;oui
-15;cible;Les principes directeurs sont approuvés avec leurs conséquences;norme;oui;Procès-verbal du 9 avril;non
+15;cible;Les principes directeurs sont approuvés avec leurs conséquences;norme;oui;Procès-verbal du 11 avril;non
 16;cible;L'architecture est décrite par des vues adaptées aux lecteurs;norme;oui;Quatre plans;non
 17;cible;Toutes les applications de l'inventaire sont situées sur le plan fonctionnel;coherence;oui;47 sur 47;non
 18;cible;Deux scénarios éligibles ont été comparés sur des critères fixés d'avance;regle de l art;oui;Tableau 10.6;non
@@ -36,7 +36,7 @@ numero;domaine;exigence;source;cote;piece;alignement
 35;pilotage;Le tableau de bord contient un indicateur de résultat du plan stratégique;engagement;oui;Paiements à date;oui
 36;pilotage;Une procédure traite les demandes hors portefeuille;regle de l art;oui;Section 8;non
 37;pilotage;La révision annuelle précède la préparation du budget;regle de l art;nek;Calendrier non arrêté. Preuve;oui
-38;maîtrise des risques;Un registre des risques existe avec des propriétaires;norme;oui;Registre du 11 juin;non
+38;maîtrise des risques;Un registre des risques existe avec des propriétaires;norme;oui;Registre du 13 juin;non
 39;maîtrise des risques;Le secours est dimensionné par un bilan d'impact sur l'activité;norme;oui;Tableau 14.2;non
 40;maîtrise des risques;L'audit de sécurité obligatoire est programmé;texte;oui;Projet obligatoire n° 2;non
 41;maîtrise des risques;Les traitements de données personnelles sont recensés et leurs formalités programmées;texte;oui;Projet obligatoire n° 3;non

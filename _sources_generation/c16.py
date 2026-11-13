@@ -10,8 +10,8 @@ différentes.
     ["À l'échéance", "A-t-il produit ce qu'il promettait~?", "Mesures de départ et d'arrivée des bénéfices, comptes"]],
     "Les trois audits d'un schéma directeur", "16.1") + r"""
 
-Le prologue a pratiqué le troisième sur le document de 2021. Les chapitres de méthode ont pratiqué le premier
-sur chaque livrable de 2027. Ce chapitre donne la méthode complète.
+Le prologue a pratiqué le troisième sur le document de 2019. Les chapitres de méthode ont pratiqué le premier
+sur chaque livrable de 2025. Ce chapitre donne la méthode complète.
 
 """ + sec("L'Objet, le Critère, la Preuve", "sec:c16-objet") + r"""
 L'Auditologie, que l'auteur développe dans un autre ouvrage~\cite{minka2026auditologie}, pose qu'un audit
@@ -72,8 +72,8 @@ moyennement conforme. Le même $\mu$ avec un $U$ de 0,35 décrit un objet mal co
 médiocre. La conclusion n'est pas la même. Dans le second cas, la première recommandation est d'obtenir les
 pièces.
 
-\begin{boxscenario}{Audit du schéma directeur 2027-2031 de l'ANPP avant approbation, 18 juin 2027}
-Le directeur général demande à l'auditeur interne de l'Agence un avis avant le conseil du 24~juin. L'auditeur
+\begin{boxscenario}{Audit du schéma directeur 2025-2029 de l'ANPP avant approbation, 20 juin 2025}
+Le directeur général demande à l'auditeur interne de l'Agence un avis avant le conseil du 26~juin. L'auditeur
 applique les 48~exigences de l'Annexe~D. Il obtient 37~\OUI{}, 7~\NON{} et 4~\NEK{}.
 
 \[ \mu = \frac{37}{48} = 0{,}771 \qquad U = \frac{4}{48} = 0{,}083 \]
@@ -99,7 +99,7 @@ Une moyenne cache les écarts. La lecture se fait donc aussi par domaine.
     ["Ensemble", "48", "37", "7", "4", "0,77"]],
     "Les résultats de l'audit par domaine", "16.3") + r"""
 
-Le chiffrage est le point faible. C'est aussi là que le document de 2021 avait failli. L'avis de l'auditeur
+Le chiffrage est le point faible. C'est aussi là que le document de 2019 avait failli. L'avis de l'auditeur
 tient en trois phrases~: le document peut être soumis au conseil, sous réserve que le total des fiches et celui du plan
 de financement soient mis en accord et que le conseil soit informé de la hausse du fonctionnement. Les quatre pièces manquantes
 doivent être produites avant la première revue.
@@ -122,9 +122,9 @@ d'information à la stratégie.
     ["Chaque bénéfice a un propriétaire et une mesure de départ", "\\NON{}", "Deux bénéfices sans mesure"],
     ["Le tableau de bord contient un indicateur de résultat métier", "\\OUI{}", "Tableau de bord"],
     ["La révision annuelle précède la préparation du budget", "\\NEK{}", "Calendrier non arrêté"]],
-    "L'indice d'alignement prouvé de l'ANPP, juin 2027", "16.4") + r"""
+    "L'indice d'alignement prouvé de l'ANPP, juin 2025", "16.4") + r"""
 
-Six \OUI{} sur huit~: l'indice vaut 0,75. Appliquée au document de 2021, la même grille donnait un \OUI{} sur
+Six \OUI{} sur huit~: l'indice vaut 0,75. Appliquée au document de 2019, la même grille donnait un \OUI{} sur
 huit, soit 0,125. La mesure ne dit pas que le système d'information de l'ANPP est aligné. Elle dit que le
 dispositif qui doit produire l'alignement existe et qu'il est prouvé.
 
@@ -172,13 +172,13 @@ Le cours ouvre plus de questions qu'il n'en ferme. Quatre d'entre elles peuvent 
           sur des outils non recensés~? Seize applications sur 47 à l'ANPP est un cas, non une statistique.
 \end{enumerate}
 
-""" + lecture("L'audit du 18 juin 2027 jugé selon sa propre méthode", [
-    ("L'objet et la date sont délimités", "O", "Version du 11 juin 2027"),
-    ("Le référentiel a été arrêté avant l'examen des pièces", "O", "Courriel du 2 juin"),
+""" + lecture("L'audit du 20 juin 2025 jugé selon sa propre méthode", [
+    ("L'objet et la date sont délimités", "O", "Version du 13 juin 2025"),
+    ("Le référentiel a été arrêté avant l'examen des pièces", "O", "Courriel du 4 juin"),
     ("Chaque cote renvoie à une pièce", "O", "Table des cotes"),
     ("Les mesures sont données par domaine", "O", "Tableau 16.3"),
     ("Les NEK sont publiés avec la pièce attendue", "O", "Section 4 du rapport"),
-    ("Les faits ont été validés par l'audité", "O", "Réunion du 17 juin"),
+    ("Les faits ont été validés par l'audité", "O", "Réunion du 19 juin"),
     ("L'auditeur est indépendant de l'objet audité", "N", "Il a siégé au groupe de travail finances"),
     ("L'avis distingue les réserves des recommandations", "O", "Section 5")],
     r"""Sept \OUI{} sur huit. Le \NON{} est sérieux. L'auditeur interne a participé au groupe de travail dont il
@@ -192,7 +192,7 @@ chapitre("partie6/P06_C16_auditer.tex", 16, "Auditer un Schéma Directeur, Mesur
  ["Distinguer les trois moments d'audit d'un schéma directeur.", "Écrire une exigence vérifiable par une pièce.", "Coter OUI, NON ou NEK et qualifier un NEK.",
   "Calculer et lire ensemble $\\mu$, $U$ et $H$.", "Lire des résultats par domaine.", "Calculer un indice d'alignement prouvé.", "Structurer un rapport d'audit."],
  "« donnez-moi une note sur vingt »", r"""
-Yaoundé, vendredi 18~juin~2027. Six jours avant le conseil d'administration. M.~TCHUENTE, son président, reçoit
+Yaoundé, vendredi 20~juin~2025. Six jours avant le conseil d'administration. M.~TCHUENTE, son président, reçoit
 l'auditeur interne. Il a lu la synthèse de quatre pages. Il veut savoir si le document est bon. « Donnez-moi une
 note sur vingt. »
 
@@ -222,6 +222,6 @@ pu être établi. Les fondre en un nombre détruit la troisième.
   ("Réécrire", 2, "Réécrivez chaque exigence pour qu'une pièce puisse la vérifier~: « la gouvernance est efficace », « les utilisateurs sont impliqués », « le budget est réaliste », « la sécurité est prise en compte »."),
   ("Deux objets", 2, "Deux schémas directeurs obtiennent $\\mu = 0{,}60$. Le premier a $U = 0{,}05$, le second $U = 0{,}35$. Rédigez pour chacun l'avis en trois phrases."),
   ("Vérifier le tableau", 2, "Recalculez le $\\mu$ de chaque domaine du Tableau~16.3 et l'entropie de l'ensemble. Quel domaine a l'entropie la plus forte~? Qu'est-ce que cela signifie~?"),
-  ("L'audit à l'échéance", 3, "Nous sommes en 2032. Concevez l'audit à l'échéance du schéma directeur 2027-2031 de l'ANPP~: douze exigences, les pièces à demander, les mesures de départ dont vous aurez besoin et que vous devez donc faire conserver dès 2027.")],
+  ("L'audit à l'échéance", 3, "Nous sommes en 2030. Concevez l'audit à l'échéance du schéma directeur 2025-2029 de l'ANPP~: douze exigences, les pièces à demander, les mesures de départ dont vous aurez besoin et que vous devez donc faire conserver dès 2025.")],
  ["Minka, \\textit{Auditologie}~\\cite{minka2026auditologie}.", "Luftman~\\cite{luftman2000}.", "Henderson et Venkatraman~\\cite{henderson1993}.", "Shannon~\\cite{shannon1948}."],
  "Le cours s'achève où il a commencé~: devant un document de schéma directeur, avec une grille et des pièces. Les annexes rassemblent les outils~: glossaire, modèles, textes, référentiel d'exigences.")

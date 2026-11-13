@@ -30,7 +30,7 @@ vérifie seulement que le mot n'est pas employé par commodité.
 
 L'ANPP en compte cinq~: le site de secours et le plan de continuité, l'audit de sécurité, la mise en conformité
 à la loi sur les données personnelles, le remplacement des onduleurs, la sortie d'un système dont l'éditeur
-cesse la maintenance en 2028. Ils pèsent 1~150~millions.
+cesse la maintenance en 2026. Ils pèsent 1~150~millions.
 
 Les 35~autres se notent. La note de valeur, sur 100, reprend les critères du choix de scénario. Le rapport de
 la valeur au coût donne un rang.
@@ -72,7 +72,7 @@ risque.
     ["Total retenu", "22", "4 180"]],
     "Le portefeuille retenu par l'ANPP", "11.3") + r"""
 
-Vingt-deux projets sont retenus pour 4~180~millions. Sur les dix-huit autres, onze sont différés après 2031
+Vingt-deux projets sont retenus pour 4~180~millions. Sur les dix-huit autres, onze sont différés après 2029
 avec leur fiche conservée, sept sont rejetés. La liste des projets écartés figure au schéma directeur avec le
 motif. Elle évite que les mêmes demandes reviennent chaque année par une autre porte.
 
@@ -85,7 +85,7 @@ passation.
 
 La refonte de la production est découpée en trois lots. Chaque lot livre un résultat utilisable seul.
 
-""" + tab("L{4.2cm}ccccc", ["Projet ou lot", "2027", "2028", "2029", "2030", "2031"], [
+""" + tab("L{4.2cm}ccccc", ["Projet ou lot", "2025", "2026", "2027", "2028", "2029"], [
     ["Onduleurs, audit de sécurité", "X", "", "", "", ""],
     ["Site de secours, continuité", "X", "X", "", "", ""],
     ["Référentiel des bénéficiaires", "X", "X", "", "", ""],
@@ -95,7 +95,7 @@ La refonte de la production est découpée en trois lots. Chaque lot livre un r�
     ["Guichet unique", "", "X", "X", "", ""],
     ["Comptabilité analytique", "", "", "X", "X", ""],
     ["Retrait de neuf applications", "X", "X", "", "", ""]],
-    "La trajectoire 2027-2031 (extrait)", "11.4") + r"""
+    "La trajectoire 2025-2029 (extrait)", "11.4") + r"""
 
 \begin{boxdef}
 \textbf{Trajectoire.} Ordre daté des projets retenus, avec pour chaque année ce qui démarre, ce qui est livré
@@ -110,17 +110,17 @@ et sera livré en six mois. Le retrait de neuf applications ne coûte presque ri
 contrats.
 
 Ces résultats rapides ne doivent pas contredire la cible. Un tableau de bord branché sur l'application de 2004
-sera rebranché en 2029. Le coût de ce rebranchement est écrit dans la fiche.
+sera rebranché en 2027. Le coût de ce rebranchement est écrit dans la fiche.
 
 """ + sec("Les Paiements par Année", "sec:c11-annees") + r"""
 La trajectoire donne un profil de dépense. Il se compare à ce que l'organisation peut payer chaque année.
 
-""" + tab("L{3.4cm}rrrrrr", ["", "2027", "2028", "2029", "2030", "2031", "Total"], [
+""" + tab("L{3.4cm}rrrrrr", ["", "2025", "2026", "2027", "2028", "2029", "Total"], [
     ["Paiements (millions)", "380", "1 050", "1 180", "940", "630", "4 180"],
     ["Projets en cours", "5", "6", "6", "5", "4", ""]],
     "Le profil de dépense de la trajectoire", "11.5") + r"""
 
-L'année 2027 est faible. Les marchés ne seront notifiés qu'au second semestre. Le pic de 2029 dépasse d'un
+L'année 2025 est faible. Les marchés ne seront notifiés qu'au second semestre. Le pic de 2027 dépasse d'un
 facteur huit la moyenne annuelle des projets de la période passée, qui était de 136~millions. La trajectoire
 n'est donc crédible que si le financement change d'échelle. C'est la question du chapitre suivant.
 
@@ -138,7 +138,7 @@ n'est donc crédible que si le financement change d'échelle. C'est la question 
 \end{enumerate}
 \end{boxprocedure}
 
-""" + lecture("Le portefeuille de l'ANPP, 21 mai 2027", [
+""" + lecture("Le portefeuille de l'ANPP, 23 mai 2025", [
     ("Chaque projet retenu a une fiche complète", "O", "22 fiches"),
     ("Chaque projet a un responsable côté métier", "O", "Rubrique renseignée sur 22 fiches"),
     ("Chaque projet obligatoire cite sa référence", "O", "Cinq références"),
@@ -150,7 +150,7 @@ n'est donc crédible que si le financement change d'échelle. C'est la question 
     ("Le coût après mise en service est chiffré", "N", "Neuf fiches sans coût annuel"),
     ("Une provision pour aléas est prévue", "N", "Marge de 20 millions seulement")],
     r"""Sept \OUI{} sur dix. Les trois \NON{} vont dans le même sens~: le portefeuille est bien choisi et mal
-bordé. Sans coût annuel, le fonctionnement de 2031 est inconnu. Avec 20~millions de marge sur 4,2~milliards, le
+bordé. Sans coût annuel, le fonctionnement de 2029 est inconnu. Avec 20~millions de marge sur 4,2~milliards, le
 premier dépassement oblige à retirer un projet. Le comité de pilotage a approuvé le portefeuille sous réserve
 que la phase de chiffrage lève ces trois points.""") + r"""
 """
@@ -160,7 +160,7 @@ chapitre("partie4/P04_C11_portefeuille.tex", 11, "Portefeuille et Trajectoire", 
  ["Rédiger une fiche de projet.", "Distinguer un projet obligatoire d'un projet arbitrable.", "Classer des projets par valeur rapportée au coût et corriger le classement.",
   "Vérifier l'équilibre d'un portefeuille.", "Ordonner des projets selon trois contraintes.", "Tracer un profil annuel de dépense."],
  "« quarante projets, tous prioritaires »", r"""
-Yaoundé, lundi 26~avril~2027. Les groupes de travail remettent leurs fiches. Il y en a quarante. Chaque
+Yaoundé, lundi 28~avril~2025. Les groupes de travail remettent leurs fiches. Il y en a quarante. Chaque
 direction a écrit « priorité~1 » en tête des siennes. Le total fait 6,8~milliards. M.~OWONA a dit 4,2.
 
 Le directeur des prestations propose de tout garder et d'étaler sur huit ans. M.~ABDOULAYE propose de réduire
@@ -186,6 +186,6 @@ coûte son budget et ne livre pas son résultat.
  [("Classer", 1, "Calculez la valeur par million des projets suivants et classez-les~: valeur 80 pour 400~millions, valeur 45 pour 90, valeur 35 pour 50, valeur 65 pour 260. Appliquez ensuite le seuil de valeur de 40."),
   ("L'enveloppe", 2, "Avec les six projets du Tableau~11.2 et une enveloppe de 600~millions, composez le meilleur portefeuille sachant que P12 dépend de P07. Donnez le total de valeur obtenu et comparez-le à celui d'un choix par ratio seul."),
   ("Obligatoire ou non", 2, "Dites si chaque projet de l'ANPP peut être qualifié d'obligatoire et sur quelle référence~: le plan de continuité, le renouvellement des postes de travail, l'audit de sécurité, la refonte du site d'information, le registre des traitements de données personnelles."),
-  ("La trajectoire contrainte", 3, "Le marché du site de secours est déclaré infructueux en 2027 et relancé. Il glisse d'un an. Reprenez le Tableau~11.4, déterminez les projets qui glissent avec lui et ceux qui peuvent avancer. Proposez une trajectoire révisée qui tient dans six projets simultanés.")],
+  ("La trajectoire contrainte", 3, "Le marché du site de secours est déclaré infructueux en 2025 et relancé. Il glisse d'un an. Reprenez le Tableau~11.4, déterminez les projets qui glissent avec lui et ceux qui peuvent avancer. Proposez une trajectoire révisée qui tient dans six projets simultanés.")],
  ["ISO~21504~\\cite{iso21504}.", "McFarlan sur le portefeuille d'applications~\\cite{mcfarlan1984}.", "Weill et Ross sur les décisions d'investissement~\\cite{weillross2004}."],
  "Le portefeuille est choisi et ordonné. Il reste à le chiffrer complètement, à le financer, à l'acheter et à trouver les personnes. C'est l'objet du Chapitre~\\ref{chap:financer}.")

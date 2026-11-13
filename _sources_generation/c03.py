@@ -68,8 +68,8 @@ Jerry Luftman propose en 2000 une mesure de la maturité de l'alignement sur six
 niveaux~\cite{luftman2000}~: communication, mesure de la valeur, gouvernance, partenariat, périmètre et
 architecture, compétences. Le cours l'emploie sous forme d'exigences cotées, pour rester dans sa convention.
 
-""" + lecture("L'alignement à l'ANPP, 9 février 2027", [
-    ("Communication~: la division informatique participe aux réunions de direction", "N", "Feuilles de présence 2026"),
+""" + lecture("L'alignement à l'ANPP, 11 février 2025", [
+    ("Communication~: la division informatique participe aux réunions de direction", "N", "Feuilles de présence 2024"),
     ("Communication~: les métiers connaissent les projets en cours", "N", "Entretiens, 14 sur 18"),
     ("Valeur~: chaque projet a un bénéfice attendu écrit", "N", "Fiches de projet"),
     ("Valeur~: un bilan est fait après la mise en service", "N", "Aucun bilan"),
@@ -77,7 +77,7 @@ architecture, compétences. Le cours l'emploie sous forme d'exigences cotées, p
     ("Gouvernance~: le budget suit les priorités arbitrées", "K", "Clé de répartition non documentée"),
     ("Partenariat~: chaque projet a un responsable métier", "O", "Notes de désignation, 9 sur 11"),
     ("Architecture~: une cartographie applicative est tenue", "N", "Aucune"),
-    ("Compétences~: un plan de formation existe", "O", "Plan 2026"),
+    ("Compétences~: un plan de formation existe", "O", "Plan 2024"),
     ("Compétences~: les postes clés ont un suppléant", "K", "Organigramme incomplet")],
     r"""L'alignement n'est pas établi~: $\mu = 0{,}20$. Six écarts touchent la communication, la valeur, la
 gouvernance et l'architecture. Les deux \NEK{} sont de preuve et se lèveront pendant le diagnostic. Le point
@@ -141,9 +141,9 @@ chapitre("partie1/P01_C03_alignement_valeur.tex", 3, "L'Alignement et la Valeur"
   "Classer un portefeuille applicatif dans la grille de McFarlan.", "Décrire le modèle d'alignement stratégique et ses quatre perspectives.",
   "Coter la maturité de l'alignement.", "Discuter le paradoxe de la productivité et la thèse de Carr."],
  "« l'informatique ne suit pas »", r"""
-Yaoundé, lundi 8~février~2027. Le directeur des prestations de l'ANPP résume son avis en une phrase~: « L'informatique
+Yaoundé, lundi 10~février~2025. Le directeur des prestations de l'ANPP résume son avis en une phrase~: « L'informatique
 ne suit pas. » Il attend depuis deux ans un état quotidien des paiements. Mme~NGO~BIYONG répond qu'elle n'a
-jamais reçu cette demande par écrit et qu'elle a appris par hasard la réforme des prestations de 2025.
+jamais reçu cette demande par écrit et qu'elle a appris par hasard la réforme des prestations de 2023.
 
 Chacun a raison. La division informatique n'assiste pas aux réunions de direction. Les métiers ne savent pas quels
 projets sont en cours. Personne n'arbitre. Mme~EKANI note que le problème n'est pas technique. Il porte un nom

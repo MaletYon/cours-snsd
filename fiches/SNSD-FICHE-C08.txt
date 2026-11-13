@@ -36,7 +36,7 @@ Questions à choix multiple (une seule bonne réponse)
 
  5. Quel fait déclenche la démarche à l'ANPP ?
       a) Un changement de directeur
-      b) Le document de 2021 échu et la panne de mars 2026
+      b) Le document de 2019 échu et la panne de mars 2024
       c) Une fusion
       d) Un contrôle fiscal
 
@@ -180,7 +180,7 @@ Textes à trous
 
 36. Les trois ambitions sont remettre à niveau, ______ et transformer.
 
-37. L'horizon retenu par l'ANPP est 2027-______.
+37. L'horizon retenu par l'ANPP est 2025-______.
 
 38. Les trois instances sont le comité de pilotage, l'équipe projet et les groupes de ______.
 
